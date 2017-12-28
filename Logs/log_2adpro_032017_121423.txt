@@ -1,0 +1,90 @@
+2017-03-20 12:14:23,607 INFO  [AppLogger] Executing testcase on OS:-windows 7 
+2017-03-20 12:14:23,607 INFO  [AppLogger] Current host name :-ADPRO-001735 
+2017-03-20 12:14:23,607 INFO  [AppLogger] Current IP address :-192.168.0.148 
+2017-03-20 12:14:23,607 INFO  [AppLogger] Operating system type :-amd64 
+2017-03-20 12:14:23,607 INFO  [AppLogger] Operating system version :-6.1 
+2017-03-20 12:14:23,607 INFO  [AppLogger] Operating system Info :-Intel64 Family 6 Model 58 Stepping 9, GenuineIntel 
+2017-03-20 12:14:26,180 INFO  [AppLogger] chromeBrowser Opened 
+2017-03-20 12:14:51,429 INFO  [AppLogger] Page Opened for the url https://jd1-qc.2adpro.com/index/login 
+2017-03-20 12:14:53,633 INFO  [AppLogger] Send Keys Operation started on username 
+2017-03-20 12:14:53,643 INFO  [AppLogger] Find Element Stareted on- username 
+2017-03-20 12:14:53,727 INFO  [AppLogger] Send Keys Operation started on password 
+2017-03-20 12:14:53,729 INFO  [AppLogger] Find Element Stareted on- password 
+2017-03-20 12:14:53,813 INFO  [AppLogger] Click Operation started on :login_submit 
+2017-03-20 12:14:53,817 INFO  [AppLogger] Find Element Stareted on- login_submit 
+2017-03-20 12:15:31,250 INFO  [AppLogger] Waiting for page and its elements to be loaded completely 
+2017-03-20 12:15:31,287 INFO  [AppLogger] Started validating page title 
+2017-03-20 12:15:31,388 INFO  [AppLogger] ###################################### 
+2017-03-20 12:15:31,388 INFO  [AppLogger] FC001 Status :: pass 
+2017-03-20 12:15:31,388 INFO  [AppLogger] ###################################### 
+2017-03-20 12:15:32,698 INFO  [AppLogger] Click Operation started on ://div[@class='header']/div[3]/ul/li[@class='hdr_analytics'] 
+2017-03-20 12:15:32,703 INFO  [AppLogger] Find Element Stareted on- //div[@class='header']/div[3]/ul/li[@class='hdr_analytics'] 
+2017-03-20 12:15:32,781 INFO  [AppLogger] thread starts  
+2017-03-20 12:15:34,796 INFO  [AppLogger] Click Operation started on :.//*[@id='ad_detail'] 
+2017-03-20 12:15:34,796 INFO  [AppLogger] Find Element Stareted on- .//*[@id='ad_detail'] 
+2017-03-20 12:15:34,864 INFO  [AppLogger] thread starts  
+2017-03-20 12:15:36,888 INFO  [AppLogger] thread starts  
+2017-03-20 12:15:38,888 INFO  [AppLogger] Click Operation started on :.//*[@id='ad_detail_form']/div[1]/div/div[2]/div[1] 
+2017-03-20 12:15:38,888 INFO  [AppLogger] Find Element Stareted on- .//*[@id='ad_detail_form']/div[1]/div/div[2]/div[1] 
+2017-03-20 12:15:38,994 INFO  [AppLogger] thread starts  
+2017-03-20 12:15:41,019 INFO  [AppLogger] Click Operation started on :.//*[@id='Site']/option[2] 
+2017-03-20 12:15:41,019 INFO  [AppLogger] Find Element Stareted on- .//*[@id='Site']/option[2] 
+2017-03-20 12:15:41,084 INFO  [AppLogger] Click Operation started on :.//*[@id='ad_detail_form']/div[11]/div/div[2]/div[1] 
+2017-03-20 12:15:41,085 INFO  [AppLogger] Find Element Stareted on- .//*[@id='ad_detail_form']/div[11]/div/div[2]/div[1] 
+2017-03-20 12:15:41,141 INFO  [AppLogger] thread starts  
+2017-03-20 12:15:43,163 INFO  [AppLogger] Click Operation started on :.//*[@id='ad_detail_form']/div[11]/div/div[2]/div[2]/div/div/select/option[2] 
+2017-03-20 12:15:43,163 INFO  [AppLogger] Find Element Stareted on- .//*[@id='ad_detail_form']/div[11]/div/div[2]/div[2]/div/div/select/option[2] 
+2017-03-20 12:15:43,230 INFO  [AppLogger] Click Operation started on :FROM_DATE 
+2017-03-20 12:15:43,230 INFO  [AppLogger] Find Element Stareted on- FROM_DATE 
+2017-03-20 12:15:43,302 INFO  [AppLogger] thread starts  
+2017-03-20 12:15:45,326 INFO  [AppLogger] Click Operation started on :.//*[@id='ui-datepicker-div']/table/tbody/tr[4]/td[2]/a 
+2017-03-20 12:15:45,326 INFO  [AppLogger] Find Element Stareted on- .//*[@id='ui-datepicker-div']/table/tbody/tr[4]/td[2]/a 
+2017-03-20 12:15:45,419 INFO  [AppLogger] Click Operation started on :TO_DATE 
+2017-03-20 12:15:45,419 INFO  [AppLogger] Find Element Stareted on- TO_DATE 
+2017-03-20 12:15:45,490 INFO  [AppLogger] Click Operation started on :.//*[@id='ui-datepicker-div']/table/tbody/tr[4]/td[2]/a 
+2017-03-20 12:15:45,490 INFO  [AppLogger] Find Element Stareted on- .//*[@id='ui-datepicker-div']/table/tbody/tr[4]/td[2]/a 
+2017-03-20 12:15:45,548 INFO  [AppLogger] Click Operation started on :.//*[@id='export']/span 
+2017-03-20 12:15:45,550 INFO  [AppLogger] Find Element Stareted on- .//*[@id='export']/span 
+2017-03-20 12:15:46,614 INFO  [AppLogger] thread starts  
+2017-03-20 12:15:48,618 INFO  [AppLogger] Click Operation started on :html/body/div[19]/div[1]/div[3]/ul/li[2]/a 
+2017-03-20 12:15:48,620 INFO  [AppLogger] Find Element Stareted on- html/body/div[19]/div[1]/div[3]/ul/li[2]/a 
+2017-03-20 12:15:48,734 INFO  [AppLogger] thread starts  
+2017-03-20 12:15:50,757 INFO  [AppLogger] Click Operation started on :monthly_dashboard 
+2017-03-20 12:15:50,757 INFO  [AppLogger] Find Element Stareted on- monthly_dashboard 
+2017-03-20 12:15:50,874 INFO  [AppLogger] Click Operation started on :.//*[@id='monthly_dashboard_form']/div[1]/div/div[2]/div[1] 
+2017-03-20 12:15:50,878 INFO  [AppLogger] Find Element Stareted on- .//*[@id='monthly_dashboard_form']/div[1]/div/div[2]/div[1] 
+2017-03-20 12:15:53,099 INFO  [AppLogger] thread starts  
+2017-03-20 12:15:55,125 INFO  [AppLogger] Click Operation started on :.//*[@id='Site']/option[2] 
+2017-03-20 12:15:55,125 INFO  [AppLogger] Find Element Stareted on- .//*[@id='Site']/option[2] 
+2017-03-20 12:15:55,211 INFO  [AppLogger] Click Operation started on :.//*[@id='monthly_dashboard_form']/div[3]/div/div[2]/div[1] 
+2017-03-20 12:15:55,212 INFO  [AppLogger] Find Element Stareted on- .//*[@id='monthly_dashboard_form']/div[3]/div/div[2]/div[1] 
+2017-03-20 12:15:55,283 INFO  [AppLogger] thread starts  
+2017-03-20 12:15:57,307 INFO  [AppLogger] Click Operation started on :.//*[@id='month']/option[4] 
+2017-03-20 12:15:57,307 INFO  [AppLogger] Find Element Stareted on- .//*[@id='month']/option[4] 
+2017-03-20 12:15:57,429 INFO  [AppLogger] Click Operation started on :.//*[@id='report_submit']/span 
+2017-03-20 12:15:57,429 INFO  [AppLogger] Find Element Stareted on- .//*[@id='report_submit']/span 
+2017-03-20 12:15:57,500 INFO  [AppLogger] thread starts  
+2017-03-20 12:15:59,513 INFO  [AppLogger] Click Operation started on :html/body/div[19]/div[1]/div[3]/ul/li[2]/a 
+2017-03-20 12:15:59,523 INFO  [AppLogger] Find Element Stareted on- html/body/div[19]/div[1]/div[3]/ul/li[2]/a 
+2017-03-20 12:15:59,600 INFO  [AppLogger] thread starts  
+2017-03-20 12:16:01,603 INFO  [AppLogger] Click Operation started on :.//*[@id='weekly_dashboard']/span 
+2017-03-20 12:16:01,606 INFO  [AppLogger] Find Element Stareted on- .//*[@id='weekly_dashboard']/span 
+2017-03-20 12:16:02,239 INFO  [AppLogger] Click Operation started on :.//*[@id='weekly_dashboard_form']/div[1]/div/div[2]/div[1] 
+2017-03-20 12:16:02,242 INFO  [AppLogger] Find Element Stareted on- .//*[@id='weekly_dashboard_form']/div[1]/div/div[2]/div[1] 
+2017-03-20 12:16:04,463 INFO  [AppLogger] Click Operation started on :.//*[@id='Site']/option[2] 
+2017-03-20 12:16:04,466 INFO  [AppLogger] Find Element Stareted on- .//*[@id='Site']/option[2] 
+2017-03-20 12:16:04,531 INFO  [AppLogger] Click Operation started on :FROM_DATE 
+2017-03-20 12:16:04,533 INFO  [AppLogger] Find Element Stareted on- FROM_DATE 
+2017-03-20 12:16:04,625 INFO  [AppLogger] thread starts  
+2017-03-20 12:16:06,645 INFO  [AppLogger] Click Operation started on :.//*[@id='ui-datepicker-div']/table/tbody/tr[4]/td[2]/a 
+2017-03-20 12:16:06,645 INFO  [AppLogger] Find Element Stareted on- .//*[@id='ui-datepicker-div']/table/tbody/tr[4]/td[2]/a 
+2017-03-20 12:16:06,738 INFO  [AppLogger] thread starts  
+2017-03-20 12:16:08,747 INFO  [AppLogger] Click Operation started on :TO_DATE 
+2017-03-20 12:16:08,747 INFO  [AppLogger] Find Element Stareted on- TO_DATE 
+2017-03-20 12:16:08,856 INFO  [AppLogger] Click Operation started on :.//*[@id='ui-datepicker-div']/table/tbody/tr[4]/td[2]/a 
+2017-03-20 12:16:08,858 INFO  [AppLogger] Find Element Stareted on- .//*[@id='ui-datepicker-div']/table/tbody/tr[4]/td[2]/a 
+2017-03-20 12:16:08,906 INFO  [AppLogger] Click Operation started on :.//*[@id='export_submit']/span 
+2017-03-20 12:16:08,907 INFO  [AppLogger] Find Element Stareted on- .//*[@id='export_submit']/span 
+2017-03-20 12:16:09,021 INFO  [AppLogger] ###################################### 
+2017-03-20 12:16:09,021 INFO  [AppLogger] FC009 Status :: pass 
+2017-03-20 12:16:09,021 INFO  [AppLogger] ###################################### 

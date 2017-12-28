@@ -1,0 +1,8 @@
+2017-04-10 18:32:15,619 INFO  [AppLogger] Executing testcase on OS:-windows 7 
+2017-04-10 18:32:15,619 INFO  [AppLogger] Current host name :-ADPRO-001735 
+2017-04-10 18:32:15,619 INFO  [AppLogger] Current IP address :-192.168.0.163 
+2017-04-10 18:32:15,619 INFO  [AppLogger] Operating system type :-amd64 
+2017-04-10 18:32:15,619 INFO  [AppLogger] Operating system version :-6.1 
+2017-04-10 18:32:15,619 INFO  [AppLogger] Operating system Info :-Intel64 Family 6 Model 58 Stepping 9, GenuineIntel 
+2017-04-10 18:32:18,431 INFO  [AppLogger] chromeBrowser Opened 
+2017-04-10 18:32:23,603 INFO  [AppLogger] Page Opened for the url https://qc-unipaper.2adpro.com/index/login 

@@ -1,0 +1,61 @@
+2017-12-11 14:59:58,433 INFO  [AppLogger] Executing testcase on OS:-windows 7 
+2017-12-11 14:59:58,433 INFO  [AppLogger] Current host name :-ADPRO-001734 
+2017-12-11 14:59:58,434 INFO  [AppLogger] Current IP address :-192.168.0.165 
+2017-12-11 14:59:58,434 INFO  [AppLogger] Operating system type :-amd64 
+2017-12-11 14:59:58,434 INFO  [AppLogger] Operating system version :-6.1 
+2017-12-11 14:59:58,434 INFO  [AppLogger] Operating system Info :-Intel64 Family 6 Model 58 Stepping 9, GenuineIntel 
+2017-12-11 15:00:08,965 INFO  [AppLogger] firefoxBrowser Opened 
+2017-12-11 15:00:14,465 INFO  [AppLogger] Page Opened for the url https://jdtraffic-qc.2adpro.com 
+2017-12-11 15:00:16,886 INFO  [AppLogger] Send Keys Operation started on username 
+2017-12-11 15:00:16,892 INFO  [AppLogger] Find Element Stareted on- username 
+2017-12-11 15:00:17,092 INFO  [AppLogger] Send Keys Operation started on .//*[@id='loginform']/input[2] 
+2017-12-11 15:00:17,097 INFO  [AppLogger] Find Element Stareted on- .//*[@id='loginform']/input[2] 
+2017-12-11 15:00:17,813 INFO  [AppLogger] Click Operation started on :login_submit 
+2017-12-11 15:00:17,817 INFO  [AppLogger] Find Element Stareted on- login_submit 
+2017-12-11 15:00:28,853 INFO  [AppLogger] Waiting for page and its elements to be loaded completely 
+2017-12-11 15:00:30,427 INFO  [AppLogger] Started validating page title 
+2017-12-11 15:00:30,462 INFO  [AppLogger] Click Operation started on ://div[@class='navLinks']/a[text()='REPORTS'] 
+2017-12-11 15:00:30,465 INFO  [AppLogger] Find Element Stareted on- //div[@class='navLinks']/a[text()='REPORTS'] 
+2017-12-11 15:00:31,120 INFO  [AppLogger] Waiting for page and its elements to be loaded completely 
+2017-12-11 15:00:32,414 INFO  [AppLogger] checktag presence starts production_report 
+2017-12-11 15:00:32,418 INFO  [AppLogger] Find Element Stareted on- production_report 
+2017-12-11 15:00:32,477 INFO  [AppLogger] Displayed content mathches with your tag input which should not::production_report 
+2017-12-11 15:00:32,531 INFO  [AppLogger] takeScreenShot Stareted on- JDX 
+2017-12-11 15:00:32,889 INFO  [AppLogger] ###################################### 
+2017-12-11 15:00:32,889 INFO  [AppLogger] FC006 Status :: validationfail 
+2017-12-11 15:00:32,889 INFO  [AppLogger] ###################################### 
+2017-12-11 15:00:33,275 INFO  [AppLogger] Waiting for page and its elements to be loaded completely 
+2017-12-11 15:00:33,310 INFO  [AppLogger] validateOrderNumber starts login_submit 
+2017-12-11 15:00:33,313 INFO  [AppLogger] Find Element Stareted on- login_submit 
+2017-12-11 15:00:48,423 INFO  [AppLogger] Exception in Find Element with id:-login_submit 
+2017-12-11 15:01:03,592 INFO  [AppLogger] Error in validateTag for element login_submit
+Unable to locate element: {"method":"id","selector":"login_submit"}
+Command duration or timeout: 15.16 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'ADPRO-001734', ip: '192.168.0.165', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=43.0.1, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: e95e8fb5-8072-4889-bd4d-b84506cf8ed5
+*** Element info: {Using=id, value=login_submit} 
+2017-12-11 15:01:03,885 INFO  [AppLogger] takeScreenShot Stareted on- JDX 
+2017-12-11 15:01:04,304 INFO  [AppLogger] ###################################### 
+2017-12-11 15:01:04,304 INFO  [AppLogger] FC006 Status :: automationfail 
+2017-12-11 15:01:04,304 INFO  [AppLogger] ###################################### 
+2017-12-11 15:01:04,934 INFO  [AppLogger] Send Keys Operation started on username 
+2017-12-11 15:01:04,938 INFO  [AppLogger] Find Element Stareted on- username 
+2017-12-11 15:01:20,053 INFO  [AppLogger] Exception in Find Element with name:-username 
+2017-12-11 15:01:35,146 INFO  [AppLogger] Exception in Send Keys to element: username
+Unable to locate element: {"method":"name","selector":"username"}
+Command duration or timeout: 15.09 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'ADPRO-001734', ip: '192.168.0.165', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=43.0.1, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: e95e8fb5-8072-4889-bd4d-b84506cf8ed5
+*** Element info: {Using=name, value=username} 
+2017-12-11 15:01:35,226 INFO  [AppLogger] takeScreenShot Stareted on- JDX 
+2017-12-11 15:01:35,591 INFO  [AppLogger] ###################################### 
+2017-12-11 15:01:35,591 INFO  [AppLogger] FC006 Status :: automationfail 
+2017-12-11 15:01:35,591 INFO  [AppLogger] ###################################### 

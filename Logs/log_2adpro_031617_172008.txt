@@ -1,0 +1,85 @@
+2017-03-16 17:20:08,486 INFO  [AppLogger] Executing testcase on OS:-windows 7 
+2017-03-16 17:20:08,486 INFO  [AppLogger] Current host name :-ADPRO-001735 
+2017-03-16 17:20:08,486 INFO  [AppLogger] Current IP address :-192.168.0.153 
+2017-03-16 17:20:08,486 INFO  [AppLogger] Operating system type :-amd64 
+2017-03-16 17:20:08,486 INFO  [AppLogger] Operating system version :-6.1 
+2017-03-16 17:20:08,487 INFO  [AppLogger] Operating system Info :-Intel64 Family 6 Model 58 Stepping 9, GenuineIntel 
+2017-03-16 17:20:10,806 INFO  [AppLogger] chromeBrowser Opened 
+2017-03-16 17:20:31,855 INFO  [AppLogger] Page Opened for the url https://jd1-qc.2adpro.com/index/login 
+2017-03-16 17:20:34,015 INFO  [AppLogger] Send Keys Operation started on username 
+2017-03-16 17:20:34,026 INFO  [AppLogger] Find Element Stareted on- username 
+2017-03-16 17:20:34,118 INFO  [AppLogger] Send Keys Operation started on password 
+2017-03-16 17:20:34,121 INFO  [AppLogger] Find Element Stareted on- password 
+2017-03-16 17:20:34,192 INFO  [AppLogger] Click Operation started on :login_submit 
+2017-03-16 17:20:34,194 INFO  [AppLogger] Find Element Stareted on- login_submit 
+2017-03-16 17:21:00,819 INFO  [AppLogger] Waiting for page and its elements to be loaded completely 
+2017-03-16 17:21:00,836 INFO  [AppLogger] Started validating page title 
+2017-03-16 17:21:00,920 INFO  [AppLogger] ###################################### 
+2017-03-16 17:21:00,920 INFO  [AppLogger] FC001 Status :: pass 
+2017-03-16 17:21:00,920 INFO  [AppLogger] ###################################### 
+2017-03-16 17:21:02,228 INFO  [AppLogger] Click Operation started on :.//*[@id='createjob'] 
+2017-03-16 17:21:02,235 INFO  [AppLogger] Find Element Stareted on- .//*[@id='createjob'] 
+2017-03-16 17:21:02,298 INFO  [AppLogger] Click Operation started on :createjob 
+2017-03-16 17:21:02,300 INFO  [AppLogger] Find Element Stareted on- createjob 
+2017-03-16 17:21:02,351 INFO  [AppLogger] thread starts  
+2017-03-16 17:21:04,354 INFO  [AppLogger] thread starts  
+2017-03-16 17:21:06,358 INFO  [AppLogger] Click Operation started on :o-Print 
+2017-03-16 17:21:06,362 INFO  [AppLogger] Find Element Stareted on- o-Print 
+2017-03-16 17:21:06,484 INFO  [AppLogger] thread starts  
+2017-03-16 17:21:08,488 INFO  [AppLogger] thread starts  
+2017-03-16 17:21:10,492 INFO  [AppLogger] Send Keys Operation started on Tracking No 
+2017-03-16 17:21:10,496 INFO  [AppLogger] Find Element Stareted on- Tracking No 
+2017-03-16 17:21:10,603 INFO  [AppLogger] Send Keys Operation started on Package Name 
+2017-03-16 17:21:10,605 INFO  [AppLogger] Find Element Stareted on- Package Name 
+2017-03-16 17:21:10,680 INFO  [AppLogger] Send Keys Operation started on .//*[@id='4'] 
+2017-03-16 17:21:10,682 INFO  [AppLogger] Find Element Stareted on- .//*[@id='4'] 
+2017-03-16 17:21:10,757 INFO  [AppLogger] Send Keys Operation started on Sales Person 
+2017-03-16 17:21:10,759 INFO  [AppLogger] Find Element Stareted on- Sales Person 
+2017-03-16 17:21:10,836 INFO  [AppLogger] Send Keys Operation started on Publication Title 
+2017-03-16 17:21:10,838 INFO  [AppLogger] Find Element Stareted on- Publication Title 
+2017-03-16 17:21:10,917 INFO  [AppLogger] Send Keys Operation started on Edition 
+2017-03-16 17:21:10,918 INFO  [AppLogger] Find Element Stareted on- Edition 
+2017-03-16 17:21:10,988 INFO  [AppLogger] Click Operation started on :.//*[@id='order_info_form']/div[9]/div/div[1]/div[2]/div[2] 
+2017-03-16 17:21:10,990 INFO  [AppLogger] Find Element Stareted on- .//*[@id='order_info_form']/div[9]/div/div[1]/div[2]/div[2] 
+2017-03-16 17:21:11,061 INFO  [AppLogger] thread starts  
+2017-03-16 17:21:13,064 INFO  [AppLogger] Click Operation started on :.//*[@id='7']/option[2] 
+2017-03-16 17:21:13,067 INFO  [AppLogger] Find Element Stareted on- .//*[@id='7']/option[2] 
+2017-03-16 17:21:13,154 INFO  [AppLogger] thread starts  
+2017-03-16 17:21:15,157 INFO  [AppLogger] Click Operation started on :Run Date 
+2017-03-16 17:21:15,159 INFO  [AppLogger] Find Element Stareted on- Run Date 
+2017-03-16 17:21:15,269 INFO  [AppLogger] thread starts  
+2017-03-16 17:21:17,272 INFO  [AppLogger] Click Operation started on ://a[text()='15'] 
+2017-03-16 17:21:17,275 INFO  [AppLogger] Find Element Stareted on- //a[text()='15'] 
+2017-03-16 17:21:32,310 INFO  [AppLogger] Exception in Find Element with xpath:-//a[text()='15'] 
+2017-03-16 17:21:47,360 INFO  [AppLogger] Exception in clicking element: //a[text()='15']
+no such element: Unable to locate element: {"method":"xpath","selector":"//a[text()='15']"}
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 15.05 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'ADPRO-001735', ip: '192.168.0.153', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed), userDataDir=C:\Users\nkesava\AppData\Local\Temp\scoped_dir3280_24990}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=56.0.2924.87, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 300da754e810641b443ce71da459b2b7
+*** Element info: {Using=xpath, value=//a[text()='15']} 
+2017-03-16 17:21:47,389 INFO  [AppLogger] takeScreenShot Stareted on- JD 
+2017-03-16 17:21:47,632 INFO  [AppLogger] ###################################### 
+2017-03-16 17:21:47,632 INFO  [AppLogger] FC002 Status :: automationfail 
+2017-03-16 17:21:47,632 INFO  [AppLogger] ###################################### 
+2017-03-16 17:21:48,947 INFO  [AppLogger] Click Operation started on ://input[@src='/images/go.png'] 
+2017-03-16 17:21:48,948 INFO  [AppLogger] Find Element Stareted on- //input[@src='/images/go.png'] 
+2017-03-16 17:21:48,982 INFO  [AppLogger] Exception in clicking element: //input[@src='/images/go.png']
+element not visible
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 15 milliseconds
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'ADPRO-001735', ip: '192.168.0.153', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed), userDataDir=C:\Users\nkesava\AppData\Local\Temp\scoped_dir3280_24990}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=56.0.2924.87, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 300da754e810641b443ce71da459b2b7 
+2017-03-16 17:21:49,008 INFO  [AppLogger] takeScreenShot Stareted on- JD 
+2017-03-16 17:21:49,154 INFO  [AppLogger] ###################################### 
+2017-03-16 17:21:49,154 INFO  [AppLogger] FC003 Status :: automationfail 
+2017-03-16 17:21:49,154 INFO  [AppLogger] ###################################### 

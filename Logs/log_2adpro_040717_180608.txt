@@ -1,0 +1,38 @@
+2017-04-07 18:06:08,982 INFO  [AppLogger] Executing testcase on OS:-windows 7 
+2017-04-07 18:06:08,982 INFO  [AppLogger] Current host name :-ADPRO-001735 
+2017-04-07 18:06:08,982 INFO  [AppLogger] Current IP address :-192.168.0.206 
+2017-04-07 18:06:08,982 INFO  [AppLogger] Operating system type :-amd64 
+2017-04-07 18:06:08,982 INFO  [AppLogger] Operating system version :-6.1 
+2017-04-07 18:06:08,982 INFO  [AppLogger] Operating system Info :-Intel64 Family 6 Model 58 Stepping 9, GenuineIntel 
+2017-04-07 18:06:13,841 INFO  [AppLogger] firefoxBrowser Opened 
+2017-04-07 18:06:17,681 INFO  [AppLogger] Page Opened for the url https://qc-unipaper.2adpro.com/index/login 
+2017-04-07 18:06:18,852 INFO  [AppLogger] Send Keys Operation started on username 
+2017-04-07 18:06:18,852 INFO  [AppLogger] Find Element Stareted on- username 
+2017-04-07 18:06:18,992 INFO  [AppLogger] Send Keys Operation started on password 
+2017-04-07 18:06:18,992 INFO  [AppLogger] Find Element Stareted on- password 
+2017-04-07 18:06:19,052 INFO  [AppLogger] thread starts  
+2017-04-07 18:06:21,063 INFO  [AppLogger] thread starts  
+2017-04-07 18:06:23,063 INFO  [AppLogger] Click Operation started on :login_submit 
+2017-04-07 18:06:23,073 INFO  [AppLogger] Find Element Stareted on- login_submit 
+2017-04-07 18:06:39,872 INFO  [AppLogger] Waiting for page and its elements to be loaded completely 
+2017-04-07 18:06:39,883 INFO  [AppLogger] Started validating page title 
+2017-04-07 18:06:39,993 INFO  [AppLogger] ###################################### 
+2017-04-07 18:06:39,993 INFO  [AppLogger] FC016 Status :: pass 
+2017-04-07 18:06:39,993 INFO  [AppLogger] ###################################### 
+2017-04-07 18:06:41,314 INFO  [AppLogger] Click Operation started on :Createjob 
+2017-04-07 18:06:41,324 INFO  [AppLogger] Find Element Stareted on- Createjob 
+2017-04-07 18:06:56,356 INFO  [AppLogger] Exception in Find Element with id:-Createjob 
+2017-04-07 18:07:11,408 INFO  [AppLogger] Exception in clicking element: Createjob
+Unable to locate element: {"method":"id","selector":"Createjob"}
+Command duration or timeout: 15.04 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'ADPRO-001735', ip: '192.168.0.206', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=35.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: ef6a7144-781a-4ecd-9367-8829bb8d727d
+*** Element info: {Using=id, value=Createjob} 
+2017-04-07 18:07:11,439 INFO  [AppLogger] takeScreenShot Stareted on- JD 
+2017-04-07 18:07:11,669 INFO  [AppLogger] ###################################### 
+2017-04-07 18:07:11,669 INFO  [AppLogger] FC017 Status :: automationfail 
+2017-04-07 18:07:11,669 INFO  [AppLogger] ###################################### 

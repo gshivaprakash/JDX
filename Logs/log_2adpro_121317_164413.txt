@@ -1,0 +1,27 @@
+2017-12-13 16:44:13,645 INFO  [AppLogger] Executing testcase on OS:-windows 7 
+2017-12-13 16:44:13,646 INFO  [AppLogger] Current host name :-ADPRO-001734 
+2017-12-13 16:44:13,646 INFO  [AppLogger] Current IP address :-192.168.0.165 
+2017-12-13 16:44:13,646 INFO  [AppLogger] Operating system type :-amd64 
+2017-12-13 16:44:13,646 INFO  [AppLogger] Operating system version :-6.1 
+2017-12-13 16:44:13,646 INFO  [AppLogger] Operating system Info :-Intel64 Family 6 Model 58 Stepping 9, GenuineIntel 
+2017-12-13 16:44:26,549 INFO  [AppLogger] firefoxBrowser Opened 
+2017-12-13 16:44:31,360 INFO  [AppLogger] Page Opened for the url https://jdtraffic-qc.2adpro.com 
+2017-12-13 16:44:33,710 INFO  [AppLogger] Send Keys Operation started on username 
+2017-12-13 16:44:33,715 INFO  [AppLogger] Find Element Stareted on- username 
+2017-12-13 16:44:33,917 INFO  [AppLogger] Send Keys Operation started on .//*[@id='loginform']/input[2] 
+2017-12-13 16:44:33,921 INFO  [AppLogger] Find Element Stareted on- .//*[@id='loginform']/input[2] 
+2017-12-13 16:44:34,657 INFO  [AppLogger] Click Operation started on :login_submit 
+2017-12-13 16:44:34,663 INFO  [AppLogger] Find Element Stareted on- login_submit 
+2017-12-13 16:44:45,893 INFO  [AppLogger] Waiting for page and its elements to be loaded completely 
+2017-12-13 16:44:49,282 INFO  [AppLogger] Started validating page title 
+2017-12-13 16:44:49,362 INFO  [AppLogger] ###################################### 
+2017-12-13 16:44:49,362 INFO  [AppLogger] FC002 Status :: pass 
+2017-12-13 16:44:49,363 INFO  [AppLogger] ###################################### 
+2017-12-13 16:44:51,217 INFO  [AppLogger] clickByAction starts .//*[@id='search_list_status']/li[2]/a 
+2017-12-13 16:44:51,235 INFO  [AppLogger] Find Element Stareted on- .//*[@id='search_list_status']/li[2]/a 
+2017-12-13 16:44:52,061 INFO  [AppLogger] Click Operation started on :.//*[@id='search_list_status']/li[2]/ul/li[1]/a 
+2017-12-13 16:44:52,064 INFO  [AppLogger] Find Element Stareted on- .//*[@id='search_list_status']/li[2]/ul/li[1]/a 
+2017-12-13 16:44:54,282 INFO  [AppLogger] thread starts  
+2017-12-13 16:44:56,315 INFO  [AppLogger] ###################################### 
+2017-12-13 16:44:56,315 INFO  [AppLogger] FC014 Status :: pass 
+2017-12-13 16:44:56,315 INFO  [AppLogger] ###################################### 

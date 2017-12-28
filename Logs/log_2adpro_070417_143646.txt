@@ -1,0 +1,39 @@
+2017-07-04 14:36:46,760 INFO  [AppLogger] Executing testcase on OS:-windows 7 
+2017-07-04 14:36:46,760 INFO  [AppLogger] Current host name :-ADPRO-001735 
+2017-07-04 14:36:46,760 INFO  [AppLogger] Current IP address :-192.168.0.182 
+2017-07-04 14:36:46,760 INFO  [AppLogger] Operating system type :-amd64 
+2017-07-04 14:36:46,760 INFO  [AppLogger] Operating system version :-6.1 
+2017-07-04 14:36:46,760 INFO  [AppLogger] Operating system Info :-Intel64 Family 6 Model 58 Stepping 9, GenuineIntel 
+2017-07-04 14:36:53,438 INFO  [AppLogger] firefoxBrowser Opened 
+2017-07-04 14:36:59,414 INFO  [AppLogger] Page Opened for the url https://jdx1.2adpro.com 
+2017-07-04 14:37:00,918 INFO  [AppLogger] Send Keys Operation started on username 
+2017-07-04 14:37:00,922 INFO  [AppLogger] Find Element Stareted on- username 
+2017-07-04 14:37:16,071 INFO  [AppLogger] Exception in Send Keys to element: username
+Element is not currently visible and so may not be interacted with
+Command duration or timeout: 15.03 seconds
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'ADPRO-001735', ip: '192.168.0.182', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=35.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: abdb2db2-03c8-4f83-916e-57d9402d4bf3 
+2017-07-04 14:37:16,219 INFO  [AppLogger] takeScreenShot Stareted on- JDVault 
+2017-07-04 14:37:16,368 INFO  [AppLogger] ###################################### 
+2017-07-04 14:37:16,368 INFO  [AppLogger] FC001 Status :: automationfail 
+2017-07-04 14:37:16,368 INFO  [AppLogger] ###################################### 
+2017-07-04 14:37:17,685 INFO  [AppLogger] Click Operation started on ://div[@class='navLinks']/a[text()='CREATE ASSETS'] 
+2017-07-04 14:37:17,687 INFO  [AppLogger] Find Element Stareted on- //div[@class='navLinks']/a[text()='CREATE ASSETS'] 
+2017-07-04 14:37:32,801 INFO  [AppLogger] Exception in Find Element with xpath:-//div[@class='navLinks']/a[text()='CREATE ASSETS'] 
+2017-07-04 14:37:47,849 INFO  [AppLogger] Exception in clicking element: //div[@class='navLinks']/a[text()='CREATE ASSETS']
+Unable to locate element: {"method":"xpath","selector":"//div[@class='navLinks']/a[text()='CREATE ASSETS']"}
+Command duration or timeout: 15.05 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'ADPRO-001735', ip: '192.168.0.182', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=35.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: abdb2db2-03c8-4f83-916e-57d9402d4bf3
+*** Element info: {Using=xpath, value=//div[@class='navLinks']/a[text()='CREATE ASSETS']} 
+2017-07-04 14:37:47,896 INFO  [AppLogger] takeScreenShot Stareted on- JDVault 
+2017-07-04 14:37:48,030 INFO  [AppLogger] ###################################### 
+2017-07-04 14:37:48,030 INFO  [AppLogger] FC002 Status :: automationfail 
+2017-07-04 14:37:48,030 INFO  [AppLogger] ###################################### 

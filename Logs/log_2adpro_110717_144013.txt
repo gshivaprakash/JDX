@@ -1,0 +1,36 @@
+2017-11-07 14:40:14,021 INFO  [AppLogger] Executing testcase on OS:-windows 7 
+2017-11-07 14:40:14,021 INFO  [AppLogger] Current host name :-ADPRO-001734 
+2017-11-07 14:40:14,021 INFO  [AppLogger] Current IP address :-192.168.0.165 
+2017-11-07 14:40:14,021 INFO  [AppLogger] Operating system type :-amd64 
+2017-11-07 14:40:14,021 INFO  [AppLogger] Operating system version :-6.1 
+2017-11-07 14:40:14,021 INFO  [AppLogger] Operating system Info :-Intel64 Family 6 Model 58 Stepping 9, GenuineIntel 
+2017-11-07 14:40:23,159 INFO  [AppLogger] firefoxBrowser Opened 
+2017-11-07 14:40:29,842 INFO  [AppLogger] Page Opened for the url https://jdtraffic-qc.2adpro.com 
+2017-11-07 14:40:31,329 INFO  [AppLogger] Send Keys Operation started on username 
+2017-11-07 14:40:31,333 INFO  [AppLogger] Find Element Stareted on- username 
+2017-11-07 14:40:31,484 INFO  [AppLogger] Send Keys Operation started on .//*[@id='loginform']/input[2] 
+2017-11-07 14:40:31,487 INFO  [AppLogger] Find Element Stareted on- .//*[@id='loginform']/input[2] 
+2017-11-07 14:40:31,553 INFO  [AppLogger] Click Operation started on :login_submit 
+2017-11-07 14:40:31,555 INFO  [AppLogger] Find Element Stareted on- login_submit 
+2017-11-07 14:40:41,501 INFO  [AppLogger] Waiting for page and its elements to be loaded completely 
+2017-11-07 14:40:44,503 INFO  [AppLogger] Started validating page title 
+2017-11-07 14:40:44,628 INFO  [AppLogger] ###################################### 
+2017-11-07 14:40:44,628 INFO  [AppLogger] FC002 Status :: pass 
+2017-11-07 14:40:44,628 INFO  [AppLogger] ###################################### 
+2017-11-07 14:40:46,173 INFO  [AppLogger] Click Operation started on ://div[@class='navLinks']/a[text()='DASHBOARD'] 
+2017-11-07 14:40:46,183 INFO  [AppLogger] Find Element Stareted on- //div[@class='navLinks']/a[text()='DASHBOARD'] 
+2017-11-07 14:40:46,384 INFO  [AppLogger] Waiting for page and its elements to be loaded completely 
+2017-11-07 14:40:49,766 INFO  [AppLogger] Click Operation started on :from 
+2017-11-07 14:40:49,773 INFO  [AppLogger] Find Element Stareted on- from 
+2017-11-07 14:41:04,858 INFO  [AppLogger] Exception in clicking element: from
+Element is not currently visible and so may not be interacted with
+Command duration or timeout: 15.05 seconds
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'ADPRO-001734', ip: '192.168.0.165', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=43.0.1, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 106f818b-6536-4563-bf40-c0c376611449 
+2017-11-07 14:41:04,952 INFO  [AppLogger] takeScreenShot Stareted on- JDX 
+2017-11-07 14:41:05,164 INFO  [AppLogger] ###################################### 
+2017-11-07 14:41:05,164 INFO  [AppLogger] FC004 Status :: automationfail 
+2017-11-07 14:41:05,164 INFO  [AppLogger] ###################################### 

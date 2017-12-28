@@ -1,0 +1,77 @@
+2017-04-12 14:49:12,618 INFO  [AppLogger] Executing testcase on OS:-windows 7 
+2017-04-12 14:49:12,618 INFO  [AppLogger] Current host name :-ADPRO-001735 
+2017-04-12 14:49:12,618 INFO  [AppLogger] Current IP address :-192.168.1.220 
+2017-04-12 14:49:12,618 INFO  [AppLogger] Operating system type :-amd64 
+2017-04-12 14:49:12,618 INFO  [AppLogger] Operating system version :-6.1 
+2017-04-12 14:49:12,618 INFO  [AppLogger] Operating system Info :-Intel64 Family 6 Model 58 Stepping 9, GenuineIntel 
+2017-04-12 14:49:15,434 INFO  [AppLogger] chromeBrowser Opened 
+2017-04-12 14:49:20,784 INFO  [AppLogger] Page Opened for the url https://qc-unipaper.2adpro.com/view/index 
+2017-04-12 14:49:23,063 INFO  [AppLogger] Send Keys Operation started on username 
+2017-04-12 14:49:23,067 INFO  [AppLogger] Find Element Stareted on- username 
+2017-04-12 14:49:23,153 INFO  [AppLogger] Send Keys Operation started on password 
+2017-04-12 14:49:23,156 INFO  [AppLogger] Find Element Stareted on- password 
+2017-04-12 14:49:23,214 INFO  [AppLogger] thread starts  
+2017-04-12 14:49:25,218 INFO  [AppLogger] thread starts  
+2017-04-12 14:49:27,222 INFO  [AppLogger] Click Operation started on :login_submit 
+2017-04-12 14:49:27,226 INFO  [AppLogger] Find Element Stareted on- login_submit 
+2017-04-12 14:49:42,656 INFO  [AppLogger] thread starts  
+2017-04-12 14:49:44,659 INFO  [AppLogger] thread starts  
+2017-04-12 14:49:46,674 INFO  [AppLogger] Waiting for page and its elements to be loaded completely 
+2017-04-12 14:49:46,696 INFO  [AppLogger] Started validating page title 
+2017-04-12 14:49:46,819 INFO  [AppLogger] ###################################### 
+2017-04-12 14:49:46,819 INFO  [AppLogger] FC016 Status :: pass 
+2017-04-12 14:49:46,819 INFO  [AppLogger] ###################################### 
+2017-04-12 14:50:33,985 INFO  [AppLogger] Page Opened for the url https://eproofjd-qc.2adpro.com/index.php?ref=e58edc76e2cc57_V1_R0&proofurl=KujxjwTyINk0W9t7VJkj2A%3D%3D 
+2017-04-12 14:50:33,987 INFO  [AppLogger] Waiting for page and its elements to be loaded completely 
+2017-04-12 14:50:34,000 INFO  [AppLogger] thread starts  
+2017-04-12 14:50:36,001 INFO  [AppLogger] thread starts  
+2017-04-12 14:50:38,004 INFO  [AppLogger] thread starts  
+2017-04-12 14:50:40,007 INFO  [AppLogger] thread starts  
+2017-04-12 14:50:42,008 INFO  [AppLogger] thread starts  
+2017-04-12 14:50:44,011 INFO  [AppLogger] Click Operation started on :.//*[@id='mainWrap']/div[1]/div[1]/div[2]/div[9]/span 
+2017-04-12 14:50:44,014 INFO  [AppLogger] Find Element Stareted on- .//*[@id='mainWrap']/div[1]/div[1]/div[2]/div[9]/span 
+2017-04-12 14:50:44,101 INFO  [AppLogger] thread starts  
+2017-04-12 14:50:46,104 INFO  [AppLogger] thread starts  
+2017-04-12 14:50:48,107 INFO  [AppLogger] thread starts  
+2017-04-12 14:50:50,111 INFO  [AppLogger] thread starts  
+2017-04-12 14:50:52,115 INFO  [AppLogger] Click Operation started on :.//*[@id='page0'] 
+2017-04-12 14:50:52,118 INFO  [AppLogger] Find Element Stareted on- .//*[@id='page0'] 
+2017-04-12 14:50:52,200 INFO  [AppLogger] thread starts  
+2017-04-12 14:50:54,203 INFO  [AppLogger] thread starts  
+2017-04-12 14:50:56,206 INFO  [AppLogger] thread starts  
+2017-04-12 14:50:58,210 INFO  [AppLogger] thread starts  
+2017-04-12 14:51:00,215 INFO  [AppLogger] Send Keys Operation started on .//*[@id='page0_comment_1']/div[3]/div[2]/textarea 
+2017-04-12 14:51:00,219 INFO  [AppLogger] Find Element Stareted on- .//*[@id='page0_comment_1']/div[3]/div[2]/textarea 
+2017-04-12 14:51:00,292 INFO  [AppLogger] thread starts  
+2017-04-12 14:51:02,295 INFO  [AppLogger] Click Operation started on :.//*[@id='page0_comment_1']/div[3]/div[3]/input[1] 
+2017-04-12 14:51:02,299 INFO  [AppLogger] Find Element Stareted on- .//*[@id='page0_comment_1']/div[3]/div[3]/input[1] 
+2017-04-12 14:51:02,380 INFO  [AppLogger] thread starts  
+2017-04-12 14:51:04,385 INFO  [AppLogger] thread starts  
+2017-04-12 14:51:06,388 INFO  [AppLogger] thread starts  
+2017-04-12 14:51:08,391 INFO  [AppLogger] Click Operation started on :.//*[@id='mainWrap']/div[1]/div[2]/div[2]/input[2] 
+2017-04-12 14:51:08,394 INFO  [AppLogger] Find Element Stareted on- .//*[@id='mainWrap']/div[1]/div[2]/div[2]/input[2] 
+2017-04-12 14:51:08,493 INFO  [AppLogger] thread starts  
+2017-04-12 14:51:10,496 INFO  [AppLogger] thread starts  
+2017-04-12 14:51:12,499 INFO  [AppLogger] thread starts  
+2017-04-12 14:51:14,503 INFO  [AppLogger] Click Operation started on ://div[@class='fileUpload'] 
+2017-04-12 14:51:14,506 INFO  [AppLogger] Find Element Stareted on- //div[@class='fileUpload'] 
+2017-04-12 14:51:19,614 INFO  [AppLogger] thread starts  
+2017-04-12 14:51:21,617 INFO  [AppLogger] thread starts  
+2017-04-12 14:51:23,620 INFO  [AppLogger] thread starts  
+2017-04-12 14:51:25,623 INFO  [AppLogger] thread starts  
+2017-04-12 14:51:27,626 INFO  [AppLogger] Click Operation started on :html/body/div[8]/div/div[1]/input[1] 
+2017-04-12 14:51:27,629 INFO  [AppLogger] Find Element Stareted on- html/body/div[8]/div/div[1]/input[1] 
+2017-04-12 14:51:27,712 INFO  [AppLogger] Exception in clicking element: html/body/div[8]/div/div[1]/input[1]
+unknown error: Element is not clickable at point (656, 362). Other element would receive the click: <div class="uploadAnimationMask" style="display: block;">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 40 milliseconds
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'ADPRO-001735', ip: '192.168.1.220', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed), userDataDir=C:\Users\nkesava\AppData\Local\Temp\scoped_dir7128_28737}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=56.0.2924.87, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: c88b2fc1b2e929f7fcda0cf8cce89a1f 
+2017-04-12 14:51:27,748 INFO  [AppLogger] takeScreenShot Stareted on- JD 
+2017-04-12 14:51:28,048 INFO  [AppLogger] ###################################### 
+2017-04-12 14:51:28,048 INFO  [AppLogger] FC021 Status :: automationfail 
+2017-04-12 14:51:28,048 INFO  [AppLogger] ###################################### 

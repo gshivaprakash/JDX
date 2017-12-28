@@ -1,0 +1,40 @@
+2017-12-13 15:39:41,766 INFO  [AppLogger] Executing testcase on OS:-windows 7 
+2017-12-13 15:39:41,767 INFO  [AppLogger] Current host name :-ADPRO-001734 
+2017-12-13 15:39:41,767 INFO  [AppLogger] Current IP address :-192.168.0.165 
+2017-12-13 15:39:41,767 INFO  [AppLogger] Operating system type :-amd64 
+2017-12-13 15:39:41,767 INFO  [AppLogger] Operating system version :-6.1 
+2017-12-13 15:39:41,767 INFO  [AppLogger] Operating system Info :-Intel64 Family 6 Model 58 Stepping 9, GenuineIntel 
+2017-12-13 15:39:54,316 INFO  [AppLogger] firefoxBrowser Opened 
+2017-12-13 15:39:58,630 INFO  [AppLogger] Page Opened for the url https://jdtraffic-qc.2adpro.com 
+2017-12-13 15:40:01,002 INFO  [AppLogger] Send Keys Operation started on username 
+2017-12-13 15:40:01,008 INFO  [AppLogger] Find Element Stareted on- username 
+2017-12-13 15:40:01,194 INFO  [AppLogger] Send Keys Operation started on .//*[@id='loginform']/input[2] 
+2017-12-13 15:40:01,197 INFO  [AppLogger] Find Element Stareted on- .//*[@id='loginform']/input[2] 
+2017-12-13 15:40:01,847 INFO  [AppLogger] Click Operation started on :login_submit 
+2017-12-13 15:40:01,858 INFO  [AppLogger] Find Element Stareted on- login_submit 
+2017-12-13 15:40:12,312 INFO  [AppLogger] Waiting for page and its elements to be loaded completely 
+2017-12-13 15:40:15,277 INFO  [AppLogger] Started validating page title 
+2017-12-13 15:40:15,432 INFO  [AppLogger] ###################################### 
+2017-12-13 15:40:15,432 INFO  [AppLogger] FC002 Status :: pass 
+2017-12-13 15:40:15,432 INFO  [AppLogger] ###################################### 
+2017-12-13 15:40:17,460 INFO  [AppLogger] Click Operation started on :.//*[@id='activeAdDetails']/div[2]/div[2]/div[1]/div 
+2017-12-13 15:40:17,478 INFO  [AppLogger] Find Element Stareted on- .//*[@id='activeAdDetails']/div[2]/div[2]/div[1]/div 
+2017-12-13 15:40:18,068 INFO  [AppLogger] thread starts  
+2017-12-13 15:40:20,075 INFO  [AppLogger] Click Operation started on :.//*[@id='activeAdDetails']/div[2]/div[3]/input[1] 
+2017-12-13 15:40:20,081 INFO  [AppLogger] Find Element Stareted on- .//*[@id='activeAdDetails']/div[2]/div[3]/input[1] 
+2017-12-13 15:40:20,896 INFO  [AppLogger] thread starts  
+2017-12-13 15:40:22,899 INFO  [AppLogger] Click Operation started on :popup_ok 
+2017-12-13 15:40:22,903 INFO  [AppLogger] Find Element Stareted on- popup_ok 
+2017-12-13 15:40:24,264 INFO  [AppLogger] Exception in Find Element with id:-popup_ok 
+2017-12-13 15:40:24,683 INFO  [AppLogger] Exception in clicking element: popup_ok
+Unexpected modal dialog (text: Line Items Approved Successfully): Line Items Approved Successfully
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'ADPRO-001734', ip: '192.168.0.165', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=43.0.1, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: a27758bb-40a2-475b-92ed-828f383ba837
+*** Element info: {Using=id, value=popup_ok} 
+2017-12-13 15:40:24,738 INFO  [AppLogger] takeScreenShot Stareted on- JDX 
+2017-12-13 15:40:30,017 INFO  [AppLogger] ###################################### 
+2017-12-13 15:40:30,018 INFO  [AppLogger] FC013 Status :: automationfail 
+2017-12-13 15:40:30,018 INFO  [AppLogger] ###################################### 

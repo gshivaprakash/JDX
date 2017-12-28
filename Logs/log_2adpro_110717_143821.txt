@@ -1,0 +1,37 @@
+2017-11-07 14:38:21,949 INFO  [AppLogger] Executing testcase on OS:-windows 7 
+2017-11-07 14:38:21,950 INFO  [AppLogger] Current host name :-ADPRO-001734 
+2017-11-07 14:38:21,950 INFO  [AppLogger] Current IP address :-192.168.0.165 
+2017-11-07 14:38:21,950 INFO  [AppLogger] Operating system type :-amd64 
+2017-11-07 14:38:21,950 INFO  [AppLogger] Operating system version :-6.1 
+2017-11-07 14:38:21,950 INFO  [AppLogger] Operating system Info :-Intel64 Family 6 Model 58 Stepping 9, GenuineIntel 
+2017-11-07 14:38:30,367 INFO  [AppLogger] firefoxBrowser Opened 
+2017-11-07 14:38:36,811 INFO  [AppLogger] Page Opened for the url https://jd1-qc.2adpro.com 
+2017-11-07 14:38:38,909 INFO  [AppLogger] Send Keys Operation started on username 
+2017-11-07 14:38:38,913 INFO  [AppLogger] Find Element Stareted on- username 
+2017-11-07 14:38:39,092 INFO  [AppLogger] Send Keys Operation started on .//*[@id='loginform']/input[2] 
+2017-11-07 14:38:39,095 INFO  [AppLogger] Find Element Stareted on- .//*[@id='loginform']/input[2] 
+2017-11-07 14:38:39,681 INFO  [AppLogger] Click Operation started on :login_submit 
+2017-11-07 14:38:39,684 INFO  [AppLogger] Find Element Stareted on- login_submit 
+2017-11-07 14:38:41,718 INFO  [AppLogger] Waiting for page and its elements to be loaded completely 
+2017-11-07 14:38:41,773 INFO  [AppLogger] Started validating page title 
+2017-11-07 14:38:42,038 INFO  [AppLogger] takeScreenShot Stareted on- JDX 
+2017-11-07 14:38:42,397 INFO  [AppLogger] ###################################### 
+2017-11-07 14:38:42,397 INFO  [AppLogger] FC002 Status :: validationfail 
+2017-11-07 14:38:42,397 INFO  [AppLogger] ###################################### 
+2017-11-07 14:38:44,056 INFO  [AppLogger] Click Operation started on ://div[@class='navLinks']/a[text()='DASHBOARD'] 
+2017-11-07 14:38:44,060 INFO  [AppLogger] Find Element Stareted on- //div[@class='navLinks']/a[text()='DASHBOARD'] 
+2017-11-07 14:38:59,151 INFO  [AppLogger] Exception in Find Element with xpath:-//div[@class='navLinks']/a[text()='DASHBOARD'] 
+2017-11-07 14:39:14,272 INFO  [AppLogger] Exception in clicking element: //div[@class='navLinks']/a[text()='DASHBOARD']
+Unable to locate element: {"method":"xpath","selector":"//div[@class='navLinks']/a[text()='DASHBOARD']"}
+Command duration or timeout: 15.12 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'ADPRO-001734', ip: '192.168.0.165', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=43.0.1, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 28cad12d-b54c-49e6-8bed-106aa4d66406
+*** Element info: {Using=xpath, value=//div[@class='navLinks']/a[text()='DASHBOARD']} 
+2017-11-07 14:39:14,430 INFO  [AppLogger] takeScreenShot Stareted on- JDX 
+2017-11-07 14:39:14,728 INFO  [AppLogger] ###################################### 
+2017-11-07 14:39:14,729 INFO  [AppLogger] FC004 Status :: automationfail 
+2017-11-07 14:39:14,729 INFO  [AppLogger] ###################################### 

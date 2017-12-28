@@ -1,0 +1,57 @@
+2017-08-17 17:10:17,042 INFO  [AppLogger] Executing testcase on OS:-windows 7 
+2017-08-17 17:10:17,042 INFO  [AppLogger] Current host name :-ADPRO-001734 
+2017-08-17 17:10:17,042 INFO  [AppLogger] Current IP address :-192.168.0.166 
+2017-08-17 17:10:17,042 INFO  [AppLogger] Operating system type :-amd64 
+2017-08-17 17:10:17,042 INFO  [AppLogger] Operating system version :-6.1 
+2017-08-17 17:10:17,042 INFO  [AppLogger] Operating system Info :-Intel64 Family 6 Model 58 Stepping 9, GenuineIntel 
+2017-08-17 17:10:22,975 INFO  [AppLogger] firefoxBrowser Opened 
+2017-08-17 17:10:28,604 INFO  [AppLogger] Page Opened for the url https://jd1-qc.2adpro.com 
+2017-08-17 17:10:30,295 INFO  [AppLogger] Send Keys Operation started on username 
+2017-08-17 17:10:30,300 INFO  [AppLogger] Find Element Stareted on- username 
+2017-08-17 17:10:30,480 INFO  [AppLogger] Send Keys Operation started on password 
+2017-08-17 17:10:30,483 INFO  [AppLogger] Find Element Stareted on- password 
+2017-08-17 17:10:30,546 INFO  [AppLogger] Click Operation started on :login_submit 
+2017-08-17 17:10:30,549 INFO  [AppLogger] Find Element Stareted on- login_submit 
+2017-08-17 17:10:46,112 INFO  [AppLogger] Waiting for page and its elements to be loaded completely 
+2017-08-17 17:10:46,134 INFO  [AppLogger] Started validating page title 
+2017-08-17 17:10:46,281 INFO  [AppLogger] ###################################### 
+2017-08-17 17:10:46,281 INFO  [AppLogger] FC001 Status :: pass 
+2017-08-17 17:10:46,281 INFO  [AppLogger] ###################################### 
+2017-08-17 17:10:47,616 INFO  [AppLogger] Click Operation started on :.//*[@id='createjob'] 
+2017-08-17 17:10:47,625 INFO  [AppLogger] Find Element Stareted on- .//*[@id='createjob'] 
+2017-08-17 17:10:47,736 INFO  [AppLogger] Click Operation started on :createjob 
+2017-08-17 17:10:47,739 INFO  [AppLogger] Find Element Stareted on- createjob 
+2017-08-17 17:10:47,833 INFO  [AppLogger] thread starts  
+2017-08-17 17:10:49,838 INFO  [AppLogger] thread starts  
+2017-08-17 17:10:51,844 INFO  [AppLogger] Click Operation started on :o-Print 
+2017-08-17 17:10:51,847 INFO  [AppLogger] Find Element Stareted on- o-Print 
+2017-08-17 17:10:53,220 INFO  [AppLogger] thread starts  
+2017-08-17 17:10:55,222 INFO  [AppLogger] thread starts  
+2017-08-17 17:10:57,224 INFO  [AppLogger] Send Keys Operation started on Tracking No 
+2017-08-17 17:10:57,227 INFO  [AppLogger] Find Element Stareted on- Tracking No 
+2017-08-17 17:10:57,328 INFO  [AppLogger] thread starts  
+2017-08-17 17:10:59,331 INFO  [AppLogger] thread starts  
+2017-08-17 17:11:01,336 INFO  [AppLogger] Send Keys Operation started on .//*[@id='203'] 
+2017-08-17 17:11:01,339 INFO  [AppLogger] Find Element Stareted on- .//*[@id='203'] 
+2017-08-17 17:11:01,461 INFO  [AppLogger] Send Keys Operation started on .//*[@id='4'] 
+2017-08-17 17:11:01,462 INFO  [AppLogger] Find Element Stareted on- .//*[@id='4'] 
+2017-08-17 17:11:01,561 INFO  [AppLogger] Send Keys Operation started on Sales Person 
+2017-08-17 17:11:01,563 INFO  [AppLogger] Find Element Stareted on- Sales Person 
+2017-08-17 17:11:01,643 INFO  [AppLogger] Send Keys Operation started on Publication Title 
+2017-08-17 17:11:01,645 INFO  [AppLogger] Find Element Stareted on- Publication Title 
+2017-08-17 17:11:01,733 INFO  [AppLogger] Send Keys Operation started on Client Email 
+2017-08-17 17:11:01,735 INFO  [AppLogger] Find Element Stareted on- Client Email 
+2017-08-17 17:11:06,851 INFO  [AppLogger] Exception in Find Element with name:-Client Email 
+2017-08-17 17:11:07,004 INFO  [AppLogger] Exception in Send Keys to element: Client Email
+Unexpected modal dialog (text: This page is asking you to confirm that you want to leave - data you have entered may not be saved.): This page is asking you to confirm that you want to leave - data you have entered may not be saved.
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'ADPRO-001734', ip: '192.168.0.166', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=35.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 1c983fa4-a227-41d1-bc62-dc7630b31837
+*** Element info: {Using=name, value=Client Email} 
+2017-08-17 17:11:07,081 INFO  [AppLogger] takeScreenShot Stareted on- JD 
+2017-08-17 17:11:07,499 INFO  [AppLogger] ###################################### 
+2017-08-17 17:11:07,499 INFO  [AppLogger] FC002 Status :: automationfail 
+2017-08-17 17:11:07,499 INFO  [AppLogger] ###################################### 
+2017-08-17 17:11:14,249 INFO  [AppLogger] takeScreenShot Stareted on- JD 

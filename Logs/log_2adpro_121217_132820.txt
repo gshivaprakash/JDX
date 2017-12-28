@@ -1,0 +1,42 @@
+2017-12-12 13:28:21,118 INFO  [AppLogger] Executing testcase on OS:-windows 7 
+2017-12-12 13:28:21,118 INFO  [AppLogger] Current host name :-ADPRO-001734 
+2017-12-12 13:28:21,119 INFO  [AppLogger] Current IP address :-192.168.0.165 
+2017-12-12 13:28:21,119 INFO  [AppLogger] Operating system type :-amd64 
+2017-12-12 13:28:21,119 INFO  [AppLogger] Operating system version :-6.1 
+2017-12-12 13:28:21,119 INFO  [AppLogger] Operating system Info :-Intel64 Family 6 Model 58 Stepping 9, GenuineIntel 
+2017-12-12 13:28:38,919 INFO  [AppLogger] firefoxBrowser Opened 
+2017-12-12 13:28:42,980 INFO  [AppLogger] Page Opened for the url https://jdtraffic.2adpro.com 
+2017-12-12 13:28:45,976 INFO  [AppLogger] Send Keys Operation started on username 
+2017-12-12 13:28:45,980 INFO  [AppLogger] Find Element Stareted on- username 
+2017-12-12 13:28:46,196 INFO  [AppLogger] Send Keys Operation started on password 
+2017-12-12 13:28:46,201 INFO  [AppLogger] Find Element Stareted on- password 
+2017-12-12 13:28:46,929 INFO  [AppLogger] Click Operation started on :login_submit 
+2017-12-12 13:28:46,932 INFO  [AppLogger] Find Element Stareted on- login_submit 
+2017-12-12 13:28:52,309 INFO  [AppLogger] Waiting for page and its elements to be loaded completely 
+2017-12-12 13:29:13,312 INFO  [AppLogger] Started validating page title 
+2017-12-12 13:29:13,342 INFO  [AppLogger] Send Keys Operation started on search 
+2017-12-12 13:29:13,345 INFO  [AppLogger] Find Element Stareted on- search 
+2017-12-12 13:29:13,575 INFO  [AppLogger] Waiting for element //select[@id='search_results']/optgroup[@label='Orders'] 
+2017-12-12 13:29:13,579 INFO  [AppLogger] Find Element Stareted on- //select[@id='search_results']/optgroup[@label='Orders'] 
+2017-12-12 13:29:14,825 INFO  [AppLogger] Urn dropdown validation is started://select[@id='search_results']/optgroup[@label='Orders']/option 
+2017-12-12 13:29:14,829 INFO  [AppLogger] Find Elements Stareted on://select[@id='search_results']/optgroup[@label='Orders']/option 
+2017-12-12 13:29:14,905 INFO  [AppLogger] clickByAction starts //select[@id='search_results']/optgroup[@label='Orders']/option[1] 
+2017-12-12 13:29:14,908 INFO  [AppLogger] Find Element Stareted on- //select[@id='search_results']/optgroup[@label='Orders']/option[1] 
+2017-12-12 13:29:15,408 INFO  [AppLogger] Waiting for page and its elements to be loaded completely 
+2017-12-12 13:29:16,955 INFO  [AppLogger] validateOrderNumber starts //div[@id='activeAdDetails']/div[@class='activeAdInnerWrap']/div[@class='activeAdWrap jobdetail']/div[1] 
+2017-12-12 13:29:16,958 INFO  [AppLogger] Find Element Stareted on- //div[@id='activeAdDetails']/div[@class='activeAdInnerWrap']/div[@class='activeAdWrap jobdetail']/div[1] 
+2017-12-12 13:29:32,054 INFO  [AppLogger] Exception in Find Element with xpath:-//div[@id='activeAdDetails']/div[@class='activeAdInnerWrap']/div[@class='activeAdWrap jobdetail']/div[1] 
+2017-12-12 13:29:47,130 INFO  [AppLogger] Error in validateText for element //div[@id='activeAdDetails']/div[@class='activeAdInnerWrap']/div[@class='activeAdWrap jobdetail']/div[1]
+Unable to locate element: {"method":"xpath","selector":"//div[@id='activeAdDetails']/div[@class='activeAdInnerWrap']/div[@class='activeAdWrap jobdetail']/div[1]"}
+Command duration or timeout: 15.07 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'ADPRO-001734', ip: '192.168.0.165', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=43.0.1, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: ea832ae0-462a-4845-9b75-21bb1cd5a094
+*** Element info: {Using=xpath, value=//div[@id='activeAdDetails']/div[@class='activeAdInnerWrap']/div[@class='activeAdWrap jobdetail']/div[1]} 
+2017-12-12 13:29:47,226 INFO  [AppLogger] takeScreenShot Stareted on- JDX 
+2017-12-12 13:29:49,597 INFO  [AppLogger] ###################################### 
+2017-12-12 13:29:49,597 INFO  [AppLogger] FC003 Status :: automationfail 
+2017-12-12 13:29:49,597 INFO  [AppLogger] ###################################### 

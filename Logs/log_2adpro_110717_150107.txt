@@ -1,0 +1,55 @@
+2017-11-07 15:01:07,555 INFO  [AppLogger] Executing testcase on OS:-windows 7 
+2017-11-07 15:01:07,556 INFO  [AppLogger] Current host name :-ADPRO-001734 
+2017-11-07 15:01:07,556 INFO  [AppLogger] Current IP address :-192.168.0.165 
+2017-11-07 15:01:07,556 INFO  [AppLogger] Operating system type :-amd64 
+2017-11-07 15:01:07,556 INFO  [AppLogger] Operating system version :-6.1 
+2017-11-07 15:01:07,556 INFO  [AppLogger] Operating system Info :-Intel64 Family 6 Model 58 Stepping 9, GenuineIntel 
+2017-11-07 15:01:16,219 INFO  [AppLogger] firefoxBrowser Opened 
+2017-11-07 15:01:37,976 INFO  [AppLogger] Page Opened for the url https://jdtraffic-qc.2adpro.com 
+2017-11-07 15:01:40,037 INFO  [AppLogger] Send Keys Operation started on username 
+2017-11-07 15:01:40,046 INFO  [AppLogger] Find Element Stareted on- username 
+2017-11-07 15:01:40,262 INFO  [AppLogger] Send Keys Operation started on .//*[@id='loginform']/input[2] 
+2017-11-07 15:01:40,267 INFO  [AppLogger] Find Element Stareted on- .//*[@id='loginform']/input[2] 
+2017-11-07 15:01:40,926 INFO  [AppLogger] Click Operation started on :login_submit 
+2017-11-07 15:01:40,944 INFO  [AppLogger] Find Element Stareted on- login_submit 
+2017-11-07 15:01:56,619 INFO  [AppLogger] Waiting for page and its elements to be loaded completely 
+2017-11-07 15:02:01,570 INFO  [AppLogger] Started validating page title 
+2017-11-07 15:02:01,917 INFO  [AppLogger] ###################################### 
+2017-11-07 15:02:01,917 INFO  [AppLogger] FC002 Status :: pass 
+2017-11-07 15:02:01,917 INFO  [AppLogger] ###################################### 
+2017-11-07 15:02:03,555 INFO  [AppLogger] Click Operation started on :.//*[@id='mainWrap']/header/nav/div/div[1]/a[3] 
+2017-11-07 15:02:03,565 INFO  [AppLogger] Find Element Stareted on- .//*[@id='mainWrap']/header/nav/div/div[1]/a[3] 
+2017-11-07 15:02:03,804 INFO  [AppLogger] Waiting for page and its elements to be loaded completely 
+2017-11-07 15:02:17,665 INFO  [AppLogger] Click Operation started on ://label[text()='Region'] 
+2017-11-07 15:02:17,668 INFO  [AppLogger] Find Element Stareted on- //label[text()='Region'] 
+2017-11-07 15:02:17,827 INFO  [AppLogger] selectFromListGroupByText started : //div[@class='selectBoxInput active']/ul/li 
+2017-11-07 15:02:17,829 INFO  [AppLogger] Find Elements Stareted on://div[@class='selectBoxInput active']/ul/li 
+2017-11-07 15:02:22,202 INFO  [AppLogger] Found the option:2adpro Preview that you were looking for dropdown and clicking the same 
+2017-11-07 15:02:22,317 INFO  [AppLogger] Send Keys Operation started on trackingNumber 
+2017-11-07 15:02:22,318 INFO  [AppLogger] Find Element Stareted on- trackingNumber 
+2017-11-07 15:02:22,405 INFO  [AppLogger] Send Keys Operation started on orderName 
+2017-11-07 15:02:22,406 INFO  [AppLogger] Find Element Stareted on- orderName 
+2017-11-07 15:02:22,533 INFO  [AppLogger] Send Keys Operation started on advertiserName 
+2017-11-07 15:02:22,535 INFO  [AppLogger] Find Element Stareted on- advertiserName 
+2017-11-07 15:02:22,680 INFO  [AppLogger] Send Keys Operation started on salesrep 
+2017-11-07 15:02:22,682 INFO  [AppLogger] Find Element Stareted on- salesrep 
+2017-11-07 15:02:22,787 INFO  [AppLogger] thread starts  
+2017-11-07 15:02:24,788 INFO  [AppLogger] Send Keys Operation started on budget 
+2017-11-07 15:02:24,790 INFO  [AppLogger] Find Element Stareted on- budget 
+2017-11-07 15:02:24,850 INFO  [AppLogger] Click Operation started on ://input[@value='Add Line Item'] 
+2017-11-07 15:02:24,854 INFO  [AppLogger] Find Element Stareted on- //input[@value='Add Line Item'] 
+2017-11-07 15:02:39,934 INFO  [AppLogger] Exception in Find Element with xpath:-//input[@value='Add Line Item'] 
+2017-11-07 15:02:55,026 INFO  [AppLogger] Exception in clicking element: //input[@value='Add Line Item']
+Unable to locate element: {"method":"xpath","selector":"//input[@value='Add Line Item']"}
+Command duration or timeout: 15.09 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'ADPRO-001734', ip: '192.168.0.165', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=43.0.1, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 9a58afb7-ae92-47ba-a01f-615889d6b877
+*** Element info: {Using=xpath, value=//input[@value='Add Line Item']} 
+2017-11-07 15:02:55,139 INFO  [AppLogger] takeScreenShot Stareted on- JDX 
+2017-11-07 15:02:55,593 INFO  [AppLogger] ###################################### 
+2017-11-07 15:02:55,593 INFO  [AppLogger] FC003 Status :: automationfail 
+2017-11-07 15:02:55,593 INFO  [AppLogger] ###################################### 

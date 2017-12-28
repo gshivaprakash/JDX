@@ -1,0 +1,107 @@
+2017-04-07 19:08:43,249 INFO  [AppLogger] Executing testcase on OS:-windows 7 
+2017-04-07 19:08:43,250 INFO  [AppLogger] Current host name :-ADPRO-001735 
+2017-04-07 19:08:43,250 INFO  [AppLogger] Current IP address :-192.168.0.206 
+2017-04-07 19:08:43,250 INFO  [AppLogger] Operating system type :-amd64 
+2017-04-07 19:08:43,250 INFO  [AppLogger] Operating system version :-6.1 
+2017-04-07 19:08:43,250 INFO  [AppLogger] Operating system Info :-Intel64 Family 6 Model 58 Stepping 9, GenuineIntel 
+2017-04-07 19:08:48,047 INFO  [AppLogger] firefoxBrowser Opened 
+2017-04-07 19:08:52,100 INFO  [AppLogger] Page Opened for the url https://qc-unipaper.2adpro.com/index/login 
+2017-04-07 19:08:53,396 INFO  [AppLogger] Send Keys Operation started on username 
+2017-04-07 19:08:53,400 INFO  [AppLogger] Find Element Stareted on- username 
+2017-04-07 19:08:53,529 INFO  [AppLogger] Send Keys Operation started on password 
+2017-04-07 19:08:53,532 INFO  [AppLogger] Find Element Stareted on- password 
+2017-04-07 19:08:53,593 INFO  [AppLogger] thread starts  
+2017-04-07 19:08:55,605 INFO  [AppLogger] thread starts  
+2017-04-07 19:08:57,607 INFO  [AppLogger] Click Operation started on :login_submit 
+2017-04-07 19:08:57,610 INFO  [AppLogger] Find Element Stareted on- login_submit 
+2017-04-07 19:09:16,380 INFO  [AppLogger] Waiting for page and its elements to be loaded completely 
+2017-04-07 19:09:16,403 INFO  [AppLogger] Started validating page title 
+2017-04-07 19:09:16,543 INFO  [AppLogger] ###################################### 
+2017-04-07 19:09:16,543 INFO  [AppLogger] FC016 Status :: pass 
+2017-04-07 19:09:16,543 INFO  [AppLogger] ###################################### 
+2017-04-07 19:09:17,895 INFO  [AppLogger] Click Operation started on :.//*[@id='createjob'] 
+2017-04-07 19:09:17,897 INFO  [AppLogger] Find Element Stareted on- .//*[@id='createjob'] 
+2017-04-07 19:09:18,023 INFO  [AppLogger] thread starts  
+2017-04-07 19:09:20,026 INFO  [AppLogger] thread starts  
+2017-04-07 19:09:22,035 INFO  [AppLogger] thread starts  
+2017-04-07 19:09:24,044 INFO  [AppLogger] thread starts  
+2017-04-07 19:09:26,046 INFO  [AppLogger] Send Keys Operation started on Publication Title 
+2017-04-07 19:09:26,050 INFO  [AppLogger] Find Element Stareted on- Publication Title 
+2017-04-07 19:09:26,163 INFO  [AppLogger] thread starts  
+2017-04-07 19:09:28,169 INFO  [AppLogger] Send Keys Operation started on .//*[@id='4'] 
+2017-04-07 19:09:28,173 INFO  [AppLogger] Find Element Stareted on- .//*[@id='4'] 
+2017-04-07 19:09:28,276 INFO  [AppLogger] Send Keys Operation started on Advertiser Email 
+2017-04-07 19:09:28,279 INFO  [AppLogger] Find Element Stareted on- Advertiser Email 
+2017-04-07 19:09:28,382 INFO  [AppLogger] thread starts  
+2017-04-07 19:09:30,385 INFO  [AppLogger] Click Operation started on :.//*[@id='order_info_form']/div[1]/div[1]/div[4]/div/div[1]/div[2]/div[2] 
+2017-04-07 19:09:30,387 INFO  [AppLogger] Find Element Stareted on- .//*[@id='order_info_form']/div[1]/div[1]/div[4]/div/div[1]/div[2]/div[2] 
+2017-04-07 19:09:30,526 INFO  [AppLogger] thread starts  
+2017-04-07 19:09:32,528 INFO  [AppLogger] Click Operation started on :.//*[@id='7']/option[3] 
+2017-04-07 19:09:32,531 INFO  [AppLogger] Find Element Stareted on- .//*[@id='7']/option[3] 
+2017-04-07 19:09:32,722 INFO  [AppLogger] Send Keys Operation started on Advertiser Postcode 
+2017-04-07 19:09:32,723 INFO  [AppLogger] Find Element Stareted on- Advertiser Postcode 
+2017-04-07 19:09:32,801 INFO  [AppLogger] Send Keys Operation started on Requestor 
+2017-04-07 19:09:32,803 INFO  [AppLogger] Find Element Stareted on- Requestor 
+2017-04-07 19:09:32,881 INFO  [AppLogger] Click Operation started on :o-Print 
+2017-04-07 19:09:32,883 INFO  [AppLogger] Find Element Stareted on- o-Print 
+2017-04-07 19:09:33,036 INFO  [AppLogger] thread starts  
+2017-04-07 19:09:35,041 INFO  [AppLogger] thread starts  
+2017-04-07 19:09:37,042 INFO  [AppLogger] Click Operation started on :.//*[@id='ord_formPrint']/div[2]/div[1]/div/div[1]/div[2]/div[2] 
+2017-04-07 19:09:37,043 INFO  [AppLogger] Find Element Stareted on- .//*[@id='ord_formPrint']/div[2]/div[1]/div/div[1]/div[2]/div[2] 
+2017-04-07 19:09:37,157 INFO  [AppLogger] thread starts  
+2017-04-07 19:09:39,162 INFO  [AppLogger] Click Operation started on :.//*[@id='22']/option[2] 
+2017-04-07 19:09:39,169 INFO  [AppLogger] Find Element Stareted on- .//*[@id='22']/option[2] 
+2017-04-07 19:09:39,337 INFO  [AppLogger] Click Operation started on :.//*[@id='ord_formPrint']/div[2]/div[1]/div/div[2]/div[1]/div[2]/div[2] 
+2017-04-07 19:09:39,338 INFO  [AppLogger] Find Element Stareted on- .//*[@id='ord_formPrint']/div[2]/div[1]/div/div[2]/div[1]/div[2]/div[2] 
+2017-04-07 19:09:39,447 INFO  [AppLogger] thread starts  
+2017-04-07 19:09:41,449 INFO  [AppLogger] Click Operation started on :.//*[@id='25']/option[2] 
+2017-04-07 19:09:41,452 INFO  [AppLogger] Find Element Stareted on- .//*[@id='25']/option[2] 
+2017-04-07 19:09:41,603 INFO  [AppLogger] thread starts  
+2017-04-07 19:09:43,605 INFO  [AppLogger] Click Operation started on :.//*[@id='ord_formPrint']/div[2]/div[3]/div/div[1]/div[2]/div[2] 
+2017-04-07 19:09:43,607 INFO  [AppLogger] Find Element Stareted on- .//*[@id='ord_formPrint']/div[2]/div[3]/div/div[1]/div[2]/div[2] 
+2017-04-07 19:09:43,721 INFO  [AppLogger] thread starts  
+2017-04-07 19:09:45,725 INFO  [AppLogger] Click Operation started on :.//*[@id='31']/option[2] 
+2017-04-07 19:09:45,727 INFO  [AppLogger] Find Element Stareted on- .//*[@id='31']/option[2] 
+2017-04-07 19:09:45,875 INFO  [AppLogger] Click Operation started on :.//*[@id='ord_formPrint']/div[2]/div[4]/div/div[1]/div[2]/div[2] 
+2017-04-07 19:09:45,877 INFO  [AppLogger] Find Element Stareted on- .//*[@id='ord_formPrint']/div[2]/div[4]/div/div[1]/div[2]/div[2] 
+2017-04-07 19:09:45,973 INFO  [AppLogger] thread starts  
+2017-04-07 19:09:47,975 INFO  [AppLogger] Click Operation started on :.//*[@id='32']/option[3] 
+2017-04-07 19:09:47,977 INFO  [AppLogger] Find Element Stareted on- .//*[@id='32']/option[3] 
+2017-04-07 19:09:48,116 INFO  [AppLogger] Send Keys Operation started on Brief/Instructions 
+2017-04-07 19:09:48,119 INFO  [AppLogger] Find Element Stareted on- Brief/Instructions 
+2017-04-07 19:09:48,224 INFO  [AppLogger] Click Operation started on :.//*[@id='ordercomponentsform']/a 
+2017-04-07 19:09:48,225 INFO  [AppLogger] Find Element Stareted on- .//*[@id='ordercomponentsform']/a 
+2017-04-07 19:09:53,577 INFO  [AppLogger] Click Operation started on :.//*[@id='order-due-date']/div[2]/div[1]/div[2]/div[1] 
+2017-04-07 19:09:53,578 INFO  [AppLogger] Find Element Stareted on- .//*[@id='order-due-date']/div[2]/div[1]/div[2]/div[1] 
+2017-04-07 19:09:55,510 INFO  [AppLogger] thread starts  
+2017-04-07 19:09:57,513 INFO  [AppLogger] Click Operation started on :.//*[@id='14']/option[2] 
+2017-04-07 19:09:57,515 INFO  [AppLogger] Find Element Stareted on- .//*[@id='14']/option[2] 
+2017-04-07 19:09:57,747 INFO  [AppLogger] Click Operation started on :.//*[@id='11'] 
+2017-04-07 19:09:57,748 INFO  [AppLogger] Find Element Stareted on- .//*[@id='11'] 
+2017-04-07 19:09:57,897 INFO  [AppLogger] thread starts  
+2017-04-07 19:09:59,898 INFO  [AppLogger] Click Operation started on ://a[text()='7'] 
+2017-04-07 19:09:59,900 INFO  [AppLogger] Find Element Stareted on- //a[text()='7'] 
+2017-04-07 19:09:59,998 INFO  [AppLogger] Click Operation started on ://div[@class='date']/input[@name='Date 2'] 
+2017-04-07 19:10:00,008 INFO  [AppLogger] Find Element Stareted on- //div[@class='date']/input[@name='Date 2'] 
+2017-04-07 19:10:00,159 INFO  [AppLogger] thread starts  
+2017-04-07 19:10:02,160 INFO  [AppLogger] Click Operation started on ://a[text()='7'] 
+2017-04-07 19:10:02,162 INFO  [AppLogger] Find Element Stareted on- //a[text()='7'] 
+2017-04-07 19:10:02,271 INFO  [AppLogger] Click Operation started on :.//*[@id='formSubmit'] 
+2017-04-07 19:10:02,273 INFO  [AppLogger] Find Element Stareted on- .//*[@id='formSubmit'] 
+2017-04-07 19:10:02,529 INFO  [AppLogger] ###################################### 
+2017-04-07 19:10:02,529 INFO  [AppLogger] FC017 Status :: pass 
+2017-04-07 19:10:02,529 INFO  [AppLogger] ###################################### 
+2017-04-07 19:10:03,968 INFO  [AppLogger] Click Operation started on :.//*[@id='createjob'] 
+2017-04-07 19:10:03,970 INFO  [AppLogger] Find Element Stareted on- .//*[@id='createjob'] 
+2017-04-07 19:10:04,081 INFO  [AppLogger] Exception in clicking element: .//*[@id='createjob']
+Element is not clickable at point (465.5, 46). Other element would receive the click: <div style="display:table-cell;vertical-align:middle;"></div>
+Command duration or timeout: 68 milliseconds
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'ADPRO-001735', ip: '192.168.0.206', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=35.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 2ac473de-f2ed-4d1e-92d1-9667169b610e 
+2017-04-07 19:10:04,120 INFO  [AppLogger] takeScreenShot Stareted on- JD 
+2017-04-07 19:10:04,418 INFO  [AppLogger] ###################################### 
+2017-04-07 19:10:04,418 INFO  [AppLogger] FC018 Status :: automationfail 
+2017-04-07 19:10:04,418 INFO  [AppLogger] ###################################### 

@@ -1,0 +1,8 @@
+2017-08-18 11:35:42,510 INFO  [AppLogger] Executing testcase on OS:-windows 7 
+2017-08-18 11:35:42,510 INFO  [AppLogger] Current host name :-ADPRO-001734 
+2017-08-18 11:35:42,510 INFO  [AppLogger] Current IP address :-192.168.0.165 
+2017-08-18 11:35:42,510 INFO  [AppLogger] Operating system type :-amd64 
+2017-08-18 11:35:42,511 INFO  [AppLogger] Operating system version :-6.1 
+2017-08-18 11:35:42,511 INFO  [AppLogger] Operating system Info :-Intel64 Family 6 Model 58 Stepping 9, GenuineIntel 
+2017-08-18 11:35:48,465 INFO  [AppLogger] firefoxBrowser Opened 
+2017-08-18 11:35:54,724 INFO  [AppLogger] Page Opened for the url https://jdx1.2adpro.com 

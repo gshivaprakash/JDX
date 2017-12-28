@@ -1,0 +1,88 @@
+2017-07-04 14:59:17,959 INFO  [AppLogger] Executing testcase on OS:-windows 7 
+2017-07-04 14:59:17,959 INFO  [AppLogger] Current host name :-ADPRO-001735 
+2017-07-04 14:59:17,960 INFO  [AppLogger] Current IP address :-192.168.0.182 
+2017-07-04 14:59:17,960 INFO  [AppLogger] Operating system type :-amd64 
+2017-07-04 14:59:17,960 INFO  [AppLogger] Operating system version :-6.1 
+2017-07-04 14:59:17,960 INFO  [AppLogger] Operating system Info :-Intel64 Family 6 Model 58 Stepping 9, GenuineIntel 
+2017-07-04 14:59:20,488 INFO  [AppLogger] chromeBrowser Opened 
+2017-07-04 14:59:28,759 INFO  [AppLogger] Page Opened for the url https://jdx1.2adpro.com 
+2017-07-04 14:59:30,978 INFO  [AppLogger] Send Keys Operation started on username 
+2017-07-04 14:59:30,982 INFO  [AppLogger] Find Element Stareted on- username 
+2017-07-04 14:59:31,078 INFO  [AppLogger] Send Keys Operation started on password 
+2017-07-04 14:59:31,081 INFO  [AppLogger] Find Element Stareted on- password 
+2017-07-04 14:59:31,159 INFO  [AppLogger] Click Operation started on :login_submit 
+2017-07-04 14:59:31,162 INFO  [AppLogger] Find Element Stareted on- login_submit 
+2017-07-04 14:59:50,853 INFO  [AppLogger] Waiting for page and its elements to be loaded completely 
+2017-07-04 14:59:50,874 INFO  [AppLogger] Started validating page title 
+2017-07-04 14:59:51,000 INFO  [AppLogger] ###################################### 
+2017-07-04 14:59:51,000 INFO  [AppLogger] FC001 Status :: pass 
+2017-07-04 14:59:51,000 INFO  [AppLogger] ###################################### 
+2017-07-04 14:59:52,308 INFO  [AppLogger] Click Operation started on :.//*[@id='createjob'] 
+2017-07-04 14:59:52,314 INFO  [AppLogger] Find Element Stareted on- .//*[@id='createjob'] 
+2017-07-04 14:59:52,385 INFO  [AppLogger] Click Operation started on :createjob 
+2017-07-04 14:59:52,387 INFO  [AppLogger] Find Element Stareted on- createjob 
+2017-07-04 14:59:52,441 INFO  [AppLogger] thread starts  
+2017-07-04 14:59:54,442 INFO  [AppLogger] thread starts  
+2017-07-04 14:59:56,444 INFO  [AppLogger] Click Operation started on :o-Print 
+2017-07-04 14:59:56,446 INFO  [AppLogger] Find Element Stareted on- o-Print 
+2017-07-04 14:59:56,591 INFO  [AppLogger] thread starts  
+2017-07-04 14:59:58,594 INFO  [AppLogger] thread starts  
+2017-07-04 15:00:00,597 INFO  [AppLogger] Send Keys Operation started on Tracking No 
+2017-07-04 15:00:00,600 INFO  [AppLogger] Find Element Stareted on- Tracking No 
+2017-07-04 15:00:00,734 INFO  [AppLogger] thread starts  
+2017-07-04 15:00:02,736 INFO  [AppLogger] thread starts  
+2017-07-04 15:00:04,760 INFO  [AppLogger] Send Keys Operation started on .//*[@id='203'] 
+2017-07-04 15:00:04,767 INFO  [AppLogger] Find Element Stareted on- .//*[@id='203'] 
+2017-07-04 15:00:19,817 INFO  [AppLogger] Exception in Find Element with name:-.//*[@id='203'] 
+2017-07-04 15:00:34,863 INFO  [AppLogger] Exception in Send Keys to element: .//*[@id='203']
+no such element: Unable to locate element: {"method":"name","selector":".//*[@id='203']"}
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 15.04 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'ADPRO-001735', ip: '192.168.0.182', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed), userDataDir=C:\Users\nkesava\AppData\Local\Temp\scoped_dir6908_10778}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=56.0.2924.87, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 74526b22761fba11029dd3863905568d
+*** Element info: {Using=name, value=.//*[@id='203']} 
+2017-07-04 15:00:34,908 INFO  [AppLogger] takeScreenShot Stareted on- JD 
+2017-07-04 15:00:35,210 INFO  [AppLogger] ###################################### 
+2017-07-04 15:00:35,210 INFO  [AppLogger] FC002 Status :: automationfail 
+2017-07-04 15:00:35,210 INFO  [AppLogger] ###################################### 
+2017-07-04 15:00:41,668 INFO  [AppLogger] takeScreenShot Stareted on- JD 
+2017-07-04 15:00:41,865 INFO  [AppLogger] ###################################### 
+2017-07-04 15:00:41,865 INFO  [AppLogger] FC015 Status :: automationfail 
+2017-07-04 15:00:41,865 INFO  [AppLogger] ###################################### 
+2017-07-04 15:00:43,203 INFO  [AppLogger] Click Operation started on ://input[@src='/images/go.png'] 
+2017-07-04 15:00:43,204 INFO  [AppLogger] Find Element Stareted on- //input[@src='/images/go.png'] 
+2017-07-04 15:00:43,246 INFO  [AppLogger] Exception in clicking element: //input[@src='/images/go.png']
+element not visible
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 19 milliseconds
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'ADPRO-001735', ip: '192.168.0.182', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed), userDataDir=C:\Users\nkesava\AppData\Local\Temp\scoped_dir6908_10778}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=56.0.2924.87, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 74526b22761fba11029dd3863905568d 
+2017-07-04 15:00:43,284 INFO  [AppLogger] takeScreenShot Stareted on- JD 
+2017-07-04 15:00:43,475 INFO  [AppLogger] ###################################### 
+2017-07-04 15:00:43,475 INFO  [AppLogger] FC003 Status :: automationfail 
+2017-07-04 15:00:43,475 INFO  [AppLogger] ###################################### 
+2017-07-04 15:00:49,821 INFO  [AppLogger] takeScreenShot Stareted on- JD 
+2017-07-04 15:00:50,058 INFO  [AppLogger] ###################################### 
+2017-07-04 15:00:50,058 INFO  [AppLogger] FC004 Status :: automationfail 
+2017-07-04 15:00:50,058 INFO  [AppLogger] ###################################### 
+2017-07-04 15:00:56,425 INFO  [AppLogger] takeScreenShot Stareted on- JD 
+2017-07-04 15:00:56,672 INFO  [AppLogger] ###################################### 
+2017-07-04 15:00:56,672 INFO  [AppLogger] FC005 Status :: automationfail 
+2017-07-04 15:00:56,672 INFO  [AppLogger] ###################################### 
+2017-07-04 15:01:03,023 INFO  [AppLogger] takeScreenShot Stareted on- JD 
+2017-07-04 15:01:03,177 INFO  [AppLogger] ###################################### 
+2017-07-04 15:01:03,177 INFO  [AppLogger] FC006 Status :: automationfail 
+2017-07-04 15:01:03,177 INFO  [AppLogger] ###################################### 
+2017-07-04 15:01:09,507 INFO  [AppLogger] takeScreenShot Stareted on- JD 
+2017-07-04 15:01:09,649 INFO  [AppLogger] ###################################### 
+2017-07-04 15:01:09,649 INFO  [AppLogger] FC007 Status :: automationfail 
+2017-07-04 15:01:09,649 INFO  [AppLogger] ###################################### 

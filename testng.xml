@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Main Test Suite" verbose="2">
+<listeners>
+       <listener class-name="ad2pro.fw.testListeners.TestListener"/>
+  </listeners>
+  
+    <test name="TestNG Test Group">
+        <classes>
+  	      <class name="ad2pro.fcn.tests.BaseTest"/>
+  	      <class name="ad2pro.fcn.tests.TestCaseExecution"/>
+        </classes>
+    </test>
+</suite>

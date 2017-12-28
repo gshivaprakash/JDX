@@ -1,0 +1,23 @@
+2017-08-18 11:47:19,759 INFO  [AppLogger] Executing testcase on OS:-windows 7 
+2017-08-18 11:47:19,759 INFO  [AppLogger] Current host name :-ADPRO-001734 
+2017-08-18 11:47:19,759 INFO  [AppLogger] Current IP address :-192.168.0.165 
+2017-08-18 11:47:19,759 INFO  [AppLogger] Operating system type :-amd64 
+2017-08-18 11:47:19,759 INFO  [AppLogger] Operating system version :-6.1 
+2017-08-18 11:47:19,759 INFO  [AppLogger] Operating system Info :-Intel64 Family 6 Model 58 Stepping 9, GenuineIntel 
+2017-08-18 11:47:25,174 INFO  [AppLogger] firefoxBrowser Opened 
+2017-08-18 11:47:30,430 INFO  [AppLogger] Page Opened for the url https://jd1-qc.2adpro.com 
+2017-08-18 11:47:31,554 INFO  [AppLogger] Send Keys Operation started on username 
+2017-08-18 11:47:31,566 INFO  [AppLogger] Find Element Stareted on- username 
+2017-08-18 11:47:31,700 INFO  [AppLogger] Send Keys Operation started on password 
+2017-08-18 11:47:31,703 INFO  [AppLogger] Find Element Stareted on- password 
+2017-08-18 11:47:31,764 INFO  [AppLogger] Click Operation started on :login_submit 
+2017-08-18 11:47:31,766 INFO  [AppLogger] Find Element Stareted on- login_submit 
+2017-08-18 11:47:34,454 INFO  [AppLogger] Waiting for page and its elements to be loaded completely 
+2017-08-18 11:47:34,509 INFO  [AppLogger] Unable to load the page within set time limitWindow not found. The browser window may have been closed.
+Command duration or timeout: 22 milliseconds
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'ADPRO-001734', ip: '192.168.0.165', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=35.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 90c567bd-9a07-4f8b-851a-469e0c06420f 
+2017-08-18 11:47:34,597 INFO  [AppLogger] takeScreenShot Stareted on- JDManage 

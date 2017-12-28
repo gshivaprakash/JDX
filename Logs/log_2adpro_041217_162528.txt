@@ -1,0 +1,49 @@
+2017-04-12 16:25:28,418 INFO  [AppLogger] Executing testcase on OS:-windows 7 
+2017-04-12 16:25:28,419 INFO  [AppLogger] Current host name :-ADPRO-001735 
+2017-04-12 16:25:28,419 INFO  [AppLogger] Current IP address :-192.168.1.220 
+2017-04-12 16:25:28,419 INFO  [AppLogger] Operating system type :-amd64 
+2017-04-12 16:25:28,419 INFO  [AppLogger] Operating system version :-6.1 
+2017-04-12 16:25:28,419 INFO  [AppLogger] Operating system Info :-Intel64 Family 6 Model 58 Stepping 9, GenuineIntel 
+2017-04-12 16:25:31,286 INFO  [AppLogger] chromeBrowser Opened 
+2017-04-12 16:25:38,331 INFO  [AppLogger] Page Opened for the url https://qc-unipaper.2adpro.com/view/index 
+2017-04-12 16:25:40,559 INFO  [AppLogger] Send Keys Operation started on username 
+2017-04-12 16:25:40,562 INFO  [AppLogger] Find Element Stareted on- username 
+2017-04-12 16:25:40,662 INFO  [AppLogger] Send Keys Operation started on password 
+2017-04-12 16:25:40,664 INFO  [AppLogger] Find Element Stareted on- password 
+2017-04-12 16:25:40,746 INFO  [AppLogger] thread starts  
+2017-04-12 16:25:42,758 INFO  [AppLogger] thread starts  
+2017-04-12 16:25:44,762 INFO  [AppLogger] Click Operation started on :login_submit 
+2017-04-12 16:25:44,766 INFO  [AppLogger] Find Element Stareted on- login_submit 
+2017-04-12 16:26:02,540 INFO  [AppLogger] thread starts  
+2017-04-12 16:26:04,545 INFO  [AppLogger] thread starts  
+2017-04-12 16:26:06,560 INFO  [AppLogger] Waiting for page and its elements to be loaded completely 
+2017-04-12 16:26:06,589 INFO  [AppLogger] Started validating page title 
+2017-04-12 16:26:06,712 INFO  [AppLogger] ###################################### 
+2017-04-12 16:26:06,712 INFO  [AppLogger] FC016 Status :: pass 
+2017-04-12 16:26:06,712 INFO  [AppLogger] ###################################### 
+2017-04-12 16:26:45,687 INFO  [AppLogger] Page Opened for the url https://eproofjd-qc.2adpro.com/index.php?ref=e58ee049c81476_V1_R0&proofurl=KujxjwTyINk0W9t7VJkj2A%3D%3D 
+2017-04-12 16:26:45,691 INFO  [AppLogger] Waiting for page and its elements to be loaded completely 
+2017-04-12 16:26:45,718 INFO  [AppLogger] thread starts  
+2017-04-12 16:26:47,721 INFO  [AppLogger] thread starts  
+2017-04-12 16:26:49,726 INFO  [AppLogger] thread starts  
+2017-04-12 16:26:51,729 INFO  [AppLogger] thread starts  
+2017-04-12 16:26:53,733 INFO  [AppLogger] thread starts  
+2017-04-12 16:26:55,736 INFO  [AppLogger] Click Operation started on :.//*[@id='mainWrap']/div[1]/div[2]/div[2]/input[3] 
+2017-04-12 16:26:55,741 INFO  [AppLogger] Find Element Stareted on- .//*[@id='mainWrap']/div[1]/div[2]/div[2]/input[3] 
+2017-04-12 16:26:55,827 INFO  [AppLogger] thread starts  
+2017-04-12 16:26:57,830 INFO  [AppLogger] Click Operation started on ://input[@value='Approve'] 
+2017-04-12 16:26:57,833 INFO  [AppLogger] Find Element Stareted on- //input[@value='Approve'] 
+2017-04-12 16:26:57,917 INFO  [AppLogger] Exception in clicking element: //input[@value='Approve']
+unknown error: Element is not clickable at point (1296, 85). Other element would receive the click: <div class="approveMask" style="display: block;">...</div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 35 milliseconds
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'ADPRO-001735', ip: '192.168.1.220', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed), userDataDir=C:\Users\nkesava\AppData\Local\Temp\scoped_dir8224_10718}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=56.0.2924.87, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 34d416698cda404ab997ddb807437e08 
+2017-04-12 16:26:57,972 INFO  [AppLogger] takeScreenShot Stareted on- JD 
+2017-04-12 16:26:58,228 INFO  [AppLogger] ###################################### 
+2017-04-12 16:26:58,228 INFO  [AppLogger] FC022 Status :: automationfail 
+2017-04-12 16:26:58,228 INFO  [AppLogger] ###################################### 

@@ -1,0 +1,21 @@
+2017-06-22 20:06:53,385 INFO  [AppLogger] Executing testcase on OS:-windows 7 
+2017-06-22 20:06:53,385 INFO  [AppLogger] Current host name :-ADPRO-001735 
+2017-06-22 20:06:53,386 INFO  [AppLogger] Current IP address :-192.168.0.209 
+2017-06-22 20:06:53,386 INFO  [AppLogger] Operating system type :-amd64 
+2017-06-22 20:06:53,386 INFO  [AppLogger] Operating system version :-6.1 
+2017-06-22 20:06:53,386 INFO  [AppLogger] Operating system Info :-Intel64 Family 6 Model 58 Stepping 9, GenuineIntel 
+2017-06-22 20:06:56,004 INFO  [AppLogger] chromeBrowser Opened 
+2017-06-22 20:07:03,442 INFO  [AppLogger] Page Opened for the url https://jd1-qc.2adpro.com/view/index 
+2017-06-22 20:07:05,621 INFO  [AppLogger] Send Keys Operation started on username 
+2017-06-22 20:07:05,624 INFO  [AppLogger] Find Element Stareted on- username 
+2017-06-22 20:07:05,721 INFO  [AppLogger] Send Keys Operation started on password 
+2017-06-22 20:07:05,723 INFO  [AppLogger] Find Element Stareted on- password 
+2017-06-22 20:07:05,784 INFO  [AppLogger] Click Operation started on :login_submit 
+2017-06-22 20:07:05,787 INFO  [AppLogger] Find Element Stareted on- login_submit 
+2017-06-22 20:07:07,948 INFO  [AppLogger] Waiting for page and its elements to be loaded completely 
+2017-06-22 20:07:07,978 INFO  [AppLogger] Started validating page title 
+2017-06-22 20:07:08,091 INFO  [AppLogger] ###################################### 
+2017-06-22 20:07:08,091 INFO  [AppLogger] FC001 Status :: pass 
+2017-06-22 20:07:08,091 INFO  [AppLogger] ###################################### 
+2017-06-22 20:07:09,376 INFO  [AppLogger] Click Operation started on :.//*[@id='createjob'] 
+2017-06-22 20:07:09,381 INFO  [AppLogger] Find Element Stareted on- .//*[@id='createjob'] 

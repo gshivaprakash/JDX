@@ -1,0 +1,21 @@
+2017-06-05 16:20:29,032 INFO  [AppLogger] Executing testcase on OS:-windows 7 
+2017-06-05 16:20:29,032 INFO  [AppLogger] Current host name :-ADPRO-001735 
+2017-06-05 16:20:29,033 INFO  [AppLogger] Current IP address :-192.168.0.147 
+2017-06-05 16:20:29,033 INFO  [AppLogger] Operating system type :-amd64 
+2017-06-05 16:20:29,033 INFO  [AppLogger] Operating system version :-6.1 
+2017-06-05 16:20:29,033 INFO  [AppLogger] Operating system Info :-Intel64 Family 6 Model 58 Stepping 9, GenuineIntel 
+2017-06-05 16:20:31,564 INFO  [AppLogger] chromeBrowser Opened 
+2017-06-05 16:20:39,896 INFO  [AppLogger] Page Opened for the url https://jdvault-qc.2adpro.com 
+2017-06-05 16:20:42,038 INFO  [AppLogger] Send Keys Operation started on username 
+2017-06-05 16:20:42,041 INFO  [AppLogger] Find Element Stareted on- username 
+2017-06-05 16:20:42,134 INFO  [AppLogger] Click Operation started on :login_submit 
+2017-06-05 16:20:42,136 INFO  [AppLogger] Find Element Stareted on- login_submit 
+2017-06-05 16:20:43,169 INFO  [AppLogger] Send Keys Operation started on password 
+2017-06-05 16:20:43,174 INFO  [AppLogger] Find Element Stareted on- password 
+2017-06-05 16:20:43,247 INFO  [AppLogger] Click Operation started on :login_submit 
+2017-06-05 16:20:43,249 INFO  [AppLogger] Find Element Stareted on- login_submit 
+2017-06-05 16:20:56,509 INFO  [AppLogger] Waiting for page and its elements to be loaded completely 
+2017-06-05 16:20:56,525 INFO  [AppLogger] Started validating page title 
+2017-06-05 16:20:56,626 INFO  [AppLogger] ###################################### 
+2017-06-05 16:20:56,626 INFO  [AppLogger] FC001 Status :: pass 
+2017-06-05 16:20:56,626 INFO  [AppLogger] ###################################### 

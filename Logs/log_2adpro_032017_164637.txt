@@ -1,0 +1,45 @@
+2017-03-20 16:46:37,967 INFO  [AppLogger] Executing testcase on OS:-windows 7 
+2017-03-20 16:46:37,967 INFO  [AppLogger] Current host name :-ADPRO-001735 
+2017-03-20 16:46:37,967 INFO  [AppLogger] Current IP address :-192.168.0.148 
+2017-03-20 16:46:37,967 INFO  [AppLogger] Operating system type :-amd64 
+2017-03-20 16:46:37,967 INFO  [AppLogger] Operating system version :-6.1 
+2017-03-20 16:46:37,967 INFO  [AppLogger] Operating system Info :-Intel64 Family 6 Model 58 Stepping 9, GenuineIntel 
+2017-03-20 16:46:40,796 INFO  [AppLogger] chromeBrowser Opened 
+2017-03-20 16:47:06,288 INFO  [AppLogger] Page Opened for the url https://jd1-qc.2adpro.com/index/login 
+2017-03-20 16:47:08,534 INFO  [AppLogger] Send Keys Operation started on username 
+2017-03-20 16:47:08,544 INFO  [AppLogger] Find Element Stareted on- username 
+2017-03-20 16:47:08,666 INFO  [AppLogger] Send Keys Operation started on password 
+2017-03-20 16:47:08,669 INFO  [AppLogger] Find Element Stareted on- password 
+2017-03-20 16:47:08,785 INFO  [AppLogger] Click Operation started on :login_submit 
+2017-03-20 16:47:08,788 INFO  [AppLogger] Find Element Stareted on- login_submit 
+2017-03-20 16:48:04,193 INFO  [AppLogger] Waiting for page and its elements to be loaded completely 
+2017-03-20 16:49:19,771 INFO  [AppLogger] Started validating page title 
+2017-03-20 16:49:19,802 INFO  [AppLogger] ###################################### 
+2017-03-20 16:49:19,802 INFO  [AppLogger] FC001 Status :: pass 
+2017-03-20 16:49:19,802 INFO  [AppLogger] ###################################### 
+2017-03-20 16:49:21,178 INFO  [AppLogger] Click Operation started on ://div[@class='header']/div[3]/ul/li[@class='hdr_analytics'] 
+2017-03-20 16:49:21,205 INFO  [AppLogger] Find Element Stareted on- //div[@class='header']/div[3]/ul/li[@class='hdr_analytics'] 
+2017-03-20 16:49:21,256 INFO  [AppLogger] thread starts  
+2017-03-20 16:49:23,266 INFO  [AppLogger] Click Operation started on :.//*[@id='ad_detail'] 
+2017-03-20 16:49:23,266 INFO  [AppLogger] Find Element Stareted on- .//*[@id='ad_detail'] 
+2017-03-20 16:49:23,318 INFO  [AppLogger] thread starts  
+2017-03-20 16:49:25,320 INFO  [AppLogger] thread starts  
+2017-03-20 16:49:27,324 INFO  [AppLogger] Click Operation started on :.//*[@id='ad_detail_form']/div[1]/div/div[2]/div[1] 
+2017-03-20 16:49:27,325 INFO  [AppLogger] Find Element Stareted on- .//*[@id='ad_detail_form']/div[1]/div/div[2]/div[1] 
+2017-03-20 16:49:42,394 INFO  [AppLogger] Exception in Find Element with xpath:-.//*[@id='ad_detail_form']/div[1]/div/div[2]/div[1] 
+2017-03-20 16:49:57,436 INFO  [AppLogger] Exception in clicking element: .//*[@id='ad_detail_form']/div[1]/div/div[2]/div[1]
+no such element: Unable to locate element: {"method":"xpath","selector":".//*[@id='ad_detail_form']/div[1]/div/div[2]/div[1]"}
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 15.04 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'ADPRO-001735', ip: '192.168.0.148', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed), userDataDir=C:\Users\nkesava\AppData\Local\Temp\scoped_dir11892_29294}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=56.0.2924.87, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 7bda77fba9d8f11f242062dd5fdaa861
+*** Element info: {Using=xpath, value=.//*[@id='ad_detail_form']/div[1]/div/div[2]/div[1]} 
+2017-03-20 16:49:57,464 INFO  [AppLogger] takeScreenShot Stareted on- JD 
+2017-03-20 16:49:57,740 INFO  [AppLogger] ###################################### 
+2017-03-20 16:49:57,740 INFO  [AppLogger] FC009 Status :: automationfail 
+2017-03-20 16:49:57,740 INFO  [AppLogger] ###################################### 

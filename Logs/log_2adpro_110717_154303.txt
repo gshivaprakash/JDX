@@ -1,0 +1,154 @@
+2017-11-07 15:43:03,311 INFO  [AppLogger] Executing testcase on OS:-windows 7 
+2017-11-07 15:43:03,312 INFO  [AppLogger] Current host name :-ADPRO-001734 
+2017-11-07 15:43:03,312 INFO  [AppLogger] Current IP address :-192.168.0.165 
+2017-11-07 15:43:03,312 INFO  [AppLogger] Operating system type :-amd64 
+2017-11-07 15:43:03,312 INFO  [AppLogger] Operating system version :-6.1 
+2017-11-07 15:43:03,313 INFO  [AppLogger] Operating system Info :-Intel64 Family 6 Model 58 Stepping 9, GenuineIntel 
+2017-11-07 15:43:16,368 INFO  [AppLogger] firefoxBrowser Opened 
+2017-11-07 15:43:24,140 INFO  [AppLogger] Page Opened for the url https://jdtraffic-qc.2adpro.com 
+2017-11-07 15:43:26,160 INFO  [AppLogger] Send Keys Operation started on username 
+2017-11-07 15:43:26,164 INFO  [AppLogger] Find Element Stareted on- username 
+2017-11-07 15:43:26,638 INFO  [AppLogger] Send Keys Operation started on .//*[@id='loginform']/input[2] 
+2017-11-07 15:43:26,642 INFO  [AppLogger] Find Element Stareted on- .//*[@id='loginform']/input[2] 
+2017-11-07 15:43:27,209 INFO  [AppLogger] Click Operation started on :login_submit 
+2017-11-07 15:43:27,211 INFO  [AppLogger] Find Element Stareted on- login_submit 
+2017-11-07 15:43:53,060 INFO  [AppLogger] Waiting for page and its elements to be loaded completely 
+2017-11-07 15:44:13,155 INFO  [AppLogger] Started validating page title 
+2017-11-07 15:44:13,415 INFO  [AppLogger] ###################################### 
+2017-11-07 15:44:13,415 INFO  [AppLogger] FC002 Status :: pass 
+2017-11-07 15:44:13,415 INFO  [AppLogger] ###################################### 
+2017-11-07 15:44:15,156 INFO  [AppLogger] Click Operation started on :.//*[@id='mainWrap']/header/nav/div/div[1]/a[3] 
+2017-11-07 15:44:15,168 INFO  [AppLogger] Find Element Stareted on- .//*[@id='mainWrap']/header/nav/div/div[1]/a[3] 
+2017-11-07 15:44:15,494 INFO  [AppLogger] Waiting for page and its elements to be loaded completely 
+2017-11-07 15:44:30,395 INFO  [AppLogger] Click Operation started on ://label[text()='Region'] 
+2017-11-07 15:44:30,398 INFO  [AppLogger] Find Element Stareted on- //label[text()='Region'] 
+2017-11-07 15:44:30,688 INFO  [AppLogger] selectFromListGroupByText started : //div[@class='selectBoxInput active']/ul/li 
+2017-11-07 15:44:30,691 INFO  [AppLogger] Find Elements Stareted on://div[@class='selectBoxInput active']/ul/li 
+2017-11-07 15:44:31,694 INFO  [AppLogger] Found the option:2adpro Preview that you were looking for dropdown and clicking the same 
+2017-11-07 15:44:31,948 INFO  [AppLogger] Send Keys Operation started on trackingNumber 
+2017-11-07 15:44:31,951 INFO  [AppLogger] Find Element Stareted on- trackingNumber 
+2017-11-07 15:44:32,122 INFO  [AppLogger] Send Keys Operation started on orderName 
+2017-11-07 15:44:32,125 INFO  [AppLogger] Find Element Stareted on- orderName 
+2017-11-07 15:44:32,409 INFO  [AppLogger] Send Keys Operation started on advertiserName 
+2017-11-07 15:44:32,411 INFO  [AppLogger] Find Element Stareted on- advertiserName 
+2017-11-07 15:44:32,740 INFO  [AppLogger] Send Keys Operation started on salesrep 
+2017-11-07 15:44:32,743 INFO  [AppLogger] Find Element Stareted on- salesrep 
+2017-11-07 15:44:32,941 INFO  [AppLogger] thread starts  
+2017-11-07 15:44:34,945 INFO  [AppLogger] Click Operation started on :.//*[@id='orderForm']/formsection[6]/div/div/formsection/div/div/formsection[1]/div/div/formsection/div/div/ul/li/a 
+2017-11-07 15:44:34,949 INFO  [AppLogger] Find Element Stareted on- .//*[@id='orderForm']/formsection[6]/div/div/formsection/div/div/formsection[1]/div/div/formsection/div/div/ul/li/a 
+2017-11-07 15:44:35,264 INFO  [AppLogger] Click Operation started on :.//*[@id='orderForm']/formsection[6]/div/div/formsection/div/div/formsection[1]/div/div/formsection/div/div/ul/li/ul/li[2]/a 
+2017-11-07 15:44:35,268 INFO  [AppLogger] Find Element Stareted on- .//*[@id='orderForm']/formsection[6]/div/div/formsection/div/div/formsection[1]/div/div/formsection/div/div/ul/li/ul/li[2]/a 
+2017-11-07 15:44:35,599 INFO  [AppLogger] Waiting for page and its elements to be loaded completely 
+2017-11-07 15:44:45,976 INFO  [AppLogger] thread starts  
+2017-11-07 15:44:47,980 INFO  [AppLogger] validateOrderNumber starts //formsection[@name='lineitemBaseActions0']/div[1]/div/input[@value='Order Entry'] 
+2017-11-07 15:44:47,983 INFO  [AppLogger] Find Element Stareted on- //formsection[@name='lineitemBaseActions0']/div[1]/div/input[@value='Order Entry'] 
+2017-11-07 15:44:48,150 INFO  [AppLogger] Displayed content mathches with your tag input://formsection[@name='lineitemBaseActions0']/div[1]/div/input[@value='Order Entry'] 
+2017-11-07 15:44:48,153 INFO  [AppLogger] Send Keys Operation started on lineItem[0][name] 
+2017-11-07 15:44:48,156 INFO  [AppLogger] Find Element Stareted on- lineItem[0][name] 
+2017-11-07 15:44:48,452 INFO  [AppLogger] Send Keys Operation started on //input[@refname='lineItem[0][creativePlaceHolders][]'] 
+2017-11-07 15:44:48,456 INFO  [AppLogger] Find Element Stareted on- //input[@refname='lineItem[0][creativePlaceHolders][]'] 
+2017-11-07 15:44:48,673 INFO  [AppLogger] thread starts  
+2017-11-07 15:44:50,676 INFO  [AppLogger] Click Operation started on ://li[text()='300x250'][1] 
+2017-11-07 15:44:50,679 INFO  [AppLogger] Find Element Stareted on- //li[text()='300x250'][1] 
+2017-11-07 15:44:51,066 INFO  [AppLogger] Click Operation started on :lineItem[0][startDate][date] 
+2017-11-07 15:44:51,069 INFO  [AppLogger] Find Element Stareted on- lineItem[0][startDate][date] 
+2017-11-07 15:44:53,476 INFO  [AppLogger] Find Element Stareted on- 12 
+2017-11-07 15:44:58,582 INFO  [AppLogger] Click Operation started on :lineItem[0][endDate][date] 
+2017-11-07 15:44:58,584 INFO  [AppLogger] Find Element Stareted on- lineItem[0][endDate][date] 
+2017-11-07 15:44:59,344 INFO  [AppLogger] Find Element Stareted on- 23 
+2017-11-07 15:44:59,920 INFO  [AppLogger] thread starts  
+2017-11-07 15:45:01,923 INFO  [AppLogger] Click Operation started on ://label[text()='Rate Type ( GBP ) '] 
+2017-11-07 15:45:01,926 INFO  [AppLogger] Find Element Stareted on- //label[text()='Rate Type ( GBP ) '] 
+2017-11-07 15:45:02,228 INFO  [AppLogger] Waiting for element //div[@class='selectBoxInput active']/ul/li 
+2017-11-07 15:45:02,231 INFO  [AppLogger] Find Element Stareted on- //div[@class='selectBoxInput active']/ul/li 
+2017-11-07 15:45:02,490 INFO  [AppLogger] selectFromListGroupByText started : //div[@class='selectBoxInput active']/ul/li 
+2017-11-07 15:45:02,494 INFO  [AppLogger] Find Elements Stareted on://div[@class='selectBoxInput active']/ul/li 
+2017-11-07 15:45:02,648 INFO  [AppLogger] Found the option:CPM that you were looking for dropdown and clicking the same 
+2017-11-07 15:45:02,876 INFO  [AppLogger] Send Keys Operation started on lineItem[0][quantity] 
+2017-11-07 15:45:02,879 INFO  [AppLogger] Find Element Stareted on- lineItem[0][quantity] 
+2017-11-07 15:45:03,001 INFO  [AppLogger] Send Keys Operation started on lineItem[0][costPerUnit] 
+2017-11-07 15:45:03,004 INFO  [AppLogger] Find Element Stareted on- lineItem[0][costPerUnit] 
+2017-11-07 15:45:03,104 INFO  [AppLogger] Click Operation started on ://label[text()='Line Item Type'] 
+2017-11-07 15:45:03,108 INFO  [AppLogger] Find Element Stareted on- //label[text()='Line Item Type'] 
+2017-11-07 15:45:03,421 INFO  [AppLogger] Waiting for element //div[@class='selectBoxInput active']/ul/li 
+2017-11-07 15:45:03,425 INFO  [AppLogger] Find Element Stareted on- //div[@class='selectBoxInput active']/ul/li 
+2017-11-07 15:45:03,739 INFO  [AppLogger] selectFromListGroupByText started : //div[@class='selectBoxInput active']/ul/li 
+2017-11-07 15:45:03,742 INFO  [AppLogger] Find Elements Stareted on://div[@class='selectBoxInput active']/ul/li 
+2017-11-07 15:45:03,875 INFO  [AppLogger] Found the option:Standard that you were looking for dropdown and clicking the same 
+2017-11-07 15:45:04,144 INFO  [AppLogger] Click Operation started on ://input[@value='Delivery'] 
+2017-11-07 15:45:04,148 INFO  [AppLogger] Find Element Stareted on- //input[@value='Delivery'] 
+2017-11-07 15:45:04,401 INFO  [AppLogger] validateOrderNumber starts //span[text()='FRONTLOADED'] 
+2017-11-07 15:45:04,404 INFO  [AppLogger] Find Element Stareted on- //span[text()='FRONTLOADED'] 
+2017-11-07 15:45:04,552 INFO  [AppLogger] Displayed content mathches with your tag input://span[text()='FRONTLOADED'] 
+2017-11-07 15:45:04,554 INFO  [AppLogger] validateOrderNumber starts //span[text()='ONE_OR_MORE'] 
+2017-11-07 15:45:04,557 INFO  [AppLogger] Find Element Stareted on- //span[text()='ONE_OR_MORE'] 
+2017-11-07 15:45:04,671 INFO  [AppLogger] Displayed content mathches with your tag input://span[text()='ONE_OR_MORE'] 
+2017-11-07 15:45:04,674 INFO  [AppLogger] validateOrderNumber starts //span[text()='OPTIMIZED'] 
+2017-11-07 15:45:04,678 INFO  [AppLogger] Find Element Stareted on- //span[text()='OPTIMIZED'] 
+2017-11-07 15:45:04,760 INFO  [AppLogger] Displayed content mathches with your tag input://span[text()='OPTIMIZED'] 
+2017-11-07 15:45:04,762 INFO  [AppLogger] Click Operation started on ://input[@value='Targeting'] 
+2017-11-07 15:45:04,765 INFO  [AppLogger] Find Element Stareted on- //input[@value='Targeting'] 
+2017-11-07 15:45:05,023 INFO  [AppLogger] Click Operation started on ://label[text()='Target Server'] 
+2017-11-07 15:45:05,026 INFO  [AppLogger] Find Element Stareted on- //label[text()='Target Server'] 
+2017-11-07 15:45:05,289 INFO  [AppLogger] selectFromListGroupByText started : //div[@class='selectBoxInput active']/ul/li 
+2017-11-07 15:45:05,292 INFO  [AppLogger] Find Elements Stareted on://div[@class='selectBoxInput active']/ul/li 
+2017-11-07 15:45:05,473 INFO  [AppLogger] Found the option:DFP that you were looking for dropdown and clicking the same 
+2017-11-07 15:45:05,647 INFO  [AppLogger] Click Operation started on ://span[@ref='showInv'] 
+2017-11-07 15:45:05,650 INFO  [AppLogger] Find Element Stareted on- //span[@ref='showInv'] 
+2017-11-07 15:45:05,941 INFO  [AppLogger] thread starts  
+2017-11-07 15:45:07,944 INFO  [AppLogger] validateOrderNumber starts //div[text()='Ad Units'] 
+2017-11-07 15:45:07,947 INFO  [AppLogger] Find Element Stareted on- //div[text()='Ad Units'] 
+2017-11-07 15:45:08,059 INFO  [AppLogger] Displayed content mathches with your tag input://div[text()='Ad Units'] 
+2017-11-07 15:45:08,062 INFO  [AppLogger] Send Keys Operation started on inv_target[] 
+2017-11-07 15:45:08,066 INFO  [AppLogger] Find Element Stareted on- inv_target[] 
+2017-11-07 15:45:08,283 INFO  [AppLogger] thread starts  
+2017-11-07 15:45:18,286 INFO  [AppLogger] thread starts  
+2017-11-07 15:45:20,288 INFO  [AppLogger] thread starts  
+2017-11-07 15:45:22,291 INFO  [AppLogger] Click Operation started on ://li[@class='parent'][4]/span 
+2017-11-07 15:45:22,294 INFO  [AppLogger] Find Element Stareted on- //li[@class='parent'][4]/span 
+2017-11-07 15:45:22,646 INFO  [AppLogger] thread starts  
+2017-11-07 15:45:24,649 INFO  [AppLogger] validateOrderNumber starts //div[text()='www.exchangeandmart.co.uk'] 
+2017-11-07 15:45:24,652 INFO  [AppLogger] Find Element Stareted on- //div[text()='www.exchangeandmart.co.uk'] 
+2017-11-07 15:45:24,771 INFO  [AppLogger] Displayed content mathches with your tag input://div[text()='www.exchangeandmart.co.uk'] 
+2017-11-07 15:45:24,774 INFO  [AppLogger] thread starts  
+2017-11-07 15:45:26,776 INFO  [AppLogger] Click Operation started on ://span[@ref='showDev'] 
+2017-11-07 15:45:26,779 INFO  [AppLogger] Find Element Stareted on- //span[@ref='showDev'] 
+2017-11-07 15:45:27,161 INFO  [AppLogger] thread starts  
+2017-11-07 15:45:29,164 INFO  [AppLogger] validateOrderNumber starts //div[text()='Devices'] 
+2017-11-07 15:45:29,170 INFO  [AppLogger] Find Element Stareted on- //div[text()='Devices'] 
+2017-11-07 15:45:29,260 INFO  [AppLogger] Displayed content mathches with your tag input://div[text()='Devices'] 
+2017-11-07 15:45:29,263 INFO  [AppLogger] Click Operation started on ://li[@value='30000']/a/input 
+2017-11-07 15:45:29,266 INFO  [AppLogger] Find Element Stareted on- //li[@value='30000']/a/input 
+2017-11-07 15:45:29,621 INFO  [AppLogger] Click Operation started on :.//*[@id='orderForm']/formsection[9]/formsection/div/div/formsection[14]/div[2]/div/input 
+2017-11-07 15:45:29,625 INFO  [AppLogger] Find Element Stareted on- .//*[@id='orderForm']/formsection[9]/formsection/div/div/formsection[14]/div[2]/div/input 
+2017-11-07 15:45:29,919 INFO  [AppLogger] thread starts  
+2017-11-07 15:45:31,922 INFO  [AppLogger] validateOrderNumber starts //div[text()='Desktop'] 
+2017-11-07 15:45:31,925 INFO  [AppLogger] Find Element Stareted on- //div[text()='Desktop'] 
+2017-11-07 15:45:32,064 INFO  [AppLogger] Displayed content mathches with your tag input://div[text()='Desktop'] 
+2017-11-07 15:45:32,076 INFO  [AppLogger] Click Operation started on ://input[@value='Creatives'] 
+2017-11-07 15:45:32,081 INFO  [AppLogger] Find Element Stareted on- //input[@value='Creatives'] 
+2017-11-07 15:45:32,384 INFO  [AppLogger] Click Operation started on :input[value='Add Creative'] 
+2017-11-07 15:45:32,386 INFO  [AppLogger] Find Element Stareted on- input[value='Add Creative'] 
+2017-11-07 15:45:33,094 INFO  [AppLogger] Click Operation started on ://formsection[@class='assetDetailWrap allcreatives']/div/div/div/label[text()='Product'] 
+2017-11-07 15:45:33,097 INFO  [AppLogger] Find Element Stareted on- //formsection[@class='assetDetailWrap allcreatives']/div/div/div/label[text()='Product'] 
+2017-11-07 15:45:33,445 INFO  [AppLogger] Waiting for element //div[@class='selectBoxInput active']/ul/li 
+2017-11-07 15:45:33,447 INFO  [AppLogger] Find Element Stareted on- //div[@class='selectBoxInput active']/ul/li 
+2017-11-07 15:45:33,761 INFO  [AppLogger] Click Operation started on ://div[@class='selectBoxInput active']/ul/li[2] 
+2017-11-07 15:45:33,764 INFO  [AppLogger] Find Element Stareted on- //div[@class='selectBoxInput active']/ul/li[2] 
+2017-11-07 15:45:34,160 INFO  [AppLogger] Send Keys Operation started on //input[@refname='lineItem[0][size][0]'] 
+2017-11-07 15:45:34,161 INFO  [AppLogger] Find Element Stareted on- //input[@refname='lineItem[0][size][0]'] 
+2017-11-07 15:45:34,325 INFO  [AppLogger] thread starts  
+2017-11-07 15:45:36,328 INFO  [AppLogger] Send Keys Operation started on //input[@refname='lineItem[0][creativePlaceHolders][]'] 
+2017-11-07 15:45:36,330 INFO  [AppLogger] Find Element Stareted on- //input[@refname='lineItem[0][creativePlaceHolders][]'] 
+2017-11-07 15:45:51,514 INFO  [AppLogger] Exception in Send Keys to element: //input[@refname='lineItem[0][creativePlaceHolders][]']
+Element is not currently visible and so may not be interacted with
+Command duration or timeout: 15.09 seconds
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'ADPRO-001734', ip: '192.168.0.165', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=43.0.1, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: b6b0d07a-6b74-494c-9019-e474cd107c20 
+2017-11-07 15:45:51,575 INFO  [AppLogger] takeScreenShot Stareted on- JDX 
+2017-11-07 15:45:52,028 INFO  [AppLogger] ###################################### 
+2017-11-07 15:45:52,028 INFO  [AppLogger] FC003 Status :: automationfail 
+2017-11-07 15:45:52,028 INFO  [AppLogger] ###################################### 

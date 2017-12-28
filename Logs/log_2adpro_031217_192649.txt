@@ -1,0 +1,51 @@
+2017-03-12 19:26:49,234 INFO  [AppLogger] Executing testcase on OSwindows 7 
+2017-03-12 19:26:51,862 INFO  [AppLogger] chromeBrowser Opened 
+2017-03-12 19:27:01,001 INFO  [AppLogger] Page Opened for the url https://jdtraffic.2adpro.com/index/login 
+2017-03-12 19:27:02,972 INFO  [AppLogger] Send Keys Operation started on username 
+2017-03-12 19:27:02,972 INFO  [AppLogger] Find Element Stareted on- username 
+2017-03-12 19:27:03,081 INFO  [AppLogger] Send Keys Operation started on .//*[@id='loginform']/input[2] 
+2017-03-12 19:27:03,081 INFO  [AppLogger] Find Element Stareted on- .//*[@id='loginform']/input[2] 
+2017-03-12 19:27:03,184 INFO  [AppLogger] Click Operation started on :login_submit 
+2017-03-12 19:27:03,184 INFO  [AppLogger] Find Element Stareted on- login_submit 
+2017-03-12 19:27:24,594 INFO  [AppLogger] Waiting for page and its elements to be loaded completely 
+2017-03-12 19:27:27,751 INFO  [AppLogger] ###################################### 
+2017-03-12 19:27:27,751 INFO  [AppLogger] FC002 Status :: pass 
+2017-03-12 19:27:27,751 INFO  [AppLogger] ###################################### 
+2017-03-12 19:27:29,073 INFO  [AppLogger] Click Operation started on ://div[@class='navLinks']/a[text()='DASHBOARD'] 
+2017-03-12 19:27:29,074 INFO  [AppLogger] Find Element Stareted on- //div[@class='navLinks']/a[text()='DASHBOARD'] 
+2017-03-12 19:27:32,983 INFO  [AppLogger] Waiting for page and its elements to be loaded completely 
+2017-03-12 19:27:33,000 INFO  [AppLogger] Click Operation started on :from 
+2017-03-12 19:27:33,000 INFO  [AppLogger] Find Element Stareted on- from 
+2017-03-12 19:27:33,094 INFO  [AppLogger] thread starts  
+2017-03-12 19:27:35,095 INFO  [AppLogger] Click Operation started on ://*[@id='ui-datepicker-div']/div/a[1]/span 
+2017-03-12 19:27:35,095 INFO  [AppLogger] Find Element Stareted on- //*[@id='ui-datepicker-div']/div/a[1]/span 
+2017-03-12 19:27:36,170 INFO  [AppLogger] Click Operation started on ://*[@id='ui-datepicker-div']/div/a[1]/span 
+2017-03-12 19:27:36,170 INFO  [AppLogger] Find Element Stareted on- //*[@id='ui-datepicker-div']/div/a[1]/span 
+2017-03-12 19:27:37,309 INFO  [AppLogger] Find Element Stareted on- 10 
+2017-03-12 19:27:37,455 INFO  [AppLogger] thread starts  
+2017-03-12 19:27:39,460 INFO  [AppLogger] Click Operation started on :to 
+2017-03-12 19:27:39,460 INFO  [AppLogger] Find Element Stareted on- to 
+2017-03-12 19:27:39,550 INFO  [AppLogger] Click Operation started on ://*[@id='ui-datepicker-div']/div/a[1]/span 
+2017-03-12 19:27:39,550 INFO  [AppLogger] Find Element Stareted on- //*[@id='ui-datepicker-div']/div/a[1]/span 
+2017-03-12 19:27:40,637 INFO  [AppLogger] Find Element Stareted on- 22 
+2017-03-12 19:27:40,777 INFO  [AppLogger] Click Operation started on :startDate 
+2017-03-12 19:27:40,777 INFO  [AppLogger] Find Element Stareted on- startDate 
+2017-03-12 19:27:40,846 INFO  [AppLogger] Click Operation started on ://input[@value='SHOW'] 
+2017-03-12 19:27:40,846 INFO  [AppLogger] Find Element Stareted on- //input[@value='SHOW'] 
+2017-03-12 19:27:40,907 INFO  [AppLogger] Waiting for page and its elements to be loaded completely 
+2017-03-12 19:27:46,991 INFO  [AppLogger] Find Element Stareted on- .//*[@id='dashboardDetails']/div[2]/div[1] 
+2017-03-12 19:27:47,031 INFO  [AppLogger] Find Element Stareted on- .//*[@id='dashboardDetails']/div[2]/div[2]/a 
+2017-03-12 19:27:47,076 INFO  [AppLogger] Find Element Stareted on- .//*[@id='dashboardDetails']/div[2]/div[3]/a 
+2017-03-12 19:27:47,121 INFO  [AppLogger] Find Element Stareted on- .//*[@id='dashboardDetails']/div[2]/div[4]/a 
+2017-03-12 19:27:47,158 INFO  [AppLogger] Find Element Stareted on- .//*[@id='dashboardDetails']/div[2]/div[5]/a 
+2017-03-12 19:27:47,195 INFO  [AppLogger] Find Element Stareted on- .//*[@id='dashboardDetails']/div[2]/div[6]/a 
+2017-03-12 19:27:47,235 INFO  [AppLogger] Find Element Stareted on- .//*[@id='dashboardDetails']/div[2]/div[7]/a 
+2017-03-12 19:27:47,274 INFO  [AppLogger] Find Element Stareted on- .//*[@id='dashboardDetails']/div[2]/div[8]/a 
+2017-03-12 19:27:47,311 INFO  [AppLogger] Find Element Stareted on- .//*[@id='dashboardDetails']/div[2]/div[9]/a 
+2017-03-12 19:27:47,354 INFO  [AppLogger] Find Element Stareted on- .//*[@id='dashboardDetails']/div[2]/div[10]/a 
+2017-03-12 19:27:47,392 INFO  [AppLogger] Find Element Stareted on- .//*[@id='dashboardDetails']/div[2]/div[11]/a 
+2017-03-12 19:27:47,429 INFO  [AppLogger] Find Element Stareted on- .//*[@id='dashboardDetails']/div[2]/div[12]/a 
+2017-03-12 19:28:02,476 INFO  [AppLogger] Exception in Find Element with xpath:-.//*[@id='dashboardDetails']/div[2]/div[12]/a 
+2017-03-12 19:28:17,806 INFO  [AppLogger] ###################################### 
+2017-03-12 19:28:17,806 INFO  [AppLogger] FC004 Status :: automationfail 
+2017-03-12 19:28:17,807 INFO  [AppLogger] ###################################### 

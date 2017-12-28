@@ -1,0 +1,38 @@
+2017-06-22 20:13:43,712 INFO  [AppLogger] Executing testcase on OS:-windows 7 
+2017-06-22 20:13:43,713 INFO  [AppLogger] Current host name :-ADPRO-001735 
+2017-06-22 20:13:43,713 INFO  [AppLogger] Current IP address :-192.168.0.209 
+2017-06-22 20:13:43,713 INFO  [AppLogger] Operating system type :-amd64 
+2017-06-22 20:13:43,713 INFO  [AppLogger] Operating system version :-6.1 
+2017-06-22 20:13:43,713 INFO  [AppLogger] Operating system Info :-Intel64 Family 6 Model 58 Stepping 9, GenuineIntel 
+2017-06-22 20:13:46,262 INFO  [AppLogger] chromeBrowser Opened 
+2017-06-22 20:13:53,530 INFO  [AppLogger] Page Opened for the url https://jd1-qc.2adpro.com/view/index 
+2017-06-22 20:13:55,793 INFO  [AppLogger] Send Keys Operation started on username 
+2017-06-22 20:13:55,796 INFO  [AppLogger] Find Element Stareted on- username 
+2017-06-22 20:13:55,879 INFO  [AppLogger] Send Keys Operation started on password 
+2017-06-22 20:13:55,885 INFO  [AppLogger] Find Element Stareted on- password 
+2017-06-22 20:13:55,955 INFO  [AppLogger] Click Operation started on :login_submit 
+2017-06-22 20:13:55,958 INFO  [AppLogger] Find Element Stareted on- login_submit 
+2017-06-22 20:13:57,959 INFO  [AppLogger] Waiting for page and its elements to be loaded completely 
+2017-06-22 20:13:57,979 INFO  [AppLogger] Started validating page title 
+2017-06-22 20:13:58,078 INFO  [AppLogger] ###################################### 
+2017-06-22 20:13:58,078 INFO  [AppLogger] FC001 Status :: pass 
+2017-06-22 20:13:58,078 INFO  [AppLogger] ###################################### 
+2017-06-22 20:13:59,360 INFO  [AppLogger] Click Operation started on :.//*[@id='createjob'] 
+2017-06-22 20:13:59,367 INFO  [AppLogger] Find Element Stareted on- .//*[@id='createjob'] 
+2017-06-22 20:14:14,439 INFO  [AppLogger] Exception in Find Element with xpath:-.//*[@id='createjob'] 
+2017-06-22 20:14:29,493 INFO  [AppLogger] Exception in clicking element: .//*[@id='createjob']
+no such element: Unable to locate element: {"method":"xpath","selector":".//*[@id='createjob']"}
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 15.05 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'ADPRO-001735', ip: '192.168.0.209', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed), userDataDir=C:\Users\nkesava\AppData\Local\Temp\scoped_dir10668_25352}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=56.0.2924.87, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: ea5404ec886a417bbf5893d257469006
+*** Element info: {Using=xpath, value=.//*[@id='createjob']} 
+2017-06-22 20:14:29,543 INFO  [AppLogger] takeScreenShot Stareted on- JD 
+2017-06-22 20:14:29,791 INFO  [AppLogger] ###################################### 
+2017-06-22 20:14:29,791 INFO  [AppLogger] FC002 Status :: automationfail 
+2017-06-22 20:14:29,791 INFO  [AppLogger] ###################################### 

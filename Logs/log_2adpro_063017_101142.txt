@@ -1,0 +1,94 @@
+2017-06-30 10:11:42,407 INFO  [AppLogger] Executing testcase on OS:-windows 7 
+2017-06-30 10:11:42,407 INFO  [AppLogger] Current host name :-ADPRO-001735 
+2017-06-30 10:11:42,407 INFO  [AppLogger] Current IP address :-192.168.0.147 
+2017-06-30 10:11:42,407 INFO  [AppLogger] Operating system type :-amd64 
+2017-06-30 10:11:42,407 INFO  [AppLogger] Operating system version :-6.1 
+2017-06-30 10:11:42,407 INFO  [AppLogger] Operating system Info :-Intel64 Family 6 Model 58 Stepping 9, GenuineIntel 
+2017-06-30 10:11:44,979 INFO  [AppLogger] chromeBrowser Opened 
+2017-06-30 10:11:56,040 INFO  [AppLogger] Page Opened for the url https://jdvault-qc.2adpro.com/index/login 
+2017-06-30 10:11:58,286 INFO  [AppLogger] Send Keys Operation started on username 
+2017-06-30 10:11:58,289 INFO  [AppLogger] Find Element Stareted on- username 
+2017-06-30 10:11:58,375 INFO  [AppLogger] Click Operation started on :login_submit 
+2017-06-30 10:11:58,377 INFO  [AppLogger] Find Element Stareted on- login_submit 
+2017-06-30 10:12:00,121 INFO  [AppLogger] Send Keys Operation started on password 
+2017-06-30 10:12:00,123 INFO  [AppLogger] Find Element Stareted on- password 
+2017-06-30 10:12:00,196 INFO  [AppLogger] Click Operation started on :login_submit 
+2017-06-30 10:12:00,200 INFO  [AppLogger] Find Element Stareted on- login_submit 
+2017-06-30 10:12:10,539 INFO  [AppLogger] Waiting for page and its elements to be loaded completely 
+2017-06-30 10:12:10,553 INFO  [AppLogger] Started validating page title 
+2017-06-30 10:12:10,652 INFO  [AppLogger] ###################################### 
+2017-06-30 10:12:10,652 INFO  [AppLogger] FC001 Status :: pass 
+2017-06-30 10:12:10,652 INFO  [AppLogger] ###################################### 
+2017-06-30 10:12:12,035 INFO  [AppLogger] Click Operation started on ://div[@class='navLinks']/a[text()='CREATE ASSETS'] 
+2017-06-30 10:12:12,038 INFO  [AppLogger] Find Element Stareted on- //div[@class='navLinks']/a[text()='CREATE ASSETS'] 
+2017-06-30 10:12:16,356 INFO  [AppLogger] Waiting for page and its elements to be loaded completely 
+2017-06-30 10:12:16,371 INFO  [AppLogger] validateOrderNumber starts .//*[@id='asset-title'] 
+2017-06-30 10:12:16,373 INFO  [AppLogger] Find Element Stareted on- .//*[@id='asset-title'] 
+2017-06-30 10:12:16,416 INFO  [AppLogger] Displayed content mathches with your tag input:.//*[@id='asset-title'] 
+2017-06-30 10:12:16,418 INFO  [AppLogger] Send Keys Operation started on asset-title 
+2017-06-30 10:12:16,421 INFO  [AppLogger] Find Element Stareted on- asset-title 
+2017-06-30 10:12:16,552 INFO  [AppLogger] Click Operation started on ://div[@tabindex='3'] 
+2017-06-30 10:12:16,554 INFO  [AppLogger] Find Element Stareted on- //div[@tabindex='3'] 
+2017-06-30 10:12:16,631 INFO  [AppLogger] thread starts  
+2017-06-30 10:12:18,632 INFO  [AppLogger] Click Operation started on ://div[@tabindex='3']/ul[@class='dropDownBox']/li[text()='Digital'] 
+2017-06-30 10:12:18,634 INFO  [AppLogger] Find Element Stareted on- //div[@tabindex='3']/ul[@class='dropDownBox']/li[text()='Digital'] 
+2017-06-30 10:12:18,713 INFO  [AppLogger] Click Operation started on ://div[@tabindex='4'] 
+2017-06-30 10:12:18,721 INFO  [AppLogger] Find Element Stareted on- //div[@tabindex='4'] 
+2017-06-30 10:12:18,797 INFO  [AppLogger] thread starts  
+2017-06-30 10:12:20,800 INFO  [AppLogger] Click Operation started on ://div[@tabindex='4']/ul[@class='dropDownBox']/li[text()='Shell Ad'] 
+2017-06-30 10:12:20,803 INFO  [AppLogger] Find Element Stareted on- //div[@tabindex='4']/ul[@class='dropDownBox']/li[text()='Shell Ad'] 
+2017-06-30 10:12:20,877 INFO  [AppLogger] Click Operation started on ://div[@tabindex='5'] 
+2017-06-30 10:12:20,880 INFO  [AppLogger] Find Element Stareted on- //div[@tabindex='5'] 
+2017-06-30 10:12:20,937 INFO  [AppLogger] thread starts  
+2017-06-30 10:12:22,941 INFO  [AppLogger] Click Operation started on ://div[@tabindex='5']/ul[@class='dropDownBox']/li[text()='Auto'] 
+2017-06-30 10:12:22,944 INFO  [AppLogger] Find Element Stareted on- //div[@tabindex='5']/ul[@class='dropDownBox']/li[text()='Auto'] 
+2017-06-30 10:12:23,064 INFO  [AppLogger] thread starts  
+2017-06-30 10:12:25,068 INFO  [AppLogger] Send Keys Operation started on //div[contains(@id,'_tagsinput')]/div[contains(@id,'_addTag')]/input[contains(@id,'_tag')] 
+2017-06-30 10:12:25,071 INFO  [AppLogger] Find Element Stareted on- //div[contains(@id,'_tagsinput')]/div[contains(@id,'_addTag')]/input[contains(@id,'_tag')] 
+2017-06-30 10:12:25,193 INFO  [AppLogger] Click Operation started on ://div[text()='Choose Files'] 
+2017-06-30 10:12:25,195 INFO  [AppLogger] Find Element Stareted on- //div[text()='Choose Files'] 
+2017-06-30 10:12:25,285 INFO  [AppLogger] thread starts  
+2017-06-30 10:12:40,327 INFO  [AppLogger] thread starts  
+2017-06-30 10:12:50,330 INFO  [AppLogger] thread starts  
+2017-06-30 10:13:00,333 INFO  [AppLogger] thread starts  
+2017-06-30 10:13:10,336 INFO  [AppLogger] thread starts  
+2017-06-30 10:13:12,339 INFO  [AppLogger] thread starts  
+2017-06-30 10:13:14,342 INFO  [AppLogger] validateOrderNumber starts //span[text()='Desert.jpg'] 
+2017-06-30 10:13:14,345 INFO  [AppLogger] Find Element Stareted on- //span[text()='Desert.jpg'] 
+2017-06-30 10:13:14,396 INFO  [AppLogger] Displayed content mathches with your tag input://span[text()='Desert.jpg'] 
+2017-06-30 10:13:14,398 INFO  [AppLogger] Click Operation started on :selectAsAsset0 
+2017-06-30 10:13:14,399 INFO  [AppLogger] Find Element Stareted on- selectAsAsset0 
+2017-06-30 10:13:14,457 INFO  [AppLogger] Click Operation started on :add-file-upload-button 
+2017-06-30 10:13:14,458 INFO  [AppLogger] Find Element Stareted on- add-file-upload-button 
+2017-06-30 10:13:14,514 INFO  [AppLogger] thread starts  
+2017-06-30 10:13:16,517 INFO  [AppLogger] Click Operation started on :.//*[@id='create-asset-form']/div[2]/div[3]/div/div/div/div/div[2] 
+2017-06-30 10:13:16,519 INFO  [AppLogger] Find Element Stareted on- .//*[@id='create-asset-form']/div[2]/div[3]/div/div/div/div/div[2] 
+2017-06-30 10:13:16,594 INFO  [AppLogger] thread starts  
+2017-06-30 10:13:26,597 INFO  [AppLogger] thread starts  
+2017-06-30 10:13:36,598 INFO  [AppLogger] thread starts  
+2017-06-30 10:13:46,601 INFO  [AppLogger] thread starts  
+2017-06-30 10:14:01,608 INFO  [AppLogger] thread starts  
+2017-06-30 10:14:11,611 INFO  [AppLogger] thread starts  
+2017-06-30 10:14:21,614 INFO  [AppLogger] validateOrderNumber starts //span[text()='Jellyfish.jpg'] 
+2017-06-30 10:14:21,616 INFO  [AppLogger] Find Element Stareted on- //span[text()='Jellyfish.jpg'] 
+2017-06-30 10:14:21,680 INFO  [AppLogger] Displayed content mathches with your tag input://span[text()='Jellyfish.jpg'] 
+2017-06-30 10:14:21,684 INFO  [AppLogger] scrollToElement starts //input[@id='create-asset-form-submit'] 
+2017-06-30 10:14:21,686 INFO  [AppLogger] Find Element Stareted on- //input[@id='create-asset-form-submit'] 
+2017-06-30 10:14:21,726 INFO  [AppLogger] thread starts  
+2017-06-30 10:14:23,731 INFO  [AppLogger] thread starts  
+2017-06-30 10:14:25,734 INFO  [AppLogger] Click Operation started on :create-asset-form-submit 
+2017-06-30 10:14:25,737 INFO  [AppLogger] Find Element Stareted on- create-asset-form-submit 
+2017-06-30 10:14:25,823 INFO  [AppLogger] Exception in clicking element: create-asset-form-submit
+unknown error: Element is not clickable at point (498, 752)
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 43 milliseconds
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'ADPRO-001735', ip: '192.168.0.147', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed), userDataDir=C:\Users\nkesava\AppData\Local\Temp\scoped_dir6712_29209}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=56.0.2924.87, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 151abfba63824a34c9b92750b86d8370 
+2017-06-30 10:14:25,853 INFO  [AppLogger] takeScreenShot Stareted on- JDVault 
+2017-06-30 10:14:26,146 INFO  [AppLogger] ###################################### 
+2017-06-30 10:14:26,146 INFO  [AppLogger] FC002 Status :: automationfail 
+2017-06-30 10:14:26,146 INFO  [AppLogger] ###################################### 

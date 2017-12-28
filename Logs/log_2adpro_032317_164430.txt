@@ -1,0 +1,11 @@
+2017-03-23 16:44:30,409 INFO  [AppLogger] Executing testcase on OS:-windows 7 
+2017-03-23 16:44:30,409 INFO  [AppLogger] Current host name :-ADPRO-001735 
+2017-03-23 16:44:30,409 INFO  [AppLogger] Current IP address :-192.168.0.146 
+2017-03-23 16:44:30,409 INFO  [AppLogger] Operating system type :-amd64 
+2017-03-23 16:44:30,409 INFO  [AppLogger] Operating system version :-6.1 
+2017-03-23 16:44:30,409 INFO  [AppLogger] Operating system Info :-Intel64 Family 6 Model 58 Stepping 9, GenuineIntel 
+2017-03-23 16:44:35,762 INFO  [AppLogger] firefoxBrowser Opened 
+2017-03-23 16:45:57,881 INFO  [AppLogger] Page Opened for the url https://jd1-qc.2adpro.com/index/login 
+2017-03-23 16:45:59,031 INFO  [AppLogger] Send Keys Operation started on username 
+2017-03-23 16:45:59,031 INFO  [AppLogger] Find Element Stareted on- username 
+2017-03-23 16:46:14,143 INFO  [AppLogger] Exception in Find Element with name:-username 

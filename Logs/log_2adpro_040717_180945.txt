@@ -1,0 +1,43 @@
+2017-04-07 18:09:45,697 INFO  [AppLogger] Executing testcase on OS:-windows 7 
+2017-04-07 18:09:45,697 INFO  [AppLogger] Current host name :-ADPRO-001735 
+2017-04-07 18:09:45,697 INFO  [AppLogger] Current IP address :-192.168.0.206 
+2017-04-07 18:09:45,697 INFO  [AppLogger] Operating system type :-amd64 
+2017-04-07 18:09:45,697 INFO  [AppLogger] Operating system version :-6.1 
+2017-04-07 18:09:45,697 INFO  [AppLogger] Operating system Info :-Intel64 Family 6 Model 58 Stepping 9, GenuineIntel 
+2017-04-07 18:09:50,511 INFO  [AppLogger] firefoxBrowser Opened 
+2017-04-07 18:09:55,843 INFO  [AppLogger] Page Opened for the url https://qc-unipaper.2adpro.com/index/login 
+2017-04-07 18:09:57,022 INFO  [AppLogger] Send Keys Operation started on username 
+2017-04-07 18:09:57,022 INFO  [AppLogger] Find Element Stareted on- username 
+2017-04-07 18:09:57,162 INFO  [AppLogger] Send Keys Operation started on password 
+2017-04-07 18:09:57,162 INFO  [AppLogger] Find Element Stareted on- password 
+2017-04-07 18:09:57,222 INFO  [AppLogger] thread starts  
+2017-04-07 18:09:59,223 INFO  [AppLogger] thread starts  
+2017-04-07 18:10:01,223 INFO  [AppLogger] Click Operation started on :login_submit 
+2017-04-07 18:10:01,223 INFO  [AppLogger] Find Element Stareted on- login_submit 
+2017-04-07 18:10:25,316 INFO  [AppLogger] Waiting for page and its elements to be loaded completely 
+2017-04-07 18:10:25,327 INFO  [AppLogger] Started validating page title 
+2017-04-07 18:10:25,447 INFO  [AppLogger] ###################################### 
+2017-04-07 18:10:25,447 INFO  [AppLogger] FC016 Status :: pass 
+2017-04-07 18:10:25,447 INFO  [AppLogger] ###################################### 
+2017-04-07 18:10:26,808 INFO  [AppLogger] Click Operation started on :.//*[@id='createjob'] 
+2017-04-07 18:10:26,808 INFO  [AppLogger] Find Element Stareted on- .//*[@id='createjob'] 
+2017-04-07 18:10:26,908 INFO  [AppLogger] thread starts  
+2017-04-07 18:10:28,908 INFO  [AppLogger] thread starts  
+2017-04-07 18:10:30,908 INFO  [AppLogger] thread starts  
+2017-04-07 18:10:32,908 INFO  [AppLogger] thread starts  
+2017-04-07 18:10:34,908 INFO  [AppLogger] Send Keys Operation started on Publication Title 
+2017-04-07 18:10:34,908 INFO  [AppLogger] Find Element Stareted on- Publication Title 
+2017-04-07 18:10:35,039 INFO  [AppLogger] Send Keys Operation started on Advertiser 
+2017-04-07 18:10:35,039 INFO  [AppLogger] Find Element Stareted on- Advertiser 
+2017-04-07 18:10:50,118 INFO  [AppLogger] Exception in Send Keys to element: Advertiser
+Element is not currently visible and so may not be interacted with
+Command duration or timeout: 15.05 seconds
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'ADPRO-001735', ip: '192.168.0.206', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=35.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: bf369c80-92bb-4782-889c-a1c1874a2791 
+2017-04-07 18:10:50,160 INFO  [AppLogger] takeScreenShot Stareted on- JD 
+2017-04-07 18:10:50,320 INFO  [AppLogger] ###################################### 
+2017-04-07 18:10:50,320 INFO  [AppLogger] FC017 Status :: automationfail 
+2017-04-07 18:10:50,320 INFO  [AppLogger] ###################################### 

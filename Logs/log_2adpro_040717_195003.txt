@@ -1,0 +1,40 @@
+2017-04-07 19:50:03,618 INFO  [AppLogger] Executing testcase on OS:-windows 7 
+2017-04-07 19:50:03,618 INFO  [AppLogger] Current host name :-ADPRO-001735 
+2017-04-07 19:50:03,618 INFO  [AppLogger] Current IP address :-192.168.0.206 
+2017-04-07 19:50:03,618 INFO  [AppLogger] Operating system type :-amd64 
+2017-04-07 19:50:03,618 INFO  [AppLogger] Operating system version :-6.1 
+2017-04-07 19:50:03,618 INFO  [AppLogger] Operating system Info :-Intel64 Family 6 Model 58 Stepping 9, GenuineIntel 
+2017-04-07 19:50:08,225 INFO  [AppLogger] firefoxBrowser Opened 
+2017-04-07 19:50:33,049 INFO  [AppLogger] Page Opened for the url https://qc-unipaper.2adpro.com/index/login 
+2017-04-07 19:50:52,654 INFO  [AppLogger] Page Opened for the url https://qc-unipaper.2adpro.com/orders/create?f=KUsBLEeSkV2OgSnozWkGBfy5VaWZFYhrfWmsgUYI1PVE1Da9pGbdGg== 
+2017-04-07 19:50:52,654 INFO  [AppLogger] thread starts  
+2017-04-07 19:50:54,654 INFO  [AppLogger] thread starts  
+2017-04-07 19:50:56,654 INFO  [AppLogger] Click Operation started on :.//*[@id='ord_formPrint']/div[2]/div[3]/div/div[1]/div[2]/div[2] 
+2017-04-07 19:50:56,654 INFO  [AppLogger] Find Element Stareted on- .//*[@id='ord_formPrint']/div[2]/div[3]/div/div[1]/div[2]/div[2] 
+2017-04-07 19:50:56,864 INFO  [AppLogger] thread starts  
+2017-04-07 19:50:58,865 INFO  [AppLogger] Click Operation started on :.//*[@id='31']/option[3] 
+2017-04-07 19:50:58,865 INFO  [AppLogger] Find Element Stareted on- .//*[@id='31']/option[3] 
+2017-04-07 19:50:59,015 INFO  [AppLogger] thread starts  
+2017-04-07 19:51:01,015 INFO  [AppLogger] thread starts  
+2017-04-07 19:51:03,015 INFO  [AppLogger] Click Operation started on :.//*[@id='ord_formPrint']/div[2]/div[4]/div/div[1]/div[2]/div[2] 
+2017-04-07 19:51:03,035 INFO  [AppLogger] Find Element Stareted on- .//*[@id='ord_formPrint']/div[2]/div[4]/div/div[1]/div[2]/div[2] 
+2017-04-07 19:51:03,175 INFO  [AppLogger] thread starts  
+2017-04-07 19:51:05,176 INFO  [AppLogger] Click Operation started on :.//*[@id='32']/option[4] 
+2017-04-07 19:51:05,176 INFO  [AppLogger] Find Element Stareted on- .//*[@id='32']/option[4] 
+2017-04-07 19:51:05,376 INFO  [AppLogger] thread starts  
+2017-04-07 19:51:07,377 INFO  [AppLogger] Click Operation started on :.//*[@id='ordercomponentsform']/a 
+2017-04-07 19:51:07,377 INFO  [AppLogger] Find Element Stareted on- .//*[@id='ordercomponentsform']/a 
+2017-04-07 19:51:12,778 INFO  [AppLogger] thread starts  
+2017-04-07 19:51:14,778 INFO  [AppLogger] Click Operation started on :.//*[@id='order-due-date']/div[2]/div[1]/div[2]/div[1] 
+2017-04-07 19:51:14,778 INFO  [AppLogger] Find Element Stareted on- .//*[@id='order-due-date']/div[2]/div[1]/div[2]/div[1] 
+2017-04-07 19:51:14,898 INFO  [AppLogger] thread starts  
+2017-04-07 19:51:16,899 INFO  [AppLogger] Click Operation started on :.//*[@id='14']/option[3] 
+2017-04-07 19:51:16,909 INFO  [AppLogger] Find Element Stareted on- .//*[@id='14']/option[3] 
+2017-04-07 19:51:17,039 INFO  [AppLogger] thread starts  
+2017-04-07 19:51:19,042 INFO  [AppLogger] Click Operation started on :.//*[@id='formSubmit'] 
+2017-04-07 19:51:19,042 INFO  [AppLogger] Find Element Stareted on- .//*[@id='formSubmit'] 
+2017-04-07 19:51:19,262 INFO  [AppLogger] thread starts  
+2017-04-07 19:51:21,263 INFO  [AppLogger] thread starts  
+2017-04-07 19:51:23,395 INFO  [AppLogger] ###################################### 
+2017-04-07 19:51:23,395 INFO  [AppLogger] FC019 Status :: pass 
+2017-04-07 19:51:23,395 INFO  [AppLogger] ###################################### 

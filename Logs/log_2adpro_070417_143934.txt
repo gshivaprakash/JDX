@@ -1,0 +1,21 @@
+2017-07-04 14:39:34,557 INFO  [AppLogger] Executing testcase on OS:-windows 7 
+2017-07-04 14:39:34,558 INFO  [AppLogger] Current host name :-ADPRO-001735 
+2017-07-04 14:39:34,558 INFO  [AppLogger] Current IP address :-192.168.0.182 
+2017-07-04 14:39:34,558 INFO  [AppLogger] Operating system type :-amd64 
+2017-07-04 14:39:34,558 INFO  [AppLogger] Operating system version :-6.1 
+2017-07-04 14:39:34,558 INFO  [AppLogger] Operating system Info :-Intel64 Family 6 Model 58 Stepping 9, GenuineIntel 
+2017-07-04 14:39:37,665 INFO  [AppLogger] chromeBrowser Opened 
+2017-07-04 14:39:37,739 INFO  [AppLogger] Page Opened for the url https://jdx1.2adpro.com 
+2017-07-04 14:39:38,574 INFO  [AppLogger] Send Keys Operation started on username 
+2017-07-04 14:39:38,577 INFO  [AppLogger] Find Element Stareted on- username 
+2017-07-04 14:39:38,597 INFO  [AppLogger] Exception in Find Element with id:-username 
+2017-07-04 14:39:38,615 INFO  [AppLogger] Exception in Send Keys to element: username
+Unable to find element on closed window (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 15 milliseconds
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'ADPRO-001735', ip: '192.168.0.182', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{browserAttachTimeout=0, ie.enableFullPageScreenshot=true, enablePersistentHover=true, ie.forceCreateProcessApi=false, ie.forceShellWindowsApi=false, pageLoadStrategy=normal, ignoreZoomSetting=false, ie.fileUploadDialogTimeout=3000, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=false, browserName=internet explorer, initialBrowserUrl=http://localhost:18673/, javascriptEnabled=true, ignoreProtectedModeSettings=false, enableElementCacheCleanup=true, unexpectedAlertBehaviour=dismiss}]
+Session ID: deda0e39-a953-4e17-a72f-bd91784f5689
+*** Element info: {Using=id, value=username} 
+2017-07-04 14:39:38,721 INFO  [AppLogger] takeScreenShot Stareted on- JDVault 

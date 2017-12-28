@@ -1,0 +1,49 @@
+2017-06-19 16:09:15,531 INFO  [AppLogger] Executing testcase on OS:-windows 7 
+2017-06-19 16:09:15,531 INFO  [AppLogger] Current host name :-ADPRO-001735 
+2017-06-19 16:09:15,531 INFO  [AppLogger] Current IP address :-192.168.0.196 
+2017-06-19 16:09:15,531 INFO  [AppLogger] Operating system type :-amd64 
+2017-06-19 16:09:15,531 INFO  [AppLogger] Operating system version :-6.1 
+2017-06-19 16:09:15,531 INFO  [AppLogger] Operating system Info :-Intel64 Family 6 Model 58 Stepping 9, GenuineIntel 
+2017-06-19 16:09:18,101 INFO  [AppLogger] chromeBrowser Opened 
+2017-06-19 16:09:25,933 INFO  [AppLogger] Page Opened for the url https://jd1-qc.2adpro.com/view/index 
+2017-06-19 16:09:28,415 INFO  [AppLogger] Send Keys Operation started on username 
+2017-06-19 16:09:28,418 INFO  [AppLogger] Find Element Stareted on- username 
+2017-06-19 16:09:28,527 INFO  [AppLogger] Send Keys Operation started on password 
+2017-06-19 16:09:28,530 INFO  [AppLogger] Find Element Stareted on- password 
+2017-06-19 16:09:28,609 INFO  [AppLogger] Click Operation started on :login_submit 
+2017-06-19 16:09:28,612 INFO  [AppLogger] Find Element Stareted on- login_submit 
+2017-06-19 16:09:48,084 INFO  [AppLogger] Waiting for page and its elements to be loaded completely 
+2017-06-19 16:09:48,096 INFO  [AppLogger] Started validating page title 
+2017-06-19 16:09:48,215 INFO  [AppLogger] ###################################### 
+2017-06-19 16:09:48,215 INFO  [AppLogger] FC001 Status :: pass 
+2017-06-19 16:09:48,215 INFO  [AppLogger] ###################################### 
+2017-06-19 16:09:49,605 INFO  [AppLogger] Click Operation started on :.//*[@id='createjob'] 
+2017-06-19 16:09:49,612 INFO  [AppLogger] Find Element Stareted on- .//*[@id='createjob'] 
+2017-06-19 16:09:49,685 INFO  [AppLogger] Click Operation started on :createjob 
+2017-06-19 16:09:49,688 INFO  [AppLogger] Find Element Stareted on- createjob 
+2017-06-19 16:09:49,746 INFO  [AppLogger] thread starts  
+2017-06-19 16:09:51,746 INFO  [AppLogger] thread starts  
+2017-06-19 16:09:53,747 INFO  [AppLogger] Click Operation started on :o-Print 
+2017-06-19 16:09:53,749 INFO  [AppLogger] Find Element Stareted on- o-Print 
+2017-06-19 16:09:53,860 INFO  [AppLogger] thread starts  
+2017-06-19 16:09:55,862 INFO  [AppLogger] thread starts  
+2017-06-19 16:09:57,862 INFO  [AppLogger] Send Keys Operation started on Tracking No 
+2017-06-19 16:09:57,866 INFO  [AppLogger] Find Element Stareted on- Tracking No 
+2017-06-19 16:09:57,984 INFO  [AppLogger] Send Keys Operation started on Package Name 
+2017-06-19 16:09:57,987 INFO  [AppLogger] Find Element Stareted on- Package Name 
+2017-06-19 16:09:58,070 INFO  [AppLogger] Send Keys Operation started on .//*[@id='4'] 
+2017-06-19 16:09:58,072 INFO  [AppLogger] Find Element Stareted on- .//*[@id='4'] 
+2017-06-19 16:09:58,144 INFO  [AppLogger] Send Keys Operation started on Sales Person 
+2017-06-19 16:09:58,146 INFO  [AppLogger] Find Element Stareted on- Sales Person 
+2017-06-19 16:09:58,262 INFO  [AppLogger] Send Keys Operation started on Publication Title 
+2017-06-19 16:09:58,265 INFO  [AppLogger] Find Element Stareted on- Publication Title 
+2017-06-19 16:09:58,397 INFO  [AppLogger] Send Keys Operation started on Edition 
+2017-06-19 16:09:58,399 INFO  [AppLogger] Find Element Stareted on- Edition 
+2017-06-19 16:09:58,530 INFO  [AppLogger] Send Keys Operation started on .//*[@id='294'] 
+2017-06-19 16:09:58,532 INFO  [AppLogger] Find Element Stareted on- .//*[@id='294'] 
+2017-06-19 16:09:58,590 INFO  [AppLogger] Exception in Send Keys to element: .//*[@id='294']
+null 
+2017-06-19 16:09:58,674 INFO  [AppLogger] takeScreenShot Stareted on- JD 
+2017-06-19 16:09:58,996 INFO  [AppLogger] ###################################### 
+2017-06-19 16:09:58,996 INFO  [AppLogger] FC002 Status :: automationfail 
+2017-06-19 16:09:58,996 INFO  [AppLogger] ###################################### 
