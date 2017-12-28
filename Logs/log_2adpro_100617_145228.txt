@@ -1,0 +1,92 @@
+2017-10-06 14:52:29,265 INFO  [AppLogger] Executing testcase on OS:-windows 7 
+2017-10-06 14:52:29,265 INFO  [AppLogger] Current host name :-ADPRO-001734 
+2017-10-06 14:52:29,265 INFO  [AppLogger] Current IP address :-192.168.0.165 
+2017-10-06 14:52:29,265 INFO  [AppLogger] Operating system type :-amd64 
+2017-10-06 14:52:29,265 INFO  [AppLogger] Operating system version :-6.1 
+2017-10-06 14:52:29,265 INFO  [AppLogger] Operating system Info :-Intel64 Family 6 Model 58 Stepping 9, GenuineIntel 
+2017-10-06 14:52:39,813 INFO  [AppLogger] firefoxBrowser Opened 
+2017-10-06 14:52:45,049 INFO  [AppLogger] Page Opened for the url https://jd1-qc.2adpro.com 
+2017-10-06 14:52:47,453 INFO  [AppLogger] Send Keys Operation started on username 
+2017-10-06 14:52:47,455 INFO  [AppLogger] Find Element Stareted on- username 
+2017-10-06 14:52:47,613 INFO  [AppLogger] Send Keys Operation started on password 
+2017-10-06 14:52:47,616 INFO  [AppLogger] Find Element Stareted on- password 
+2017-10-06 14:52:47,675 INFO  [AppLogger] Click Operation started on :login_submit 
+2017-10-06 14:52:47,677 INFO  [AppLogger] Find Element Stareted on- login_submit 
+2017-10-06 14:53:01,401 INFO  [AppLogger] Waiting for page and its elements to be loaded completely 
+2017-10-06 14:53:01,418 INFO  [AppLogger] Started validating page title 
+2017-10-06 14:53:01,615 INFO  [AppLogger] ###################################### 
+2017-10-06 14:53:01,615 INFO  [AppLogger] FC001 Status :: pass 
+2017-10-06 14:53:01,615 INFO  [AppLogger] ###################################### 
+2017-10-06 14:53:03,002 INFO  [AppLogger] Click Operation started on :.//*[@id='createjob'] 
+2017-10-06 14:53:03,010 INFO  [AppLogger] Find Element Stareted on- .//*[@id='createjob'] 
+2017-10-06 14:53:03,129 INFO  [AppLogger] Click Operation started on :createjob 
+2017-10-06 14:53:03,131 INFO  [AppLogger] Find Element Stareted on- createjob 
+2017-10-06 14:53:03,214 INFO  [AppLogger] thread starts  
+2017-10-06 14:53:05,217 INFO  [AppLogger] thread starts  
+2017-10-06 14:53:07,221 INFO  [AppLogger] Click Operation started on :o-Print 
+2017-10-06 14:53:07,224 INFO  [AppLogger] Find Element Stareted on- o-Print 
+2017-10-06 14:53:07,813 INFO  [AppLogger] thread starts  
+2017-10-06 14:53:09,814 INFO  [AppLogger] thread starts  
+2017-10-06 14:53:11,821 INFO  [AppLogger] Send Keys Operation started on Tracking No 
+2017-10-06 14:53:11,825 INFO  [AppLogger] Find Element Stareted on- Tracking No 
+2017-10-06 14:53:11,908 INFO  [AppLogger] thread starts  
+2017-10-06 14:53:13,911 INFO  [AppLogger] thread starts  
+2017-10-06 14:53:15,915 INFO  [AppLogger] Send Keys Operation started on .//*[@id='203'] 
+2017-10-06 14:53:15,918 INFO  [AppLogger] Find Element Stareted on- .//*[@id='203'] 
+2017-10-06 14:53:16,034 INFO  [AppLogger] Send Keys Operation started on .//*[@id='4'] 
+2017-10-06 14:53:16,036 INFO  [AppLogger] Find Element Stareted on- .//*[@id='4'] 
+2017-10-06 14:53:16,125 INFO  [AppLogger] Send Keys Operation started on Sales Person 
+2017-10-06 14:53:16,128 INFO  [AppLogger] Find Element Stareted on- Sales Person 
+2017-10-06 14:53:16,203 INFO  [AppLogger] Send Keys Operation started on Publication Title 
+2017-10-06 14:53:16,205 INFO  [AppLogger] Find Element Stareted on- Publication Title 
+2017-10-06 14:53:16,277 INFO  [AppLogger] Send Keys Operation started on Client Email 
+2017-10-06 14:53:16,278 INFO  [AppLogger] Find Element Stareted on- Client Email 
+2017-10-06 14:53:31,341 INFO  [AppLogger] Exception in Find Element with name:-Client Email 
+2017-10-06 14:53:46,476 INFO  [AppLogger] Exception in Send Keys to element: Client Email
+Unable to locate element: {"method":"name","selector":"Client Email"}
+Command duration or timeout: 15.13 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'ADPRO-001734', ip: '192.168.0.165', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=43.0.1, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: f968fa55-e12c-4f1a-9786-45f27dd56142
+*** Element info: {Using=name, value=Client Email} 
+2017-10-06 14:53:46,557 INFO  [AppLogger] takeScreenShot Stareted on- JDX 
+2017-10-06 14:53:46,906 INFO  [AppLogger] ###################################### 
+2017-10-06 14:53:46,906 INFO  [AppLogger] FC002 Status :: automationfail 
+2017-10-06 14:53:46,906 INFO  [AppLogger] ###################################### 
+2017-10-06 14:53:53,639 INFO  [AppLogger] takeScreenShot Stareted on- JDX 
+2017-10-06 14:53:53,707 INFO  [AppLogger] ###################################### 
+2017-10-06 14:53:53,707 INFO  [AppLogger] FC015 Status :: automationfail 
+2017-10-06 14:53:53,707 INFO  [AppLogger] ###################################### 
+2017-10-06 14:53:55,062 INFO  [AppLogger] Click Operation started on ://input[@src='/images/go.png'] 
+2017-10-06 14:53:55,063 INFO  [AppLogger] Find Element Stareted on- //input[@src='/images/go.png'] 
+2017-10-06 14:54:10,200 INFO  [AppLogger] Exception in clicking element: //input[@src='/images/go.png']
+Element is not currently visible and so may not be interacted with
+Command duration or timeout: 15.08 seconds
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'ADPRO-001734', ip: '192.168.0.165', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=43.0.1, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: f968fa55-e12c-4f1a-9786-45f27dd56142 
+2017-10-06 14:54:10,279 INFO  [AppLogger] takeScreenShot Stareted on- JDX 
+2017-10-06 14:54:10,357 INFO  [AppLogger] ###################################### 
+2017-10-06 14:54:10,357 INFO  [AppLogger] FC003 Status :: automationfail 
+2017-10-06 14:54:10,357 INFO  [AppLogger] ###################################### 
+2017-10-06 14:54:16,714 INFO  [AppLogger] takeScreenShot Stareted on- JDX 
+2017-10-06 14:54:16,982 INFO  [AppLogger] ###################################### 
+2017-10-06 14:54:16,983 INFO  [AppLogger] FC004 Status :: automationfail 
+2017-10-06 14:54:16,983 INFO  [AppLogger] ###################################### 
+2017-10-06 14:54:23,363 INFO  [AppLogger] takeScreenShot Stareted on- JDX 
+2017-10-06 14:54:23,422 INFO  [AppLogger] ###################################### 
+2017-10-06 14:54:23,422 INFO  [AppLogger] FC005 Status :: automationfail 
+2017-10-06 14:54:23,422 INFO  [AppLogger] ###################################### 
+2017-10-06 14:54:29,775 INFO  [AppLogger] takeScreenShot Stareted on- JDX 
+2017-10-06 14:54:30,008 INFO  [AppLogger] ###################################### 
+2017-10-06 14:54:30,009 INFO  [AppLogger] FC006 Status :: automationfail 
+2017-10-06 14:54:30,009 INFO  [AppLogger] ###################################### 
+2017-10-06 14:54:36,359 INFO  [AppLogger] takeScreenShot Stareted on- JDX 
+2017-10-06 14:54:36,465 INFO  [AppLogger] ###################################### 
+2017-10-06 14:54:36,465 INFO  [AppLogger] FC007 Status :: automationfail 
+2017-10-06 14:54:36,465 INFO  [AppLogger] ###################################### 

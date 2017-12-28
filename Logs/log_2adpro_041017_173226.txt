@@ -1,0 +1,21 @@
+2017-04-10 17:32:26,759 INFO  [AppLogger] Executing testcase on OS:-windows 7 
+2017-04-10 17:32:26,759 INFO  [AppLogger] Current host name :-ADPRO-001735 
+2017-04-10 17:32:26,759 INFO  [AppLogger] Current IP address :-192.168.0.163 
+2017-04-10 17:32:26,759 INFO  [AppLogger] Operating system type :-amd64 
+2017-04-10 17:32:26,759 INFO  [AppLogger] Operating system version :-6.1 
+2017-04-10 17:32:26,760 INFO  [AppLogger] Operating system Info :-Intel64 Family 6 Model 58 Stepping 9, GenuineIntel 
+2017-04-10 17:32:29,558 INFO  [AppLogger] chromeBrowser Opened 
+2017-04-10 17:32:56,419 INFO  [AppLogger] Page Opened for the url https://qc-unipaper.2adpro.com/index/login 
+2017-04-10 17:32:58,598 INFO  [AppLogger] Send Keys Operation started on username 
+2017-04-10 17:32:58,601 INFO  [AppLogger] Find Element Stareted on- username 
+2017-04-10 17:32:58,689 INFO  [AppLogger] Send Keys Operation started on password 
+2017-04-10 17:32:58,692 INFO  [AppLogger] Find Element Stareted on- password 
+2017-04-10 17:32:58,756 INFO  [AppLogger] thread starts  
+2017-04-10 17:33:00,758 INFO  [AppLogger] thread starts  
+2017-04-10 17:33:02,761 INFO  [AppLogger] Click Operation started on :login_submit 
+2017-04-10 17:33:02,767 INFO  [AppLogger] Find Element Stareted on- login_submit 
+2017-04-10 17:33:32,834 INFO  [AppLogger] Waiting for page and its elements to be loaded completely 
+2017-04-10 17:33:32,850 INFO  [AppLogger] Started validating page title 
+2017-04-10 17:33:32,981 INFO  [AppLogger] ###################################### 
+2017-04-10 17:33:32,981 INFO  [AppLogger] FC016 Status :: pass 
+2017-04-10 17:33:32,981 INFO  [AppLogger] ###################################### 

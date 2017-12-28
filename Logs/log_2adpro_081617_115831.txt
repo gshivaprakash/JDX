@@ -1,0 +1,30 @@
+2017-08-16 11:58:31,281 INFO  [AppLogger] Executing testcase on OS:-windows 7 
+2017-08-16 11:58:31,281 INFO  [AppLogger] Current host name :-ADPRO-001734 
+2017-08-16 11:58:31,281 INFO  [AppLogger] Current IP address :-192.168.0.166 
+2017-08-16 11:58:31,281 INFO  [AppLogger] Operating system type :-amd64 
+2017-08-16 11:58:31,281 INFO  [AppLogger] Operating system version :-6.1 
+2017-08-16 11:58:31,281 INFO  [AppLogger] Operating system Info :-Intel64 Family 6 Model 58 Stepping 9, GenuineIntel 
+2017-08-16 11:58:38,360 INFO  [AppLogger] firefoxBrowser Opened 
+2017-08-16 11:58:43,976 INFO  [AppLogger] Page Opened for the url https://jdx1.2adpro.com 
+2017-08-16 11:58:45,189 INFO  [AppLogger] Send Keys Operation started on username 
+2017-08-16 11:58:45,192 INFO  [AppLogger] Find Element Stareted on- username 
+2017-08-16 11:58:45,373 INFO  [AppLogger] Send Keys Operation started on password 
+2017-08-16 11:58:45,375 INFO  [AppLogger] Find Element Stareted on- password 
+2017-08-16 11:58:45,480 INFO  [AppLogger] Click Operation started on :login_submit 
+2017-08-16 11:58:45,482 INFO  [AppLogger] Find Element Stareted on- login_submit 
+2017-08-16 11:58:51,818 INFO  [AppLogger] Waiting for page and its elements to be loaded completely 
+2017-08-16 11:58:51,837 INFO  [AppLogger] Started validating page title 
+2017-08-16 11:58:51,953 INFO  [AppLogger] ###################################### 
+2017-08-16 11:58:51,953 INFO  [AppLogger] FC001 Status :: pass 
+2017-08-16 11:58:51,953 INFO  [AppLogger] ###################################### 
+2017-08-16 11:58:53,285 INFO  [AppLogger] Click Operation started on :.//*[@id='createjob'] 
+2017-08-16 11:58:53,293 INFO  [AppLogger] Find Element Stareted on- .//*[@id='createjob'] 
+2017-08-16 11:59:00,295 INFO  [AppLogger] Exception in Find Element with xpath:-.//*[@id='createjob'] 
+2017-08-16 11:59:01,310 INFO  [AppLogger] Exception in clicking element: .//*[@id='createjob']
+Error communicating with the remote browser. It may have died.
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'ADPRO-001734', ip: '192.168.0.166', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_144'
+Driver info: driver.version: Driver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=35.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: d18ce453-1ce3-4929-9575-a61c1dc8af0a 
+2017-08-16 11:59:01,377 INFO  [AppLogger] takeScreenShot Stareted on- JD 

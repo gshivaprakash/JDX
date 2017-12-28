@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="-1" guice-stage="DEVELOPMENT" verbose="2" name="Failed suite [Main Test Suite]">
+  <listeners>
+    <listener class-name="ad2pro.fw.testListeners.TestListener"/>
+  </listeners>
+  <test verbose="2" name="TestNG Test Group(failed)">
+    <classes>
+      <class name="ad2pro.fcn.tests.TestCaseExecution">
+        <methods>
+          <include name="jdTraffic" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- ad2pro.fcn.tests.TestCaseExecution -->
+    </classes>
+  </test> <!-- TestNG Test Group(failed) -->
+</suite> <!-- Failed suite [Main Test Suite] -->

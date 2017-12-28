@@ -1,0 +1,50 @@
+2017-04-10 16:54:59,276 INFO  [AppLogger] Executing testcase on OS:-windows 7 
+2017-04-10 16:54:59,276 INFO  [AppLogger] Current host name :-ADPRO-001735 
+2017-04-10 16:54:59,276 INFO  [AppLogger] Current IP address :-192.168.0.163 
+2017-04-10 16:54:59,276 INFO  [AppLogger] Operating system type :-amd64 
+2017-04-10 16:54:59,276 INFO  [AppLogger] Operating system version :-6.1 
+2017-04-10 16:54:59,276 INFO  [AppLogger] Operating system Info :-Intel64 Family 6 Model 58 Stepping 9, GenuineIntel 
+2017-04-10 16:55:02,121 INFO  [AppLogger] chromeBrowser Opened 
+2017-04-10 16:55:26,674 INFO  [AppLogger] Page Opened for the url https://qc-unipaper.2adpro.com/index/login 
+2017-04-10 16:55:28,984 INFO  [AppLogger] Send Keys Operation started on username 
+2017-04-10 16:55:28,994 INFO  [AppLogger] Find Element Stareted on- username 
+2017-04-10 16:55:29,095 INFO  [AppLogger] Send Keys Operation started on password 
+2017-04-10 16:55:29,097 INFO  [AppLogger] Find Element Stareted on- password 
+2017-04-10 16:55:29,171 INFO  [AppLogger] thread starts  
+2017-04-10 16:55:31,206 INFO  [AppLogger] thread starts  
+2017-04-10 16:55:33,216 INFO  [AppLogger] Click Operation started on :login_submit 
+2017-04-10 16:55:33,216 INFO  [AppLogger] Find Element Stareted on- login_submit 
+2017-04-10 16:56:25,702 INFO  [AppLogger] Waiting for page and its elements to be loaded completely 
+2017-04-10 16:56:25,737 INFO  [AppLogger] Started validating page title 
+2017-04-10 16:56:25,874 INFO  [AppLogger] ###################################### 
+2017-04-10 16:56:25,874 INFO  [AppLogger] FC016 Status :: pass 
+2017-04-10 16:56:25,874 INFO  [AppLogger] ###################################### 
+2017-04-10 16:56:41,534 INFO  [AppLogger] Page Opened for the url https://jdmanage-qc.2adpro.com 
+2017-04-10 16:56:41,536 INFO  [AppLogger] Send Keys Operation started on username 
+2017-04-10 16:56:41,538 INFO  [AppLogger] Find Element Stareted on- username 
+2017-04-10 16:56:41,632 INFO  [AppLogger] Send Keys Operation started on password 
+2017-04-10 16:56:41,633 INFO  [AppLogger] Find Element Stareted on- password 
+2017-04-10 16:56:41,707 INFO  [AppLogger] Click Operation started on :login_submit 
+2017-04-10 16:56:41,709 INFO  [AppLogger] Find Element Stareted on- login_submit 
+2017-04-10 16:57:19,189 INFO  [AppLogger] Waiting for page and its elements to be loaded completely 
+2017-04-10 16:57:31,301 INFO  [AppLogger] Started validating page title 
+2017-04-10 16:57:31,321 INFO  [AppLogger] Click Operation started on ://div[text()="ACTIVE JOBS"] 
+2017-04-10 16:57:31,321 INFO  [AppLogger] Find Element Stareted on- //div[text()="ACTIVE JOBS"] 
+2017-04-10 16:57:31,373 INFO  [AppLogger] Waiting for page and its elements to be loaded completely 
+2017-04-10 16:57:52,541 INFO  [AppLogger] thread starts  
+2017-04-10 16:57:54,541 INFO  [AppLogger] Click Operation started on :search_header_link 
+2017-04-10 16:57:54,541 INFO  [AppLogger] Find Element Stareted on- search_header_link 
+2017-04-10 16:57:54,607 INFO  [AppLogger] Exception in clicking element: search_header_link
+unknown error: Element is not clickable at point (638, 57). Other element would receive the click: <td style="height:100%;width:100%;vertical-align:middle;">...</td>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 32 milliseconds
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'ADPRO-001735', ip: '192.168.0.163', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed), userDataDir=C:\Users\nkesava\AppData\Local\Temp\scoped_dir7120_27168}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=56.0.2924.87, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 7890dc3bc127e2dfb08d80c4a6b762a7 
+2017-04-10 16:57:54,651 INFO  [AppLogger] takeScreenShot Stareted on- JD 
+2017-04-10 16:57:54,894 INFO  [AppLogger] ###################################### 
+2017-04-10 16:57:54,894 INFO  [AppLogger] FC020 Status :: automationfail 
+2017-04-10 16:57:54,894 INFO  [AppLogger] ###################################### 

@@ -1,0 +1,25 @@
+2017-03-22 11:38:13,521 INFO  [AppLogger] Executing testcase on OS:-windows 7 
+2017-03-22 11:38:13,521 INFO  [AppLogger] Current host name :-ADPRO-001735 
+2017-03-22 11:38:13,521 INFO  [AppLogger] Current IP address :-192.168.1.220 
+2017-03-22 11:38:13,521 INFO  [AppLogger] Operating system type :-amd64 
+2017-03-22 11:38:13,521 INFO  [AppLogger] Operating system version :-6.1 
+2017-03-22 11:38:13,521 INFO  [AppLogger] Operating system Info :-Intel64 Family 6 Model 58 Stepping 9, GenuineIntel 
+2017-03-22 11:38:16,061 INFO  [AppLogger] chromeBrowser Opened 
+2017-03-22 11:38:23,152 INFO  [AppLogger] Page Opened for the url https://jdmanage-qc.2adpro.com/index/login 
+2017-03-22 11:38:25,278 INFO  [AppLogger] Send Keys Operation started on username 
+2017-03-22 11:38:25,288 INFO  [AppLogger] Find Element Stareted on- username 
+2017-03-22 11:38:25,371 INFO  [AppLogger] Send Keys Operation started on password 
+2017-03-22 11:38:25,373 INFO  [AppLogger] Find Element Stareted on- password 
+2017-03-22 11:38:25,459 INFO  [AppLogger] Click Operation started on :login_submit 
+2017-03-22 11:38:25,459 INFO  [AppLogger] Find Element Stareted on- login_submit 
+2017-03-22 11:38:50,251 INFO  [AppLogger] Waiting for page and its elements to be loaded completely 
+2017-03-22 11:39:01,881 INFO  [AppLogger] Unable to load the page within set time limitchrome not reachable
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 4.02 seconds
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'ADPRO-001735', ip: '192.168.1.220', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed), userDataDir=C:\Users\nkesava\AppData\Local\Temp\scoped_dir5972_392}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=56.0.2924.87, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 46f9c767e41b73ce6ef589eec2fe4f3e 
+2017-03-22 11:39:01,962 INFO  [AppLogger] takeScreenShot Stareted on- JDManage 

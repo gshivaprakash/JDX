@@ -1,0 +1,8 @@
+2017-03-21 18:02:37,945 INFO  [AppLogger] Executing testcase on OS:-windows 7 
+2017-03-21 18:02:37,945 INFO  [AppLogger] Current host name :-ADPRO-001735 
+2017-03-21 18:02:37,945 INFO  [AppLogger] Current IP address :-192.168.0.153 
+2017-03-21 18:02:37,946 INFO  [AppLogger] Operating system type :-amd64 
+2017-03-21 18:02:37,946 INFO  [AppLogger] Operating system version :-6.1 
+2017-03-21 18:02:37,946 INFO  [AppLogger] Operating system Info :-Intel64 Family 6 Model 58 Stepping 9, GenuineIntel 
+2017-03-21 18:02:40,475 INFO  [AppLogger] chromeBrowser Opened 
+2017-03-21 18:03:06,695 INFO  [AppLogger] Page Opened for the url https://jd1-qc.2adpro.com/index/login 

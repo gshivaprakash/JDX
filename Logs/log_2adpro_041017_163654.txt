@@ -1,0 +1,50 @@
+2017-04-10 16:36:54,855 INFO  [AppLogger] Executing testcase on OS:-windows 7 
+2017-04-10 16:36:54,855 INFO  [AppLogger] Current host name :-ADPRO-001735 
+2017-04-10 16:36:54,855 INFO  [AppLogger] Current IP address :-192.168.0.163 
+2017-04-10 16:36:54,855 INFO  [AppLogger] Operating system type :-amd64 
+2017-04-10 16:36:54,855 INFO  [AppLogger] Operating system version :-6.1 
+2017-04-10 16:36:54,855 INFO  [AppLogger] Operating system Info :-Intel64 Family 6 Model 58 Stepping 9, GenuineIntel 
+2017-04-10 16:36:57,631 INFO  [AppLogger] chromeBrowser Opened 
+2017-04-10 16:37:06,033 INFO  [AppLogger] Page Opened for the url https://qc-unipaper.2adpro.com/index/login 
+2017-04-10 16:37:08,303 INFO  [AppLogger] Send Keys Operation started on username 
+2017-04-10 16:37:08,313 INFO  [AppLogger] Find Element Stareted on- username 
+2017-04-10 16:37:08,377 INFO  [AppLogger] Send Keys Operation started on password 
+2017-04-10 16:37:08,378 INFO  [AppLogger] Find Element Stareted on- password 
+2017-04-10 16:37:08,457 INFO  [AppLogger] thread starts  
+2017-04-10 16:37:10,468 INFO  [AppLogger] thread starts  
+2017-04-10 16:37:12,475 INFO  [AppLogger] Click Operation started on :login_submit 
+2017-04-10 16:37:12,475 INFO  [AppLogger] Find Element Stareted on- login_submit 
+2017-04-10 16:37:43,394 INFO  [AppLogger] Waiting for page and its elements to be loaded completely 
+2017-04-10 16:37:43,430 INFO  [AppLogger] Started validating page title 
+2017-04-10 16:37:43,544 INFO  [AppLogger] ###################################### 
+2017-04-10 16:37:43,544 INFO  [AppLogger] FC016 Status :: pass 
+2017-04-10 16:37:43,544 INFO  [AppLogger] ###################################### 
+2017-04-10 16:38:13,871 INFO  [AppLogger] Page Opened for the url https://jdmanage-qc.2adpro.com 
+2017-04-10 16:38:13,875 INFO  [AppLogger] Send Keys Operation started on username 
+2017-04-10 16:38:13,880 INFO  [AppLogger] Find Element Stareted on- username 
+2017-04-10 16:38:13,988 INFO  [AppLogger] Send Keys Operation started on password 
+2017-04-10 16:38:13,989 INFO  [AppLogger] Find Element Stareted on- password 
+2017-04-10 16:38:14,048 INFO  [AppLogger] Click Operation started on :login_submit 
+2017-04-10 16:38:14,050 INFO  [AppLogger] Find Element Stareted on- login_submit 
+2017-04-10 16:38:54,688 INFO  [AppLogger] Waiting for page and its elements to be loaded completely 
+2017-04-10 16:39:09,810 INFO  [AppLogger] Started validating page title 
+2017-04-10 16:39:09,820 INFO  [AppLogger] Click Operation started on ://div[text()="ACTIVE JOBS"] 
+2017-04-10 16:39:09,820 INFO  [AppLogger] Find Element Stareted on- //div[text()="ACTIVE JOBS"] 
+2017-04-10 16:39:09,882 INFO  [AppLogger] Waiting for page and its elements to be loaded completely 
+2017-04-10 16:39:12,940 INFO  [AppLogger] thread starts  
+2017-04-10 16:39:14,952 INFO  [AppLogger] Click Operation started on :search_header_link 
+2017-04-10 16:39:14,952 INFO  [AppLogger] Find Element Stareted on- search_header_link 
+2017-04-10 16:39:15,024 INFO  [AppLogger] thread starts  
+2017-04-10 16:39:17,050 INFO  [AppLogger] thread starts  
+2017-04-10 16:39:19,050 INFO  [AppLogger] Send Keys Operation started on order_number 
+2017-04-10 16:39:19,050 INFO  [AppLogger] Find Element Stareted on- order_number 
+2017-04-10 16:39:19,132 INFO  [AppLogger] Click Operation started on ://input[@src="/images/go.png"] 
+2017-04-10 16:39:19,133 INFO  [AppLogger] Find Element Stareted on- //input[@src="/images/go.png"] 
+2017-04-10 16:39:19,210 INFO  [AppLogger] Waiting for page and its elements to be loaded completely 
+2017-04-10 16:39:22,250 INFO  [AppLogger] validateOrderNumber starts //div[@class='jl-styled-row-inner black-txt']/div[contains(@id,'job_')]/div[@class='order-no-col lalign order-no-font'] 
+2017-04-10 16:39:22,250 INFO  [AppLogger] Find Element Stareted on- //div[@class='jl-styled-row-inner black-txt']/div[contains(@id,'job_')]/div[@class='order-no-col lalign order-no-font'] 
+2017-04-10 16:39:22,290 INFO  [AppLogger] Displayed content does not mathches with your input:testautomation176 
+2017-04-10 16:39:22,310 INFO  [AppLogger] takeScreenShot Stareted on- JD 
+2017-04-10 16:39:22,670 INFO  [AppLogger] ###################################### 
+2017-04-10 16:39:22,670 INFO  [AppLogger] FC020 Status :: validationfail 
+2017-04-10 16:39:22,670 INFO  [AppLogger] ###################################### 

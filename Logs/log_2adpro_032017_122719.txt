@@ -1,0 +1,45 @@
+2017-03-20 12:27:19,593 INFO  [AppLogger] Executing testcase on OS:-windows 7 
+2017-03-20 12:27:19,593 INFO  [AppLogger] Current host name :-ADPRO-001735 
+2017-03-20 12:27:19,593 INFO  [AppLogger] Current IP address :-192.168.0.148 
+2017-03-20 12:27:19,593 INFO  [AppLogger] Operating system type :-amd64 
+2017-03-20 12:27:19,593 INFO  [AppLogger] Operating system version :-6.1 
+2017-03-20 12:27:19,593 INFO  [AppLogger] Operating system Info :-Intel64 Family 6 Model 58 Stepping 9, GenuineIntel 
+2017-03-20 12:27:22,167 INFO  [AppLogger] chromeBrowser Opened 
+2017-03-20 12:27:49,382 INFO  [AppLogger] Page Opened for the url https://jd1-qc.2adpro.com/index/login 
+2017-03-20 12:27:51,676 INFO  [AppLogger] Send Keys Operation started on username 
+2017-03-20 12:27:51,696 INFO  [AppLogger] Find Element Stareted on- username 
+2017-03-20 12:27:51,790 INFO  [AppLogger] Send Keys Operation started on password 
+2017-03-20 12:27:51,798 INFO  [AppLogger] Find Element Stareted on- password 
+2017-03-20 12:27:51,905 INFO  [AppLogger] Click Operation started on :login_submit 
+2017-03-20 12:27:51,908 INFO  [AppLogger] Find Element Stareted on- login_submit 
+2017-03-20 12:28:44,610 INFO  [AppLogger] Waiting for page and its elements to be loaded completely 
+2017-03-20 12:28:44,633 INFO  [AppLogger] Started validating page title 
+2017-03-20 12:28:44,731 INFO  [AppLogger] ###################################### 
+2017-03-20 12:28:44,731 INFO  [AppLogger] FC001 Status :: pass 
+2017-03-20 12:28:44,731 INFO  [AppLogger] ###################################### 
+2017-03-20 12:28:46,071 INFO  [AppLogger] Click Operation started on ://div[@class='header']/div[3]/ul/li[@class='hdr_analytics'] 
+2017-03-20 12:28:46,081 INFO  [AppLogger] Find Element Stareted on- //div[@class='header']/div[3]/ul/li[@class='hdr_analytics'] 
+2017-03-20 12:28:46,153 INFO  [AppLogger] thread starts  
+2017-03-20 12:28:48,162 INFO  [AppLogger] Click Operation started on :.//*[@id='ad_detail'] 
+2017-03-20 12:28:48,162 INFO  [AppLogger] Find Element Stareted on- .//*[@id='ad_detail'] 
+2017-03-20 12:28:48,293 INFO  [AppLogger] thread starts  
+2017-03-20 12:28:50,296 INFO  [AppLogger] thread starts  
+2017-03-20 12:28:52,313 INFO  [AppLogger] Click Operation started on :.//*[@id='ad_detail_form']/div[1]/div/div[2]/div[1] 
+2017-03-20 12:28:52,323 INFO  [AppLogger] Find Element Stareted on- .//*[@id='ad_detail_form']/div[1]/div/div[2]/div[1] 
+2017-03-20 12:28:52,430 INFO  [AppLogger] thread starts  
+2017-03-20 12:28:54,446 INFO  [AppLogger] Click Operation started on :.//*[@id='Site']/option[2] 
+2017-03-20 12:28:54,446 INFO  [AppLogger] Find Element Stareted on- .//*[@id='Site']/option[2] 
+2017-03-20 12:28:54,541 INFO  [AppLogger] Exception in clicking element: .//*[@id='Site']/option[2]
+element not visible: Element is not currently visible and may not be manipulated
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 55 milliseconds
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'ADPRO-001735', ip: '192.168.0.148', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed), userDataDir=C:\Users\nkesava\AppData\Local\Temp\scoped_dir5132_9116}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=56.0.2924.87, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: dce2714d9cfab438de721c443b71b21f 
+2017-03-20 12:28:54,568 INFO  [AppLogger] takeScreenShot Stareted on- JD 
+2017-03-20 12:28:54,915 INFO  [AppLogger] ###################################### 
+2017-03-20 12:28:54,915 INFO  [AppLogger] FC009 Status :: automationfail 
+2017-03-20 12:28:54,915 INFO  [AppLogger] ###################################### 

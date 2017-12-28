@@ -1,0 +1,70 @@
+2017-04-12 11:30:13,925 INFO  [AppLogger] Executing testcase on OS:-windows 7 
+2017-04-12 11:30:13,925 INFO  [AppLogger] Current host name :-ADPRO-001735 
+2017-04-12 11:30:13,925 INFO  [AppLogger] Current IP address :-192.168.0.149 
+2017-04-12 11:30:13,925 INFO  [AppLogger] Operating system type :-amd64 
+2017-04-12 11:30:13,925 INFO  [AppLogger] Operating system version :-6.1 
+2017-04-12 11:30:13,925 INFO  [AppLogger] Operating system Info :-Intel64 Family 6 Model 58 Stepping 9, GenuineIntel 
+2017-04-12 11:30:16,881 INFO  [AppLogger] chromeBrowser Opened 
+2017-04-12 11:30:42,457 INFO  [AppLogger] Page Opened for the url https://qc-unipaper.2adpro.com/view/index 
+2017-04-12 11:30:44,700 INFO  [AppLogger] Send Keys Operation started on username 
+2017-04-12 11:30:44,702 INFO  [AppLogger] Find Element Stareted on- username 
+2017-04-12 11:30:44,806 INFO  [AppLogger] Send Keys Operation started on password 
+2017-04-12 11:30:44,809 INFO  [AppLogger] Find Element Stareted on- password 
+2017-04-12 11:30:44,876 INFO  [AppLogger] thread starts  
+2017-04-12 11:30:46,877 INFO  [AppLogger] thread starts  
+2017-04-12 11:30:48,878 INFO  [AppLogger] Click Operation started on :login_submit 
+2017-04-12 11:30:48,880 INFO  [AppLogger] Find Element Stareted on- login_submit 
+2017-04-12 11:31:19,033 INFO  [AppLogger] thread starts  
+2017-04-12 11:31:21,035 INFO  [AppLogger] thread starts  
+2017-04-12 11:31:23,045 INFO  [AppLogger] Waiting for page and its elements to be loaded completely 
+2017-04-12 11:31:23,061 INFO  [AppLogger] Started validating page title 
+2017-04-12 11:31:23,181 INFO  [AppLogger] ###################################### 
+2017-04-12 11:31:23,181 INFO  [AppLogger] FC016 Status :: pass 
+2017-04-12 11:31:23,181 INFO  [AppLogger] ###################################### 
+2017-04-12 11:31:40,856 INFO  [AppLogger] Page Opened for the url https://jdmanage-qc.2adpro.com 
+2017-04-12 11:31:40,858 INFO  [AppLogger] Send Keys Operation started on username 
+2017-04-12 11:31:40,860 INFO  [AppLogger] Find Element Stareted on- username 
+2017-04-12 11:31:40,964 INFO  [AppLogger] Send Keys Operation started on password 
+2017-04-12 11:31:40,965 INFO  [AppLogger] Find Element Stareted on- password 
+2017-04-12 11:31:41,029 INFO  [AppLogger] Click Operation started on :login_submit 
+2017-04-12 11:31:41,031 INFO  [AppLogger] Find Element Stareted on- login_submit 
+2017-04-12 11:32:27,527 INFO  [AppLogger] Waiting for page and its elements to be loaded completely 
+2017-04-12 11:32:29,061 INFO  [AppLogger] Started validating page title 
+2017-04-12 11:32:29,076 INFO  [AppLogger] Click Operation started on ://div[text()="ACTIVE JOBS"] 
+2017-04-12 11:32:29,077 INFO  [AppLogger] Find Element Stareted on- //div[text()="ACTIVE JOBS"] 
+2017-04-12 11:32:29,137 INFO  [AppLogger] Waiting for page and its elements to be loaded completely 
+2017-04-12 11:32:30,665 INFO  [AppLogger] thread starts  
+2017-04-12 11:32:32,668 INFO  [AppLogger] Click Operation started on :search_header_link 
+2017-04-12 11:32:32,670 INFO  [AppLogger] Find Element Stareted on- search_header_link 
+2017-04-12 11:32:32,754 INFO  [AppLogger] thread starts  
+2017-04-12 11:32:34,754 INFO  [AppLogger] thread starts  
+2017-04-12 11:32:36,755 INFO  [AppLogger] Send Keys Operation started on order_number 
+2017-04-12 11:32:36,756 INFO  [AppLogger] Find Element Stareted on- order_number 
+2017-04-12 11:32:36,862 INFO  [AppLogger] Click Operation started on ://input[@src="/images/go.png"] 
+2017-04-12 11:32:36,864 INFO  [AppLogger] Find Element Stareted on- //input[@src="/images/go.png"] 
+2017-04-12 11:32:36,926 INFO  [AppLogger] Waiting for page and its elements to be loaded completely 
+2017-04-12 11:32:39,957 INFO  [AppLogger] Click Operation started on ://div[@class='jl-styled-row-inner black-txt']/div[contains(@id,'job_')]/div[8] 
+2017-04-12 11:32:39,960 INFO  [AppLogger] Find Element Stareted on- //div[@class='jl-styled-row-inner black-txt']/div[contains(@id,'job_')]/div[8] 
+2017-04-12 11:32:40,053 INFO  [AppLogger] Waiting for page and its elements to be loaded completely 
+2017-04-12 11:32:46,110 INFO  [AppLogger] Click Operation started on ://span[text()='Manage'] 
+2017-04-12 11:32:46,112 INFO  [AppLogger] Find Element Stareted on- //span[text()='Manage'] 
+2017-04-12 11:32:46,202 INFO  [AppLogger] Waiting for page and its elements to be loaded completely 
+2017-04-12 11:32:46,213 INFO  [AppLogger] Click Operation started on :.//*[@id='proddlv']/div[1] 
+2017-04-12 11:32:46,216 INFO  [AppLogger] Find Element Stareted on- .//*[@id='proddlv']/div[1] 
+2017-04-12 11:32:46,284 INFO  [AppLogger] Click Operation started on :.//*[@id='prod_next_status']/option[2] 
+2017-04-12 11:32:46,286 INFO  [AppLogger] Find Element Stareted on- .//*[@id='prod_next_status']/option[2] 
+2017-04-12 11:32:46,346 INFO  [AppLogger] Send Keys Operation started on prod_desc 
+2017-04-12 11:32:46,347 INFO  [AppLogger] Find Element Stareted on- prod_desc 
+2017-04-12 11:32:46,409 INFO  [AppLogger] Click Operation started on :upload_submit 
+2017-04-12 11:32:46,410 INFO  [AppLogger] Find Element Stareted on- upload_submit 
+2017-04-12 11:32:46,471 INFO  [AppLogger] Waiting for page and its elements to be loaded completely 
+2017-04-12 11:32:46,478 INFO  [AppLogger] Unable to load the page within set time limitunexpected alert open: {Alert text : Please Fill Mandatory Fields !}
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 4 milliseconds: null
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'ADPRO-001735', ip: '192.168.0.149', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed), userDataDir=C:\Users\nkesava\AppData\Local\Temp\scoped_dir5992_7011}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=56.0.2924.87, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: b741419c3e0a2354f7662c61acdba11b 
+2017-04-12 11:32:46,550 INFO  [AppLogger] takeScreenShot Stareted on- JD 

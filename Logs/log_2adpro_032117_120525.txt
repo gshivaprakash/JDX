@@ -1,0 +1,80 @@
+2017-03-21 12:05:25,327 INFO  [AppLogger] Executing testcase on OS:-windows 7 
+2017-03-21 12:05:25,327 INFO  [AppLogger] Current host name :-ADPRO-001735 
+2017-03-21 12:05:25,327 INFO  [AppLogger] Current IP address :-192.168.1.220 
+2017-03-21 12:05:25,327 INFO  [AppLogger] Operating system type :-amd64 
+2017-03-21 12:05:25,327 INFO  [AppLogger] Operating system version :-6.1 
+2017-03-21 12:05:25,327 INFO  [AppLogger] Operating system Info :-Intel64 Family 6 Model 58 Stepping 9, GenuineIntel 
+2017-03-21 12:05:27,925 INFO  [AppLogger] chromeBrowser Opened 
+2017-03-21 12:05:34,818 INFO  [AppLogger] Page Opened for the url https://jd1-qc.2adpro.com/index/login 
+2017-03-21 12:05:37,035 INFO  [AppLogger] Send Keys Operation started on username 
+2017-03-21 12:05:37,050 INFO  [AppLogger] Find Element Stareted on- username 
+2017-03-21 12:05:37,129 INFO  [AppLogger] Send Keys Operation started on password 
+2017-03-21 12:05:37,131 INFO  [AppLogger] Find Element Stareted on- password 
+2017-03-21 12:05:37,212 INFO  [AppLogger] Click Operation started on :login_submit 
+2017-03-21 12:05:37,215 INFO  [AppLogger] Find Element Stareted on- login_submit 
+2017-03-21 12:05:59,209 INFO  [AppLogger] Waiting for page and its elements to be loaded completely 
+2017-03-21 12:05:59,230 INFO  [AppLogger] Started validating page title 
+2017-03-21 12:05:59,342 INFO  [AppLogger] ###################################### 
+2017-03-21 12:05:59,343 INFO  [AppLogger] FC001 Status :: pass 
+2017-03-21 12:05:59,343 INFO  [AppLogger] ###################################### 
+2017-03-21 12:06:14,652 INFO  [AppLogger] Page Opened for the url https://jdmanage-qc.2adpro.com 
+2017-03-21 12:06:14,654 INFO  [AppLogger] Send Keys Operation started on username 
+2017-03-21 12:06:14,662 INFO  [AppLogger] Find Element Stareted on- username 
+2017-03-21 12:06:14,741 INFO  [AppLogger] Send Keys Operation started on password 
+2017-03-21 12:06:14,742 INFO  [AppLogger] Find Element Stareted on- password 
+2017-03-21 12:06:14,830 INFO  [AppLogger] Click Operation started on :login_submit 
+2017-03-21 12:06:14,832 INFO  [AppLogger] Find Element Stareted on- login_submit 
+2017-03-21 12:06:41,007 INFO  [AppLogger] Waiting for page and its elements to be loaded completely 
+2017-03-21 12:06:56,177 INFO  [AppLogger] Started validating page title 
+2017-03-21 12:06:56,189 INFO  [AppLogger] Click Operation started on ://div[text()="ACTIVE JOBS"] 
+2017-03-21 12:06:56,191 INFO  [AppLogger] Find Element Stareted on- //div[text()="ACTIVE JOBS"] 
+2017-03-21 12:06:56,277 INFO  [AppLogger] Waiting for page and its elements to be loaded completely 
+2017-03-21 12:06:57,867 INFO  [AppLogger] thread starts  
+2017-03-21 12:06:59,868 INFO  [AppLogger] Click Operation started on :search_header_link 
+2017-03-21 12:06:59,870 INFO  [AppLogger] Find Element Stareted on- search_header_link 
+2017-03-21 12:06:59,971 INFO  [AppLogger] thread starts  
+2017-03-21 12:07:01,973 INFO  [AppLogger] thread starts  
+2017-03-21 12:07:03,975 INFO  [AppLogger] Send Keys Operation started on order_number 
+2017-03-21 12:07:03,977 INFO  [AppLogger] Find Element Stareted on- order_number 
+2017-03-21 12:07:04,092 INFO  [AppLogger] Click Operation started on ://input[@src="/images/go.png"] 
+2017-03-21 12:07:04,094 INFO  [AppLogger] Find Element Stareted on- //input[@src="/images/go.png"] 
+2017-03-21 12:07:04,163 INFO  [AppLogger] Waiting for page and its elements to be loaded completely 
+2017-03-21 12:07:07,189 INFO  [AppLogger] validateOrderNumber starts //div[@class='jl-styled-row-inner black-txt']/div[contains(@id,'job_')]/div[@class='order-no-col lalign order-no-font RevCount'] 
+2017-03-21 12:07:07,191 INFO  [AppLogger] Find Element Stareted on- //div[@class='jl-styled-row-inner black-txt']/div[contains(@id,'job_')]/div[@class='order-no-col lalign order-no-font RevCount'] 
+2017-03-21 12:07:07,234 INFO  [AppLogger] Displayed content mathches with your input:testautomation115 
+2017-03-21 12:07:07,235 INFO  [AppLogger] Click Operation started on ://div[@class='jl-styled-row-inner black-txt']/div[contains(@id,'job_')]/div[8] 
+2017-03-21 12:07:07,237 INFO  [AppLogger] Find Element Stareted on- //div[@class='jl-styled-row-inner black-txt']/div[contains(@id,'job_')]/div[8] 
+2017-03-21 12:07:07,319 INFO  [AppLogger] Waiting for page and its elements to be loaded completely 
+2017-03-21 12:07:13,383 INFO  [AppLogger] Click Operation started on ://span[text()='Manage'] 
+2017-03-21 12:07:13,385 INFO  [AppLogger] Find Element Stareted on- //span[text()='Manage'] 
+2017-03-21 12:07:13,477 INFO  [AppLogger] Waiting for page and its elements to be loaded completely 
+2017-03-21 12:07:13,487 INFO  [AppLogger] Click Operation started on :.//*[@id='proddlv']/div[1] 
+2017-03-21 12:07:13,489 INFO  [AppLogger] Find Element Stareted on- .//*[@id='proddlv']/div[1] 
+2017-03-21 12:07:13,562 INFO  [AppLogger] Click Operation started on :.//*[@id='prod_next_status']/option[3] 
+2017-03-21 12:07:13,563 INFO  [AppLogger] Find Element Stareted on- .//*[@id='prod_next_status']/option[3] 
+2017-03-21 12:07:13,638 INFO  [AppLogger] Send Keys Operation started on prod_desc 
+2017-03-21 12:07:13,640 INFO  [AppLogger] Find Element Stareted on- prod_desc 
+2017-03-21 12:07:13,710 INFO  [AppLogger] Click Operation started on :upload_submit 
+2017-03-21 12:07:13,712 INFO  [AppLogger] Find Element Stareted on- upload_submit 
+2017-03-21 12:07:13,783 INFO  [AppLogger] thread starts  
+2017-03-21 12:07:15,784 INFO  [AppLogger] thread starts  
+2017-03-21 12:07:17,785 INFO  [AppLogger] Click Operation started on :.//*[@id='content-orderss-container']/div[22]/div[1]/div/span[3]/img 
+2017-03-21 12:07:17,787 INFO  [AppLogger] Find Element Stareted on- .//*[@id='content-orderss-container']/div[22]/div[1]/div/span[3]/img 
+2017-03-21 12:07:17,852 INFO  [AppLogger] Exception in clicking element: .//*[@id='content-orderss-container']/div[22]/div[1]/div/span[3]/img
+unknown error: Element is not clickable at point (1086, 277). Other element would receive the click: <td style="height:100%;width:100%;vertical-align:middle;">...</td>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 41 milliseconds
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'ADPRO-001735', ip: '192.168.1.220', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed), userDataDir=C:\Users\nkesava\AppData\Local\Temp\scoped_dir5048_22961}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=56.0.2924.87, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: cce2a342a5fd82a32b49f2901ca007d8 
+2017-03-21 12:07:17,888 INFO  [AppLogger] takeScreenShot Stareted on- JD 
+2017-03-21 12:07:18,168 INFO  [AppLogger] ###################################### 
+2017-03-21 12:07:18,168 INFO  [AppLogger] FC006 Status :: automationfail 
+2017-03-21 12:07:18,169 INFO  [AppLogger] ###################################### 
+2017-03-21 12:07:24,580 INFO  [AppLogger] takeScreenShot Stareted on- JD 
+2017-03-21 12:07:24,845 INFO  [AppLogger] ###################################### 
+2017-03-21 12:07:24,845 INFO  [AppLogger] FC007 Status :: automationfail 
+2017-03-21 12:07:24,845 INFO  [AppLogger] ###################################### 

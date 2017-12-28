@@ -1,0 +1,27 @@
+2017-12-13 16:46:52,886 INFO  [AppLogger] Executing testcase on OS:-windows 7 
+2017-12-13 16:46:52,887 INFO  [AppLogger] Current host name :-ADPRO-001734 
+2017-12-13 16:46:52,887 INFO  [AppLogger] Current IP address :-192.168.0.165 
+2017-12-13 16:46:52,887 INFO  [AppLogger] Operating system type :-amd64 
+2017-12-13 16:46:52,887 INFO  [AppLogger] Operating system version :-6.1 
+2017-12-13 16:46:52,887 INFO  [AppLogger] Operating system Info :-Intel64 Family 6 Model 58 Stepping 9, GenuineIntel 
+2017-12-13 16:47:02,874 INFO  [AppLogger] firefoxBrowser Opened 
+2017-12-13 16:47:09,744 INFO  [AppLogger] Page Opened for the url https://jdtraffic-qc.2adpro.com 
+2017-12-13 16:47:11,971 INFO  [AppLogger] Send Keys Operation started on username 
+2017-12-13 16:47:11,977 INFO  [AppLogger] Find Element Stareted on- username 
+2017-12-13 16:47:12,215 INFO  [AppLogger] Send Keys Operation started on .//*[@id='loginform']/input[2] 
+2017-12-13 16:47:12,225 INFO  [AppLogger] Find Element Stareted on- .//*[@id='loginform']/input[2] 
+2017-12-13 16:47:12,965 INFO  [AppLogger] Click Operation started on :login_submit 
+2017-12-13 16:47:12,972 INFO  [AppLogger] Find Element Stareted on- login_submit 
+2017-12-13 16:47:24,814 INFO  [AppLogger] Waiting for page and its elements to be loaded completely 
+2017-12-13 16:47:27,624 INFO  [AppLogger] Started validating page title 
+2017-12-13 16:47:27,759 INFO  [AppLogger] ###################################### 
+2017-12-13 16:47:27,759 INFO  [AppLogger] FC002 Status :: pass 
+2017-12-13 16:47:27,759 INFO  [AppLogger] ###################################### 
+2017-12-13 16:47:29,634 INFO  [AppLogger] Send Keys Operation started on .//*[@id='search_list_status']/li[2]/ul/li[1]/a 
+2017-12-13 16:47:29,648 INFO  [AppLogger] Find Element Stareted on- .//*[@id='search_list_status']/li[2]/ul/li[1]/a 
+2017-12-13 16:47:30,112 INFO  [AppLogger] Exception in Send Keys to element: .//*[@id='search_list_status']/li[2]/ul/li[1]/a
+null 
+2017-12-13 16:47:30,151 INFO  [AppLogger] takeScreenShot Stareted on- JDX 
+2017-12-13 16:47:32,960 INFO  [AppLogger] ###################################### 
+2017-12-13 16:47:32,960 INFO  [AppLogger] FC014 Status :: automationfail 
+2017-12-13 16:47:32,960 INFO  [AppLogger] ###################################### 

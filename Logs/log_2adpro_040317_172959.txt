@@ -1,0 +1,26 @@
+2017-04-03 17:30:00,054 INFO  [AppLogger] Executing testcase on OS:-windows 7 
+2017-04-03 17:30:00,054 INFO  [AppLogger] Current host name :-ADPRO-001735 
+2017-04-03 17:30:00,054 INFO  [AppLogger] Current IP address :-192.168.0.190 
+2017-04-03 17:30:00,054 INFO  [AppLogger] Operating system type :-amd64 
+2017-04-03 17:30:00,054 INFO  [AppLogger] Operating system version :-6.1 
+2017-04-03 17:30:00,054 INFO  [AppLogger] Operating system Info :-Intel64 Family 6 Model 58 Stepping 9, GenuineIntel 
+2017-04-03 17:30:02,835 INFO  [AppLogger] chromeBrowser Opened 
+2017-04-03 17:30:09,730 INFO  [AppLogger] Page Opened for the url https://jd1-qc.2adpro.com/index/login 
+2017-04-03 17:30:11,931 INFO  [AppLogger] Send Keys Operation started on username 
+2017-04-03 17:30:11,934 INFO  [AppLogger] Find Element Stareted on- username 
+2017-04-03 17:30:12,024 INFO  [AppLogger] Send Keys Operation started on password 
+2017-04-03 17:30:12,029 INFO  [AppLogger] Find Element Stareted on- password 
+2017-04-03 17:30:12,119 INFO  [AppLogger] Click Operation started on :login_submit 
+2017-04-03 17:30:12,121 INFO  [AppLogger] Find Element Stareted on- login_submit 
+2017-04-03 17:30:35,929 INFO  [AppLogger] Waiting for page and its elements to be loaded completely 
+2017-04-03 17:30:35,957 INFO  [AppLogger] Started validating page title 
+2017-04-03 17:30:36,072 INFO  [AppLogger] ###################################### 
+2017-04-03 17:30:36,072 INFO  [AppLogger] FC001 Status :: pass 
+2017-04-03 17:30:36,072 INFO  [AppLogger] ###################################### 
+2017-04-03 17:30:37,358 INFO  [AppLogger] Click Operation started on ://span[text()='LOGOUT'] 
+2017-04-03 17:30:37,367 INFO  [AppLogger] Find Element Stareted on- //span[text()='LOGOUT'] 
+2017-04-03 17:30:39,794 INFO  [AppLogger] thread starts  
+2017-04-03 17:30:41,797 INFO  [AppLogger] thread starts  
+2017-04-03 17:30:43,848 INFO  [AppLogger] ###################################### 
+2017-04-03 17:30:43,848 INFO  [AppLogger] FC010 Status :: pass 
+2017-04-03 17:30:43,848 INFO  [AppLogger] ###################################### 

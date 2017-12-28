@@ -1,0 +1,39 @@
+2017-03-12 19:30:45,612 INFO  [AppLogger] Executing testcase on OSwindows 7 
+2017-03-12 19:30:48,310 INFO  [AppLogger] chromeBrowser Opened 
+2017-03-12 19:30:59,422 INFO  [AppLogger] Page Opened for the url https://jdvault-qc.2adpro.com/index/login 
+2017-03-12 19:31:01,414 INFO  [AppLogger] Send Keys Operation started on usernames 
+2017-03-12 19:31:01,414 INFO  [AppLogger] Find Element Stareted on- usernames 
+2017-03-12 19:31:16,452 INFO  [AppLogger] Exception in Find Element with id:-usernames 
+2017-03-12 19:31:31,502 INFO  [AppLogger] Exception in Send Keys to element: usernames
+no such element: Unable to locate element: {"method":"id","selector":"usernames"}
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 15.04 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'ADPRO-004033', ip: '192.168.225.21', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed), userDataDir=C:\Users\SELAVA~1\AppData\Local\Temp\scoped_dir1256_27323}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=56.0.2924.87, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: f717d6678b68ed395a98bf56cef8ffb1
+*** Element info: {Using=id, value=usernames} 
+2017-03-12 19:31:31,818 INFO  [AppLogger] ###################################### 
+2017-03-12 19:31:31,818 INFO  [AppLogger] FC001 Status :: automationfail 
+2017-03-12 19:31:31,818 INFO  [AppLogger] ###################################### 
+2017-03-12 19:31:33,140 INFO  [AppLogger] Click Operation started on :ASSETS 
+2017-03-12 19:31:33,140 INFO  [AppLogger] Find Element Stareted on- ASSETS 
+2017-03-12 19:31:48,180 INFO  [AppLogger] Exception in Find Element with linkText:-ASSETS 
+2017-03-12 19:32:03,255 INFO  [AppLogger] Exception in clicking element: ASSETS
+no such element: Unable to locate element: {"method":"link text","selector":"ASSETS"}
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 15.07 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'ADPRO-004033', ip: '192.168.225.21', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed), userDataDir=C:\Users\SELAVA~1\AppData\Local\Temp\scoped_dir1256_27323}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=56.0.2924.87, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: f717d6678b68ed395a98bf56cef8ffb1
+*** Element info: {Using=link text, value=ASSETS} 
+2017-03-12 19:32:03,455 INFO  [AppLogger] ###################################### 
+2017-03-12 19:32:03,455 INFO  [AppLogger] FC002 Status :: automationfail 
+2017-03-12 19:32:03,455 INFO  [AppLogger] ###################################### 

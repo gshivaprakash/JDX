@@ -1,0 +1,25 @@
+2017-04-10 15:58:36,484 INFO  [AppLogger] Executing testcase on OS:-windows 7 
+2017-04-10 15:58:36,485 INFO  [AppLogger] Current host name :-ADPRO-001735 
+2017-04-10 15:58:36,485 INFO  [AppLogger] Current IP address :-192.168.0.163 
+2017-04-10 15:58:36,485 INFO  [AppLogger] Operating system type :-amd64 
+2017-04-10 15:58:36,485 INFO  [AppLogger] Operating system version :-6.1 
+2017-04-10 15:58:36,485 INFO  [AppLogger] Operating system Info :-Intel64 Family 6 Model 58 Stepping 9, GenuineIntel 
+2017-04-10 15:58:39,312 INFO  [AppLogger] chromeBrowser Opened 
+2017-04-10 15:58:47,647 INFO  [AppLogger] Page Opened for the url https://qc-unipaper.2adpro.com/index/login 
+2017-04-10 15:59:37,317 INFO  [AppLogger] Page Opened for the url https://qc-unipaper.2adpro.com/orders/create?f=KUsBLEeSkV2+D0iJhOH2zPy5VaWZFYhrOa459ZYHJ0Ttb8SicHqY6g== 
+2017-04-10 15:59:37,320 INFO  [AppLogger] thread starts  
+2017-04-10 15:59:39,348 INFO  [AppLogger] thread starts  
+2017-04-10 15:59:41,340 INFO  [AppLogger] Send Keys Operation started on Brief/Instructions 
+2017-04-10 15:59:41,342 INFO  [AppLogger] Find Element Stareted on- Brief/Instructions 
+2017-04-10 15:59:41,475 INFO  [AppLogger] thread starts  
+2017-04-10 15:59:43,494 INFO  [AppLogger] Click Operation started on :.//*[@id='ordercomponentsform']/a 
+2017-04-10 15:59:43,494 INFO  [AppLogger] Find Element Stareted on- .//*[@id='ordercomponentsform']/a 
+2017-04-10 15:59:48,700 INFO  [AppLogger] thread starts  
+2017-04-10 15:59:50,687 INFO  [AppLogger] thread starts  
+2017-04-10 15:59:52,691 INFO  [AppLogger] Click Operation started on :.//*[@id='formSubmit'] 
+2017-04-10 15:59:52,703 INFO  [AppLogger] Find Element Stareted on- .//*[@id='formSubmit'] 
+2017-04-10 15:59:59,917 INFO  [AppLogger] thread starts  
+2017-04-10 16:00:01,920 INFO  [AppLogger] thread starts  
+2017-04-10 16:00:04,115 INFO  [AppLogger] ###################################### 
+2017-04-10 16:00:04,115 INFO  [AppLogger] FC019 Status :: pass 
+2017-04-10 16:00:04,115 INFO  [AppLogger] ###################################### 

@@ -1,0 +1,180 @@
+2017-06-05 16:38:26,961 INFO  [AppLogger] Executing testcase on OS:-windows 7 
+2017-06-05 16:38:26,961 INFO  [AppLogger] Current host name :-ADPRO-001735 
+2017-06-05 16:38:26,961 INFO  [AppLogger] Current IP address :-192.168.0.147 
+2017-06-05 16:38:26,961 INFO  [AppLogger] Operating system type :-amd64 
+2017-06-05 16:38:26,961 INFO  [AppLogger] Operating system version :-6.1 
+2017-06-05 16:38:26,961 INFO  [AppLogger] Operating system Info :-Intel64 Family 6 Model 58 Stepping 9, GenuineIntel 
+2017-06-05 16:38:29,477 INFO  [AppLogger] chromeBrowser Opened 
+2017-06-05 16:38:40,228 INFO  [AppLogger] Page Opened for the url https://jdvault-qc.2adpro.com 
+2017-06-05 16:38:42,512 INFO  [AppLogger] Send Keys Operation started on username 
+2017-06-05 16:38:42,512 INFO  [AppLogger] Find Element Stareted on- username 
+2017-06-05 16:38:42,574 INFO  [AppLogger] Click Operation started on :login_submit 
+2017-06-05 16:38:42,576 INFO  [AppLogger] Find Element Stareted on- login_submit 
+2017-06-05 16:38:43,465 INFO  [AppLogger] Send Keys Operation started on password 
+2017-06-05 16:38:43,471 INFO  [AppLogger] Find Element Stareted on- password 
+2017-06-05 16:38:43,542 INFO  [AppLogger] Click Operation started on :login_submit 
+2017-06-05 16:38:43,546 INFO  [AppLogger] Find Element Stareted on- login_submit 
+2017-06-05 16:38:53,196 INFO  [AppLogger] Waiting for page and its elements to be loaded completely 
+2017-06-05 16:38:53,211 INFO  [AppLogger] Started validating page title 
+2017-06-05 16:38:53,324 INFO  [AppLogger] ###################################### 
+2017-06-05 16:38:53,324 INFO  [AppLogger] FC001 Status :: pass 
+2017-06-05 16:38:53,324 INFO  [AppLogger] ###################################### 
+2017-06-05 16:38:54,670 INFO  [AppLogger] Click Operation started on ://div[@class='navLinks']/a[text()='CREATE ASSETS'] 
+2017-06-05 16:38:54,670 INFO  [AppLogger] Find Element Stareted on- //div[@class='navLinks']/a[text()='CREATE ASSETS'] 
+2017-06-05 16:38:58,761 INFO  [AppLogger] Waiting for page and its elements to be loaded completely 
+2017-06-05 16:38:58,777 INFO  [AppLogger] validateOrderNumber starts //label[text()='Names'] 
+2017-06-05 16:38:58,779 INFO  [AppLogger] Find Element Stareted on- //label[text()='Names'] 
+2017-06-05 16:39:13,824 INFO  [AppLogger] Exception in Find Element with xpath:-//label[text()='Names'] 
+2017-06-05 16:39:28,892 INFO  [AppLogger] Error in validateTag for element //label[text()='Names']
+no such element: Unable to locate element: {"method":"xpath","selector":"//label[text()='Names']"}
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 15.06 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'ADPRO-001735', ip: '192.168.0.147', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed), userDataDir=C:\Users\nkesava\AppData\Local\Temp\scoped_dir9644_32531}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=56.0.2924.87, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: ef5d8ae2c3dd30a42b3487344bbaec82
+*** Element info: {Using=xpath, value=//label[text()='Names']} 
+2017-06-05 16:39:28,927 INFO  [AppLogger] takeScreenShot Stareted on- JDVault 
+2017-06-05 16:39:29,191 INFO  [AppLogger] ###################################### 
+2017-06-05 16:39:29,191 INFO  [AppLogger] FC002 Status :: automationfail 
+2017-06-05 16:39:29,191 INFO  [AppLogger] ###################################### 
+2017-06-05 16:39:29,391 INFO  [AppLogger] Click Operation started on :ASSETS 
+2017-06-05 16:39:29,401 INFO  [AppLogger] Find Element Stareted on- ASSETS 
+2017-06-05 16:39:41,807 INFO  [AppLogger] Waiting for page and its elements to be loaded completely 
+2017-06-05 16:39:41,819 INFO  [AppLogger] Click Operation started on :.//*[@id='leftNav']/li[3]/a 
+2017-06-05 16:39:41,821 INFO  [AppLogger] Find Element Stareted on- .//*[@id='leftNav']/li[3]/a 
+2017-06-05 16:39:41,923 INFO  [AppLogger] Waiting for page and its elements to be loaded completely 
+2017-06-05 16:39:43,450 INFO  [AppLogger] Click Operation started on ://p[text()='Auto'] 
+2017-06-05 16:39:43,451 INFO  [AppLogger] Find Element Stareted on- //p[text()='Auto'] 
+2017-06-05 16:39:43,542 INFO  [AppLogger] Waiting for page and its elements to be loaded completely 
+2017-06-05 16:39:45,061 INFO  [AppLogger] Click Operation started on :.//*[@id='mainWrap']/section/div/div[3]/div/div[1]/div[1]/div[2]/span[5] 
+2017-06-05 16:39:45,063 INFO  [AppLogger] Find Element Stareted on- .//*[@id='mainWrap']/section/div/div[3]/div/div[1]/div[1]/div[2]/span[5] 
+2017-06-05 16:39:45,149 INFO  [AppLogger] Exception in clicking element: .//*[@id='mainWrap']/section/div/div[3]/div/div[1]/div[1]/div[2]/span[5]
+unknown error: Element is not clickable at point (583, 451). Other element would receive the click: <div class="loader" style="display: block; opacity: 0.273006;"></div>
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 58 milliseconds
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'ADPRO-001735', ip: '192.168.0.147', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed), userDataDir=C:\Users\nkesava\AppData\Local\Temp\scoped_dir9644_32531}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=56.0.2924.87, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: ef5d8ae2c3dd30a42b3487344bbaec82 
+2017-06-05 16:39:45,188 INFO  [AppLogger] takeScreenShot Stareted on- JDVault 
+2017-06-05 16:39:45,471 INFO  [AppLogger] ###################################### 
+2017-06-05 16:39:45,471 INFO  [AppLogger] FC002 Status :: automationfail 
+2017-06-05 16:39:45,471 INFO  [AppLogger] ###################################### 
+2017-06-05 16:39:45,650 INFO  [AppLogger] Click Operation started on :.//*[@id='mainWrap']/section/div/div[3]/div/div[1]/div[1]/div[2]/span[5] 
+2017-06-05 16:39:45,650 INFO  [AppLogger] Find Element Stareted on- .//*[@id='mainWrap']/section/div/div[3]/div/div[1]/div[1]/div[2]/span[5] 
+2017-06-05 16:39:45,681 INFO  [AppLogger] thread starts  
+2017-06-05 16:39:47,690 INFO  [AppLogger] Click Operation started on :.//*[@id='mainWrap']/section/div/div[3]/div/div[2]/div[2]/ul/li[5] 
+2017-06-05 16:39:47,690 INFO  [AppLogger] Find Element Stareted on- .//*[@id='mainWrap']/section/div/div[3]/div/div[2]/div[2]/ul/li[5] 
+2017-06-05 16:40:02,703 INFO  [AppLogger] Exception in Find Element with xpath:-.//*[@id='mainWrap']/section/div/div[3]/div/div[2]/div[2]/ul/li[5] 
+2017-06-05 16:40:17,790 INFO  [AppLogger] Exception in clicking element: .//*[@id='mainWrap']/section/div/div[3]/div/div[2]/div[2]/ul/li[5]
+no such element: Unable to locate element: {"method":"xpath","selector":".//*[@id='mainWrap']/section/div/div[3]/div/div[2]/div[2]/ul/li[5]"}
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 15.08 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'ADPRO-001735', ip: '192.168.0.147', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed), userDataDir=C:\Users\nkesava\AppData\Local\Temp\scoped_dir9644_32531}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=56.0.2924.87, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: ef5d8ae2c3dd30a42b3487344bbaec82
+*** Element info: {Using=xpath, value=.//*[@id='mainWrap']/section/div/div[3]/div/div[2]/div[2]/ul/li[5]} 
+2017-06-05 16:40:17,841 INFO  [AppLogger] takeScreenShot Stareted on- JDVault 
+2017-06-05 16:40:18,059 INFO  [AppLogger] ###################################### 
+2017-06-05 16:40:18,059 INFO  [AppLogger] FC002 Status :: automationfail 
+2017-06-05 16:40:18,059 INFO  [AppLogger] ###################################### 
+2017-06-05 16:40:18,219 INFO  [AppLogger] Click Operation started on :ASSETS 
+2017-06-05 16:40:18,219 INFO  [AppLogger] Find Element Stareted on- ASSETS 
+2017-06-05 16:40:29,128 INFO  [AppLogger] Waiting for page and its elements to be loaded completely 
+2017-06-05 16:40:29,139 INFO  [AppLogger] Send Keys Operation started on search 
+2017-06-05 16:40:29,141 INFO  [AppLogger] Find Element Stareted on- search 
+2017-06-05 16:40:29,237 INFO  [AppLogger] Click Operation started on :.//*[@id='mainWrap']/header/div[2]/div/div/input[5] 
+2017-06-05 16:40:29,239 INFO  [AppLogger] Find Element Stareted on- .//*[@id='mainWrap']/header/div[2]/div/div/input[5] 
+2017-06-05 16:40:29,324 INFO  [AppLogger] Waiting for page and its elements to be loaded completely 
+2017-06-05 16:40:30,851 INFO  [AppLogger] thread starts  
+2017-06-05 16:40:32,873 INFO  [AppLogger] Click Operation started on :.//*[@id='mainWrap']/section/div/div[3]/div/div/div/div[2]/span[5] 
+2017-06-05 16:40:32,873 INFO  [AppLogger] Find Element Stareted on- .//*[@id='mainWrap']/section/div/div[3]/div/div/div/div[2]/span[5] 
+2017-06-05 16:40:32,934 INFO  [AppLogger] Waiting for page and its elements to be loaded completely 
+2017-06-05 16:40:32,940 INFO  [AppLogger] thread starts  
+2017-06-05 16:40:34,960 INFO  [AppLogger] Click Operation started on :.//*[@id='mainWrap']/section/div/div[3]/div/div[2]/div[2]/ul/li[1] 
+2017-06-05 16:40:34,960 INFO  [AppLogger] Find Element Stareted on- .//*[@id='mainWrap']/section/div/div[3]/div/div[2]/div[2]/ul/li[1] 
+2017-06-05 16:40:49,988 INFO  [AppLogger] Exception in Find Element with xpath:-.//*[@id='mainWrap']/section/div/div[3]/div/div[2]/div[2]/ul/li[1] 
+2017-06-05 16:41:05,015 INFO  [AppLogger] Exception in clicking element: .//*[@id='mainWrap']/section/div/div[3]/div/div[2]/div[2]/ul/li[1]
+no such element: Unable to locate element: {"method":"xpath","selector":".//*[@id='mainWrap']/section/div/div[3]/div/div[2]/div[2]/ul/li[1]"}
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 15.02 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'ADPRO-001735', ip: '192.168.0.147', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed), userDataDir=C:\Users\nkesava\AppData\Local\Temp\scoped_dir9644_32531}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=56.0.2924.87, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: ef5d8ae2c3dd30a42b3487344bbaec82
+*** Element info: {Using=xpath, value=.//*[@id='mainWrap']/section/div/div[3]/div/div[2]/div[2]/ul/li[1]} 
+2017-06-05 16:41:05,036 INFO  [AppLogger] takeScreenShot Stareted on- JDVault 
+2017-06-05 16:41:05,241 INFO  [AppLogger] ###################################### 
+2017-06-05 16:41:05,241 INFO  [AppLogger] FC002 Status :: automationfail 
+2017-06-05 16:41:05,241 INFO  [AppLogger] ###################################### 
+2017-06-05 16:41:05,381 INFO  [AppLogger] Click Operation started on :ASSETS 
+2017-06-05 16:41:05,381 INFO  [AppLogger] Find Element Stareted on- ASSETS 
+2017-06-05 16:41:20,658 INFO  [AppLogger] Waiting for page and its elements to be loaded completely 
+2017-06-05 16:41:20,672 INFO  [AppLogger] thread starts  
+2017-06-05 16:41:22,683 INFO  [AppLogger] thread starts  
+2017-06-05 16:41:24,709 INFO  [AppLogger] thread starts  
+2017-06-05 16:41:26,709 INFO  [AppLogger] clickByAction starts .//*[@id='leftNav']/li[1] 
+2017-06-05 16:41:26,709 INFO  [AppLogger] Find Element Stareted on- .//*[@id='leftNav']/li[1] 
+2017-06-05 16:41:26,784 INFO  [AppLogger] Waiting for page and its elements to be loaded completely 
+2017-06-05 16:41:26,810 INFO  [AppLogger] thread starts  
+2017-06-05 16:41:28,834 INFO  [AppLogger] Click Operation started on :.//*[@id='leftNav']/li[1]/ul/li[1]/a 
+2017-06-05 16:41:28,834 INFO  [AppLogger] Find Element Stareted on- .//*[@id='leftNav']/li[1]/ul/li[1]/a 
+2017-06-05 16:41:28,920 INFO  [AppLogger] Waiting for page and its elements to be loaded completely 
+2017-06-05 16:41:31,989 INFO  [AppLogger] thread starts  
+2017-06-05 16:41:33,980 INFO  [AppLogger] Click Operation started on ://div[@class='opt_1_wrap newproductwrap']/div[1]/div[1]/div[@class='productThumbIcons']/span[1] 
+2017-06-05 16:41:33,980 INFO  [AppLogger] Find Element Stareted on- //div[@class='opt_1_wrap newproductwrap']/div[1]/div[1]/div[@class='productThumbIcons']/span[1] 
+2017-06-05 16:41:34,052 INFO  [AppLogger] Waiting for page and its elements to be loaded completely 
+2017-06-05 16:41:35,599 INFO  [AppLogger] thread starts  
+2017-06-05 16:41:37,599 INFO  [AppLogger] validateOrderNumber starts //div[@class='opt_1_wrap newproductwrap']/div[1]/div[1]/div[@class='productThumbIcons']/span[@class='light_box added'] 
+2017-06-05 16:41:37,599 INFO  [AppLogger] Find Element Stareted on- //div[@class='opt_1_wrap newproductwrap']/div[1]/div[1]/div[@class='productThumbIcons']/span[@class='light_box added'] 
+2017-06-05 16:41:37,629 INFO  [AppLogger] Displayed content mathches with your tag input://div[@class='opt_1_wrap newproductwrap']/div[1]/div[1]/div[@class='productThumbIcons']/span[@class='light_box added'] 
+2017-06-05 16:41:37,639 INFO  [AppLogger] Find Element Stareted on- //div[@class='opt_1_wrap newproductwrap']/div[1]/div[1]/div[@class='productThumbIcons']/span[1] 
+2017-06-05 16:41:37,660 INFO  [AppLogger] Click Operation started on :.//*[@id='leftNav']/li[1]/ul/li[1]/a 
+2017-06-05 16:41:37,660 INFO  [AppLogger] Find Element Stareted on- .//*[@id='leftNav']/li[1]/ul/li[1]/a 
+2017-06-05 16:41:37,709 INFO  [AppLogger] Waiting for page and its elements to be loaded completely 
+2017-06-05 16:41:40,753 INFO  [AppLogger] thread starts  
+2017-06-05 16:41:42,754 INFO  [AppLogger] Click Operation started on :.//*[@id='leftNav']/li[1]/ul/li[2]/a 
+2017-06-05 16:41:42,756 INFO  [AppLogger] Find Element Stareted on- .//*[@id='leftNav']/li[1]/ul/li[2]/a 
+2017-06-05 16:41:42,865 INFO  [AppLogger] Waiting for page and its elements to be loaded completely 
+2017-06-05 16:41:44,394 INFO  [AppLogger] thread starts  
+2017-06-05 16:41:46,419 INFO  [AppLogger] Click Operation started on ://div[@class='opt_1_wrap newproductwrap']/div[1]/div[1]/div[@class='productThumbIcons']/span[1] 
+2017-06-05 16:41:46,419 INFO  [AppLogger] Find Element Stareted on- //div[@class='opt_1_wrap newproductwrap']/div[1]/div[1]/div[@class='productThumbIcons']/span[1] 
+2017-06-05 16:41:46,471 INFO  [AppLogger] Waiting for page and its elements to be loaded completely 
+2017-06-05 16:41:48,009 INFO  [AppLogger] thread starts  
+2017-06-05 16:41:50,001 INFO  [AppLogger] validateOrderNumber starts //div[@class='opt_1_wrap newproductwrap']/div[1]/div[1]/div[@class='productThumbIcons']/span[@class='light_box added'] 
+2017-06-05 16:41:50,003 INFO  [AppLogger] Find Element Stareted on- //div[@class='opt_1_wrap newproductwrap']/div[1]/div[1]/div[@class='productThumbIcons']/span[@class='light_box added'] 
+2017-06-05 16:41:50,042 INFO  [AppLogger] Displayed content mathches with your tag input://div[@class='opt_1_wrap newproductwrap']/div[1]/div[1]/div[@class='productThumbIcons']/span[@class='light_box added'] 
+2017-06-05 16:41:50,044 INFO  [AppLogger] Find Element Stareted on- //div[@class='opt_1_wrap newproductwrap']/div[1]/div[1]/div[@class='productThumbIcons']/span[1] 
+2017-06-05 16:41:50,070 INFO  [AppLogger] Click Operation started on :.//*[@id='leftNav']/li[1]/ul/li[2]/a 
+2017-06-05 16:41:50,071 INFO  [AppLogger] Find Element Stareted on- .//*[@id='leftNav']/li[1]/ul/li[2]/a 
+2017-06-05 16:41:50,131 INFO  [AppLogger] Waiting for page and its elements to be loaded completely 
+2017-06-05 16:41:51,654 INFO  [AppLogger] thread starts  
+2017-06-05 16:41:53,662 INFO  [AppLogger] Click Operation started on :.//*[@id='leftNav']/li[6]/a 
+2017-06-05 16:41:53,663 INFO  [AppLogger] Find Element Stareted on- .//*[@id='leftNav']/li[6]/a 
+2017-06-05 16:41:53,742 INFO  [AppLogger] Waiting for page and its elements to be loaded completely 
+2017-06-05 16:41:56,775 INFO  [AppLogger] thread starts  
+2017-06-05 16:41:58,800 INFO  [AppLogger] Find Element Stareted on- //div[@class='opt_1_wrap newproductwrap']/div[1]/div[1]/div[@class='productThumbIcons']/span[1] 
+2017-06-05 16:41:58,830 INFO  [AppLogger] Find Element Stareted on- //div[@class='opt_1_wrap newproductwrap']/div[1]/div[2]/div[@class='productThumbIcons']/span[1] 
+2017-06-05 16:41:58,861 INFO  [AppLogger] validateOrderNumber starts //div[@class='opt_1_wrap newproductwrap']/div[1]/div[1]/div[@class='productThumbIcons']/span[@class='light_box added'] 
+2017-06-05 16:41:58,861 INFO  [AppLogger] Error in validateTag for element //div[@class='opt_1_wrap newproductwrap']/div[1]/div[1]/div[@class='productThumbIcons']/span[@class='light_box added']
+null 
+2017-06-05 16:41:58,861 INFO  [AppLogger] validateOrderNumber starts //div[@class='opt_1_wrap newproductwrap']/div[1]/div[2]/div[@class='productThumbIcons']/span[@class='light_box added'] 
+2017-06-05 16:41:58,861 INFO  [AppLogger] Error in validateTag for element //div[@class='opt_1_wrap newproductwrap']/div[1]/div[2]/div[@class='productThumbIcons']/span[@class='light_box added']
+null 
+2017-06-05 16:41:58,881 INFO  [AppLogger] takeScreenShot Stareted on- JDVault 
+2017-06-05 16:41:59,087 INFO  [AppLogger] ###################################### 
+2017-06-05 16:41:59,087 INFO  [AppLogger] FC002 Status :: validationfail 
+2017-06-05 16:41:59,087 INFO  [AppLogger] ###################################### 

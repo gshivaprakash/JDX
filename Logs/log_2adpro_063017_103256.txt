@@ -1,0 +1,72 @@
+2017-06-30 10:32:56,677 INFO  [AppLogger] Executing testcase on OS:-windows 7 
+2017-06-30 10:32:56,678 INFO  [AppLogger] Current host name :-ADPRO-001735 
+2017-06-30 10:32:56,678 INFO  [AppLogger] Current IP address :-192.168.0.147 
+2017-06-30 10:32:56,678 INFO  [AppLogger] Operating system type :-amd64 
+2017-06-30 10:32:56,678 INFO  [AppLogger] Operating system version :-6.1 
+2017-06-30 10:32:56,678 INFO  [AppLogger] Operating system Info :-Intel64 Family 6 Model 58 Stepping 9, GenuineIntel 
+2017-06-30 10:33:01,963 INFO  [AppLogger] firefoxBrowser Opened 
+2017-06-30 10:33:09,152 INFO  [AppLogger] Page Opened for the url https://jdvault-qc.2adpro.com/index/login 
+2017-06-30 10:33:10,277 INFO  [AppLogger] Send Keys Operation started on username 
+2017-06-30 10:33:10,280 INFO  [AppLogger] Find Element Stareted on- username 
+2017-06-30 10:33:10,410 INFO  [AppLogger] Click Operation started on :login_submit 
+2017-06-30 10:33:10,412 INFO  [AppLogger] Find Element Stareted on- login_submit 
+2017-06-30 10:33:11,677 INFO  [AppLogger] Send Keys Operation started on password 
+2017-06-30 10:33:11,680 INFO  [AppLogger] Find Element Stareted on- password 
+2017-06-30 10:33:11,781 INFO  [AppLogger] Click Operation started on :login_submit 
+2017-06-30 10:33:11,783 INFO  [AppLogger] Find Element Stareted on- login_submit 
+2017-06-30 10:33:20,447 INFO  [AppLogger] Waiting for page and its elements to be loaded completely 
+2017-06-30 10:33:20,469 INFO  [AppLogger] Started validating page title 
+2017-06-30 10:33:20,591 INFO  [AppLogger] ###################################### 
+2017-06-30 10:33:20,591 INFO  [AppLogger] FC001 Status :: pass 
+2017-06-30 10:33:20,591 INFO  [AppLogger] ###################################### 
+2017-06-30 10:33:21,887 INFO  [AppLogger] Click Operation started on ://div[@class='navLinks']/a[text()='CREATE ASSETS'] 
+2017-06-30 10:33:21,889 INFO  [AppLogger] Find Element Stareted on- //div[@class='navLinks']/a[text()='CREATE ASSETS'] 
+2017-06-30 10:33:25,852 INFO  [AppLogger] Waiting for page and its elements to be loaded completely 
+2017-06-30 10:33:25,872 INFO  [AppLogger] validateOrderNumber starts .//*[@id='asset-title'] 
+2017-06-30 10:33:25,873 INFO  [AppLogger] Find Element Stareted on- .//*[@id='asset-title'] 
+2017-06-30 10:33:25,905 INFO  [AppLogger] Displayed content mathches with your tag input:.//*[@id='asset-title'] 
+2017-06-30 10:33:25,906 INFO  [AppLogger] Send Keys Operation started on asset-title 
+2017-06-30 10:33:25,908 INFO  [AppLogger] Find Element Stareted on- asset-title 
+2017-06-30 10:33:26,015 INFO  [AppLogger] Click Operation started on ://div[@tabindex='3'] 
+2017-06-30 10:33:26,017 INFO  [AppLogger] Find Element Stareted on- //div[@tabindex='3'] 
+2017-06-30 10:33:26,108 INFO  [AppLogger] thread starts  
+2017-06-30 10:33:28,111 INFO  [AppLogger] Click Operation started on ://div[@tabindex='3']/ul[@class='dropDownBox']/li[text()='Digital'] 
+2017-06-30 10:33:28,114 INFO  [AppLogger] Find Element Stareted on- //div[@tabindex='3']/ul[@class='dropDownBox']/li[text()='Digital'] 
+2017-06-30 10:33:28,233 INFO  [AppLogger] Click Operation started on ://div[@tabindex='4'] 
+2017-06-30 10:33:28,235 INFO  [AppLogger] Find Element Stareted on- //div[@tabindex='4'] 
+2017-06-30 10:33:28,328 INFO  [AppLogger] thread starts  
+2017-06-30 10:33:30,331 INFO  [AppLogger] Click Operation started on ://div[@tabindex='4']/ul[@class='dropDownBox']/li[text()='Shell Ad'] 
+2017-06-30 10:33:30,334 INFO  [AppLogger] Find Element Stareted on- //div[@tabindex='4']/ul[@class='dropDownBox']/li[text()='Shell Ad'] 
+2017-06-30 10:33:30,441 INFO  [AppLogger] Click Operation started on ://div[@tabindex='5'] 
+2017-06-30 10:33:30,443 INFO  [AppLogger] Find Element Stareted on- //div[@tabindex='5'] 
+2017-06-30 10:33:30,530 INFO  [AppLogger] thread starts  
+2017-06-30 10:33:32,533 INFO  [AppLogger] Click Operation started on ://div[@tabindex='5']/ul[@class='dropDownBox']/li[text()='Auto'] 
+2017-06-30 10:33:32,536 INFO  [AppLogger] Find Element Stareted on- //div[@tabindex='5']/ul[@class='dropDownBox']/li[text()='Auto'] 
+2017-06-30 10:33:32,705 INFO  [AppLogger] thread starts  
+2017-06-30 10:33:34,708 INFO  [AppLogger] Send Keys Operation started on //div[contains(@id,'_tagsinput')]/div[contains(@id,'_addTag')]/input[contains(@id,'_tag')] 
+2017-06-30 10:33:34,712 INFO  [AppLogger] Find Element Stareted on- //div[contains(@id,'_tagsinput')]/div[contains(@id,'_addTag')]/input[contains(@id,'_tag')] 
+2017-06-30 10:33:34,827 INFO  [AppLogger] Click Operation started on ://div[text()='Choose Files'] 
+2017-06-30 10:33:34,828 INFO  [AppLogger] Find Element Stareted on- //div[text()='Choose Files'] 
+2017-06-30 10:33:35,053 INFO  [AppLogger] thread starts  
+2017-06-30 10:33:50,109 INFO  [AppLogger] thread starts  
+2017-06-30 10:34:00,111 INFO  [AppLogger] thread starts  
+2017-06-30 10:34:10,113 INFO  [AppLogger] thread starts  
+2017-06-30 10:34:20,115 INFO  [AppLogger] thread starts  
+2017-06-30 10:34:22,118 INFO  [AppLogger] thread starts  
+2017-06-30 10:34:24,121 INFO  [AppLogger] validateOrderNumber starts //span[text()='Desert.jpg'] 
+2017-06-30 10:34:24,127 INFO  [AppLogger] Find Element Stareted on- //span[text()='Desert.jpg'] 
+2017-06-30 10:34:39,191 INFO  [AppLogger] Exception in Find Element with xpath:-//span[text()='Desert.jpg'] 
+2017-06-30 10:34:54,292 INFO  [AppLogger] Error in validateTag for element //span[text()='Desert.jpg']
+Unable to locate element: {"method":"xpath","selector":"//span[text()='Desert.jpg']"}
+Command duration or timeout: 15.10 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'ADPRO-001735', ip: '192.168.0.147', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=35.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 75c415ca-12f0-4e2f-a0fb-3563ca3d7a65
+*** Element info: {Using=xpath, value=//span[text()='Desert.jpg']} 
+2017-06-30 10:34:54,346 INFO  [AppLogger] takeScreenShot Stareted on- JDVault 
+2017-06-30 10:34:54,547 INFO  [AppLogger] ###################################### 
+2017-06-30 10:34:54,547 INFO  [AppLogger] FC002 Status :: automationfail 
+2017-06-30 10:34:54,547 INFO  [AppLogger] ###################################### 

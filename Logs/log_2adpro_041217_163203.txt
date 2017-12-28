@@ -1,0 +1,43 @@
+2017-04-12 16:32:03,435 INFO  [AppLogger] Executing testcase on OS:-windows 7 
+2017-04-12 16:32:03,436 INFO  [AppLogger] Current host name :-ADPRO-001735 
+2017-04-12 16:32:03,436 INFO  [AppLogger] Current IP address :-192.168.1.220 
+2017-04-12 16:32:03,436 INFO  [AppLogger] Operating system type :-amd64 
+2017-04-12 16:32:03,436 INFO  [AppLogger] Operating system version :-6.1 
+2017-04-12 16:32:03,436 INFO  [AppLogger] Operating system Info :-Intel64 Family 6 Model 58 Stepping 9, GenuineIntel 
+2017-04-12 16:32:06,234 INFO  [AppLogger] chromeBrowser Opened 
+2017-04-12 16:32:11,994 INFO  [AppLogger] Page Opened for the url https://qc-unipaper.2adpro.com/view/index 
+2017-04-12 16:32:14,250 INFO  [AppLogger] Send Keys Operation started on username 
+2017-04-12 16:32:14,253 INFO  [AppLogger] Find Element Stareted on- username 
+2017-04-12 16:32:14,355 INFO  [AppLogger] Send Keys Operation started on password 
+2017-04-12 16:32:14,357 INFO  [AppLogger] Find Element Stareted on- password 
+2017-04-12 16:32:14,423 INFO  [AppLogger] thread starts  
+2017-04-12 16:32:16,427 INFO  [AppLogger] thread starts  
+2017-04-12 16:32:18,431 INFO  [AppLogger] Click Operation started on :login_submit 
+2017-04-12 16:32:18,435 INFO  [AppLogger] Find Element Stareted on- login_submit 
+2017-04-12 16:32:36,356 INFO  [AppLogger] thread starts  
+2017-04-12 16:32:38,359 INFO  [AppLogger] thread starts  
+2017-04-12 16:32:40,376 INFO  [AppLogger] Waiting for page and its elements to be loaded completely 
+2017-04-12 16:32:40,402 INFO  [AppLogger] Started validating page title 
+2017-04-12 16:32:40,513 INFO  [AppLogger] ###################################### 
+2017-04-12 16:32:40,513 INFO  [AppLogger] FC016 Status :: pass 
+2017-04-12 16:32:40,513 INFO  [AppLogger] ###################################### 
+2017-04-12 16:33:24,137 INFO  [AppLogger] Page Opened for the url https://eproofjd-qc.2adpro.com/index.php?ref=e58ee049c81476_V1_R0&proofurl=KujxjwTyINk0W9t7VJkj2A%3D%3D 
+2017-04-12 16:33:24,141 INFO  [AppLogger] Waiting for page and its elements to be loaded completely 
+2017-04-12 16:33:24,155 INFO  [AppLogger] thread starts  
+2017-04-12 16:33:26,156 INFO  [AppLogger] thread starts  
+2017-04-12 16:33:28,158 INFO  [AppLogger] thread starts  
+2017-04-12 16:33:30,161 INFO  [AppLogger] thread starts  
+2017-04-12 16:33:32,166 INFO  [AppLogger] thread starts  
+2017-04-12 16:33:34,169 INFO  [AppLogger] Click Operation started on :.//*[@id='mainWrap']/div[1]/div[2]/div[2]/input[3] 
+2017-04-12 16:33:34,172 INFO  [AppLogger] Find Element Stareted on- .//*[@id='mainWrap']/div[1]/div[2]/div[2]/input[3] 
+2017-04-12 16:33:34,270 INFO  [AppLogger] thread starts  
+2017-04-12 16:33:36,273 INFO  [AppLogger] thread starts  
+2017-04-12 16:33:38,275 INFO  [AppLogger] thread starts  
+2017-04-12 16:33:40,282 INFO  [AppLogger] thread starts  
+2017-04-12 16:33:42,285 INFO  [AppLogger] thread starts  
+2017-04-12 16:33:44,288 INFO  [AppLogger] thread starts  
+2017-04-12 16:33:46,291 INFO  [AppLogger] Click Operation started on :html/body/div[10]/div/div[1]/input[1] 
+2017-04-12 16:33:46,294 INFO  [AppLogger] Find Element Stareted on- html/body/div[10]/div/div[1]/input[1] 
+2017-04-12 16:33:49,273 INFO  [AppLogger] ###################################### 
+2017-04-12 16:33:49,273 INFO  [AppLogger] FC022 Status :: pass 
+2017-04-12 16:33:49,273 INFO  [AppLogger] ###################################### 

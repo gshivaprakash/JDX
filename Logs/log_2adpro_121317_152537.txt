@@ -1,0 +1,39 @@
+2017-12-13 15:25:38,028 INFO  [AppLogger] Executing testcase on OS:-windows 7 
+2017-12-13 15:25:38,028 INFO  [AppLogger] Current host name :-ADPRO-001734 
+2017-12-13 15:25:38,028 INFO  [AppLogger] Current IP address :-192.168.0.165 
+2017-12-13 15:25:38,029 INFO  [AppLogger] Operating system type :-amd64 
+2017-12-13 15:25:38,029 INFO  [AppLogger] Operating system version :-6.1 
+2017-12-13 15:25:38,029 INFO  [AppLogger] Operating system Info :-Intel64 Family 6 Model 58 Stepping 9, GenuineIntel 
+2017-12-13 15:25:49,351 INFO  [AppLogger] firefoxBrowser Opened 
+2017-12-13 15:26:03,162 INFO  [AppLogger] Page Opened for the url https://jdtraffic-qc.2adpro.com 
+2017-12-13 15:26:05,848 INFO  [AppLogger] Send Keys Operation started on username 
+2017-12-13 15:26:05,856 INFO  [AppLogger] Find Element Stareted on- username 
+2017-12-13 15:26:06,151 INFO  [AppLogger] Send Keys Operation started on .//*[@id='loginform']/input[2] 
+2017-12-13 15:26:06,155 INFO  [AppLogger] Find Element Stareted on- .//*[@id='loginform']/input[2] 
+2017-12-13 15:26:06,766 INFO  [AppLogger] Click Operation started on :login_submit 
+2017-12-13 15:26:06,771 INFO  [AppLogger] Find Element Stareted on- login_submit 
+2017-12-13 15:26:22,262 INFO  [AppLogger] Waiting for page and its elements to be loaded completely 
+2017-12-13 15:26:24,993 INFO  [AppLogger] Started validating page title 
+2017-12-13 15:26:25,147 INFO  [AppLogger] ###################################### 
+2017-12-13 15:26:25,147 INFO  [AppLogger] FC002 Status :: pass 
+2017-12-13 15:26:25,147 INFO  [AppLogger] ###################################### 
+2017-12-13 15:26:27,090 INFO  [AppLogger] Click Operation started on :.//*[@id='activeAdDetails']/div[2]/div[2]/div[1]/div 
+2017-12-13 15:26:27,103 INFO  [AppLogger] Find Element Stareted on- .//*[@id='activeAdDetails']/div[2]/div[2]/div[1]/div 
+2017-12-13 15:26:27,804 INFO  [AppLogger] thread starts  
+2017-12-13 15:26:29,808 INFO  [AppLogger] Click Operation started on :.//*[@id='activeAdDetails']/div[2]/div[5]/input[2] 
+2017-12-13 15:26:29,813 INFO  [AppLogger] Find Element Stareted on- .//*[@id='activeAdDetails']/div[2]/div[5]/input[2] 
+2017-12-13 15:26:44,950 INFO  [AppLogger] Exception in Find Element with xpath:-.//*[@id='activeAdDetails']/div[2]/div[5]/input[2] 
+2017-12-13 15:27:00,157 INFO  [AppLogger] Exception in clicking element: .//*[@id='activeAdDetails']/div[2]/div[5]/input[2]
+Unable to locate element: {"method":"xpath","selector":".//*[@id='activeAdDetails']/div[2]/div[5]/input[2]"}
+Command duration or timeout: 15.20 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'ADPRO-001734', ip: '192.168.0.165', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=43.0.1, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 51335829-3961-407d-9f1b-c61fb645f1c1
+*** Element info: {Using=xpath, value=.//*[@id='activeAdDetails']/div[2]/div[5]/input[2]} 
+2017-12-13 15:27:00,192 INFO  [AppLogger] takeScreenShot Stareted on- JDX 
+2017-12-13 15:27:02,418 INFO  [AppLogger] ###################################### 
+2017-12-13 15:27:02,419 INFO  [AppLogger] FC009 Status :: automationfail 
+2017-12-13 15:27:02,419 INFO  [AppLogger] ###################################### 

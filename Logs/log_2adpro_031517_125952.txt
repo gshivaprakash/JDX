@@ -1,0 +1,94 @@
+2017-03-15 12:59:52,687 INFO  [AppLogger] Executing testcase on OS:-windows 7 
+2017-03-15 12:59:52,687 INFO  [AppLogger] Current host name :-ADPRO-001735 
+2017-03-15 12:59:52,687 INFO  [AppLogger] Current IP address :-192.168.1.220 
+2017-03-15 12:59:52,687 INFO  [AppLogger] Operating system type :-amd64 
+2017-03-15 12:59:52,687 INFO  [AppLogger] Operating system version :-6.1 
+2017-03-15 12:59:52,687 INFO  [AppLogger] Operating system Info :-Intel64 Family 6 Model 58 Stepping 9, GenuineIntel 
+2017-03-15 12:59:55,174 INFO  [AppLogger] chromeBrowser Opened 
+2017-03-15 13:00:01,094 INFO  [AppLogger] Page Opened for the url https://jd1-qc.2adpro.com/index/login 
+2017-03-15 13:00:03,300 INFO  [AppLogger] Send Keys Operation started on username 
+2017-03-15 13:00:03,310 INFO  [AppLogger] Find Element Stareted on- username 
+2017-03-15 13:00:03,373 INFO  [AppLogger] Send Keys Operation started on password 
+2017-03-15 13:00:03,376 INFO  [AppLogger] Find Element Stareted on- password 
+2017-03-15 13:00:03,441 INFO  [AppLogger] Click Operation started on :login_submit 
+2017-03-15 13:00:03,444 INFO  [AppLogger] Find Element Stareted on- login_submit 
+2017-03-15 13:00:49,845 INFO  [AppLogger] Waiting for page and its elements to be loaded completely 
+2017-03-15 13:00:51,405 INFO  [AppLogger] Started validating page title 
+2017-03-15 13:00:51,506 INFO  [AppLogger] ###################################### 
+2017-03-15 13:00:51,506 INFO  [AppLogger] FC001 Status :: pass 
+2017-03-15 13:00:51,506 INFO  [AppLogger] ###################################### 
+2017-03-15 13:00:52,827 INFO  [AppLogger] Click Operation started on :.//*[@id='createjob'] 
+2017-03-15 13:00:52,837 INFO  [AppLogger] Find Element Stareted on- .//*[@id='createjob'] 
+2017-03-15 13:00:52,879 INFO  [AppLogger] Click Operation started on :createjob 
+2017-03-15 13:00:52,881 INFO  [AppLogger] Find Element Stareted on- createjob 
+2017-03-15 13:00:52,920 INFO  [AppLogger] thread starts  
+2017-03-15 13:00:54,921 INFO  [AppLogger] thread starts  
+2017-03-15 13:00:56,948 INFO  [AppLogger] Click Operation started on :o-Print 
+2017-03-15 13:00:56,948 INFO  [AppLogger] Find Element Stareted on- o-Print 
+2017-03-15 13:00:57,011 INFO  [AppLogger] thread starts  
+2017-03-15 13:00:59,038 INFO  [AppLogger] Send Keys Operation started on Tracking No 
+2017-03-15 13:00:59,038 INFO  [AppLogger] Find Element Stareted on- Tracking No 
+2017-03-15 13:00:59,163 INFO  [AppLogger] Send Keys Operation started on Package Name 
+2017-03-15 13:00:59,165 INFO  [AppLogger] Find Element Stareted on- Package Name 
+2017-03-15 13:00:59,236 INFO  [AppLogger] Send Keys Operation started on .//*[@id='4'] 
+2017-03-15 13:00:59,239 INFO  [AppLogger] Find Element Stareted on- .//*[@id='4'] 
+2017-03-15 13:00:59,309 INFO  [AppLogger] Send Keys Operation started on Sales Person 
+2017-03-15 13:00:59,311 INFO  [AppLogger] Find Element Stareted on- Sales Person 
+2017-03-15 13:00:59,376 INFO  [AppLogger] Send Keys Operation started on Publication Title 
+2017-03-15 13:00:59,378 INFO  [AppLogger] Find Element Stareted on- Publication Title 
+2017-03-15 13:00:59,449 INFO  [AppLogger] Send Keys Operation started on Edition 
+2017-03-15 13:00:59,451 INFO  [AppLogger] Find Element Stareted on- Edition 
+2017-03-15 13:00:59,520 INFO  [AppLogger] Click Operation started on :.//*[@id='order_info_form']/div[9]/div/div[1]/div[2]/div[2] 
+2017-03-15 13:00:59,522 INFO  [AppLogger] Find Element Stareted on- .//*[@id='order_info_form']/div[9]/div/div[1]/div[2]/div[2] 
+2017-03-15 13:01:14,585 INFO  [AppLogger] Exception in Find Element with xpath:-.//*[@id='order_info_form']/div[9]/div/div[1]/div[2]/div[2] 
+2017-03-15 13:01:29,636 INFO  [AppLogger] Exception in clicking element: .//*[@id='order_info_form']/div[9]/div/div[1]/div[2]/div[2]
+no such element: Unable to locate element: {"method":"xpath","selector":".//*[@id='order_info_form']/div[9]/div/div[1]/div[2]/div[2]"}
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 15.05 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'ADPRO-001735', ip: '192.168.1.220', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed), userDataDir=C:\Users\nkesava\AppData\Local\Temp\scoped_dir6996_23053}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=56.0.2924.87, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: f21248110435b9fbb62ae55d7c3e3d16
+*** Element info: {Using=xpath, value=.//*[@id='order_info_form']/div[9]/div/div[1]/div[2]/div[2]} 
+2017-03-15 13:01:29,671 INFO  [AppLogger] takeScreenShot Stareted on- JD 
+2017-03-15 13:01:30,005 INFO  [AppLogger] ###################################### 
+2017-03-15 13:01:30,005 INFO  [AppLogger] FC002 Status :: automationfail 
+2017-03-15 13:01:30,005 INFO  [AppLogger] ###################################### 
+2017-03-15 13:01:31,315 INFO  [AppLogger] Click Operation started on ://a[text()='SEARCH'] 
+2017-03-15 13:01:31,315 INFO  [AppLogger] Find Element Stareted on- //a[text()='SEARCH'] 
+2017-03-15 13:01:31,379 INFO  [AppLogger] thread starts  
+2017-03-15 13:01:33,402 INFO  [AppLogger] thread starts  
+2017-03-15 13:01:35,392 INFO  [AppLogger] Send Keys Operation started on order_number 
+2017-03-15 13:01:35,399 INFO  [AppLogger] Find Element Stareted on- order_number 
+2017-03-15 13:01:35,494 INFO  [AppLogger] thread starts  
+2017-03-15 13:01:37,518 INFO  [AppLogger] Click Operation started on ://input[@src='/images/go.png'] 
+2017-03-15 13:01:37,518 INFO  [AppLogger] Find Element Stareted on- //input[@src='/images/go.png'] 
+2017-03-15 13:01:37,609 INFO  [AppLogger] thread starts  
+2017-03-15 13:01:39,630 INFO  [AppLogger] thread starts  
+2017-03-15 13:01:41,630 INFO  [AppLogger] thread starts  
+2017-03-15 13:01:43,630 INFO  [AppLogger] thread starts  
+2017-03-15 13:01:45,629 INFO  [AppLogger] validateOrderNumber starts //div[@class='jl-styled-row-inner black-txt']/div[contains(@id,'job_')]/div[@class='order-no-col lalign order-no-font findTrackNo'] 
+2017-03-15 13:01:45,629 INFO  [AppLogger] Find Element Stareted on- //div[@class='jl-styled-row-inner black-txt']/div[contains(@id,'job_')]/div[@class='order-no-col lalign order-no-font findTrackNo'] 
+2017-03-15 13:01:45,689 INFO  [AppLogger] Displayed content mathches with your input:testautomation120 
+2017-03-15 13:01:45,689 INFO  [AppLogger] validateOrderNumber starts //div[@class='status color7']/div[@class='mm-msg'] 
+2017-03-15 13:01:45,689 INFO  [AppLogger] Find Element Stareted on- //div[@class='status color7']/div[@class='mm-msg'] 
+2017-03-15 13:02:00,704 INFO  [AppLogger] Exception in Find Element with xpath:-//div[@class='status color7']/div[@class='mm-msg'] 
+2017-03-15 13:02:15,763 INFO  [AppLogger] Error in validateText for element //div[@class='status color7']/div[@class='mm-msg']
+no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='status color7']/div[@class='mm-msg']"}
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 15.05 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'ADPRO-001735', ip: '192.168.1.220', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed), userDataDir=C:\Users\nkesava\AppData\Local\Temp\scoped_dir6996_23053}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=56.0.2924.87, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: f21248110435b9fbb62ae55d7c3e3d16
+*** Element info: {Using=xpath, value=//div[@class='status color7']/div[@class='mm-msg']} 
+2017-03-15 13:02:15,793 INFO  [AppLogger] takeScreenShot Stareted on- JD 
+2017-03-15 13:02:15,965 INFO  [AppLogger] ###################################### 
+2017-03-15 13:02:15,965 INFO  [AppLogger] FC003 Status :: automationfail 
+2017-03-15 13:02:15,965 INFO  [AppLogger] ###################################### 

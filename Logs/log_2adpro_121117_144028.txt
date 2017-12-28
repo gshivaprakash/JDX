@@ -1,0 +1,77 @@
+2017-12-11 14:40:28,858 INFO  [AppLogger] Executing testcase on OS:-windows 7 
+2017-12-11 14:40:28,859 INFO  [AppLogger] Current host name :-ADPRO-001734 
+2017-12-11 14:40:28,859 INFO  [AppLogger] Current IP address :-192.168.0.165 
+2017-12-11 14:40:28,859 INFO  [AppLogger] Operating system type :-amd64 
+2017-12-11 14:40:28,859 INFO  [AppLogger] Operating system version :-6.1 
+2017-12-11 14:40:28,859 INFO  [AppLogger] Operating system Info :-Intel64 Family 6 Model 58 Stepping 9, GenuineIntel 
+2017-12-11 14:40:43,813 INFO  [AppLogger] firefoxBrowser Opened 
+2017-12-11 14:40:48,746 INFO  [AppLogger] Page Opened for the url https://jdtraffic-qc.2adpro.com 
+2017-12-11 14:40:51,163 INFO  [AppLogger] Send Keys Operation started on username 
+2017-12-11 14:40:51,169 INFO  [AppLogger] Find Element Stareted on- username 
+2017-12-11 14:40:51,380 INFO  [AppLogger] Send Keys Operation started on .//*[@id='loginform']/input[2] 
+2017-12-11 14:40:51,384 INFO  [AppLogger] Find Element Stareted on- .//*[@id='loginform']/input[2] 
+2017-12-11 14:40:52,043 INFO  [AppLogger] Click Operation started on :login_submit 
+2017-12-11 14:40:52,047 INFO  [AppLogger] Find Element Stareted on- login_submit 
+2017-12-11 14:41:05,820 INFO  [AppLogger] Waiting for page and its elements to be loaded completely 
+2017-12-11 14:41:08,015 INFO  [AppLogger] Started validating page title 
+2017-12-11 14:41:08,041 INFO  [AppLogger] Click Operation started on ://div[@class='navLinks']/a[text()='REPORTS'] 
+2017-12-11 14:41:08,045 INFO  [AppLogger] Find Element Stareted on- //div[@class='navLinks']/a[text()='REPORTS'] 
+2017-12-11 14:41:08,682 INFO  [AppLogger] Waiting for page and its elements to be loaded completely 
+2017-12-11 14:41:11,567 INFO  [AppLogger] checktag presence starts production_report 
+2017-12-11 14:41:11,571 INFO  [AppLogger] Find Element Stareted on- production_report 
+2017-12-11 14:41:11,630 INFO  [AppLogger] Displayed content mathches with your tag input which should not::production_report 
+2017-12-11 14:41:11,752 INFO  [AppLogger] takeScreenShot Stareted on- JDX 
+2017-12-11 14:41:12,091 INFO  [AppLogger] ###################################### 
+2017-12-11 14:41:12,091 INFO  [AppLogger] FC006 Status :: validationfail 
+2017-12-11 14:41:12,095 INFO  [AppLogger] ###################################### 
+2017-12-11 14:41:12,602 INFO  [AppLogger] Click Operation started on ://a[text()='LOGOUT'] 
+2017-12-11 14:41:12,605 INFO  [AppLogger] Find Element Stareted on- //a[text()='LOGOUT'] 
+2017-12-11 14:41:12,901 INFO  [AppLogger] Waiting for page and its elements to be loaded completely 
+2017-12-11 14:41:14,114 INFO  [AppLogger] validateOrderNumber starts login_submit 
+2017-12-11 14:41:14,117 INFO  [AppLogger] Find Element Stareted on- login_submit 
+2017-12-11 14:41:14,170 INFO  [AppLogger] Displayed content mathches with your tag input:login_submit 
+2017-12-11 14:41:14,173 INFO  [AppLogger] Send Keys Operation started on username 
+2017-12-11 14:41:14,176 INFO  [AppLogger] Find Element Stareted on- username 
+2017-12-11 14:41:14,315 INFO  [AppLogger] Send Keys Operation started on .//*[@id='loginform']/input[2] 
+2017-12-11 14:41:14,319 INFO  [AppLogger] Find Element Stareted on- .//*[@id='loginform']/input[2] 
+2017-12-11 14:41:14,487 INFO  [AppLogger] Click Operation started on :login_submit 
+2017-12-11 14:41:14,507 INFO  [AppLogger] Find Element Stareted on- login_submit 
+2017-12-11 14:41:20,422 INFO  [AppLogger] Waiting for page and its elements to be loaded completely 
+2017-12-11 14:41:21,993 INFO  [AppLogger] Started validating page title 
+2017-12-11 14:41:22,014 INFO  [AppLogger] Click Operation started on ://div[@class='navLinks']/a[text()='REPORTS'] 
+2017-12-11 14:41:22,017 INFO  [AppLogger] Find Element Stareted on- //div[@class='navLinks']/a[text()='REPORTS'] 
+2017-12-11 14:41:22,565 INFO  [AppLogger] Waiting for page and its elements to be loaded completely 
+2017-12-11 14:41:24,359 INFO  [AppLogger] checktag presence starts production_report 
+2017-12-11 14:41:24,367 INFO  [AppLogger] Find Element Stareted on- production_report 
+2017-12-11 14:41:24,429 INFO  [AppLogger] Displayed content mathches with your tag input which should not::production_report 
+2017-12-11 14:41:24,463 INFO  [AppLogger] takeScreenShot Stareted on- JDX 
+2017-12-11 14:41:24,743 INFO  [AppLogger] ###################################### 
+2017-12-11 14:41:24,743 INFO  [AppLogger] FC006 Status :: validationfail 
+2017-12-11 14:41:24,743 INFO  [AppLogger] ###################################### 
+2017-12-11 14:41:25,258 INFO  [AppLogger] Click Operation started on ://a[text()='LOGOUT'] 
+2017-12-11 14:41:25,260 INFO  [AppLogger] Find Element Stareted on- //a[text()='LOGOUT'] 
+2017-12-11 14:41:25,413 INFO  [AppLogger] validateOrderNumber starts login_submit 
+2017-12-11 14:41:25,416 INFO  [AppLogger] Find Element Stareted on- login_submit 
+2017-12-11 14:41:27,328 INFO  [AppLogger] Displayed content mathches with your tag input:login_submit 
+2017-12-11 14:41:27,331 INFO  [AppLogger] Send Keys Operation started on username 
+2017-12-11 14:41:27,338 INFO  [AppLogger] Find Element Stareted on- username 
+2017-12-11 14:41:27,493 INFO  [AppLogger] Send Keys Operation started on .//*[@id='loginform']/input[2] 
+2017-12-11 14:41:27,498 INFO  [AppLogger] Find Element Stareted on- .//*[@id='loginform']/input[2] 
+2017-12-11 14:41:27,621 INFO  [AppLogger] Click Operation started on :login_submit 
+2017-12-11 14:41:27,625 INFO  [AppLogger] Find Element Stareted on- login_submit 
+2017-12-11 14:41:34,110 INFO  [AppLogger] Waiting for page and its elements to be loaded completely 
+2017-12-11 14:41:35,663 INFO  [AppLogger] Started validating page title 
+2017-12-11 14:41:35,685 INFO  [AppLogger] Click Operation started on ://div[@class='navLinks']/a[text()='REPORTS'] 
+2017-12-11 14:41:35,688 INFO  [AppLogger] Find Element Stareted on- //div[@class='navLinks']/a[text()='REPORTS'] 
+2017-12-11 14:41:36,436 INFO  [AppLogger] Waiting for page and its elements to be loaded completely 
+2017-12-11 14:41:39,605 INFO  [AppLogger] validateOrderNumber starts production_report 
+2017-12-11 14:41:39,607 INFO  [AppLogger] Find Element Stareted on- production_report 
+2017-12-11 14:41:39,646 INFO  [AppLogger] Displayed content mathches with your tag input:production_report 
+2017-12-11 14:41:39,649 INFO  [AppLogger] Click Operation started on ://a[text()='LOGOUT'] 
+2017-12-11 14:41:39,651 INFO  [AppLogger] Find Element Stareted on- //a[text()='LOGOUT'] 
+2017-12-11 14:41:39,793 INFO  [AppLogger] validateOrderNumber starts login_submit 
+2017-12-11 14:41:39,797 INFO  [AppLogger] Find Element Stareted on- login_submit 
+2017-12-11 14:41:40,802 INFO  [AppLogger] Displayed content mathches with your tag input:login_submit 
+2017-12-11 14:41:40,837 INFO  [AppLogger] ###################################### 
+2017-12-11 14:41:40,838 INFO  [AppLogger] FC006 Status :: pass 
+2017-12-11 14:41:40,838 INFO  [AppLogger] ###################################### 

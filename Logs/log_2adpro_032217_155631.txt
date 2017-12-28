@@ -1,0 +1,19 @@
+2017-03-22 15:56:31,208 INFO  [AppLogger] Executing testcase on OS:-windows 7 
+2017-03-22 15:56:31,208 INFO  [AppLogger] Current host name :-ADPRO-001735 
+2017-03-22 15:56:31,208 INFO  [AppLogger] Current IP address :-192.168.0.150 
+2017-03-22 15:56:31,208 INFO  [AppLogger] Operating system type :-amd64 
+2017-03-22 15:56:31,208 INFO  [AppLogger] Operating system version :-6.1 
+2017-03-22 15:56:31,208 INFO  [AppLogger] Operating system Info :-Intel64 Family 6 Model 58 Stepping 9, GenuineIntel 
+2017-03-22 15:56:33,772 INFO  [AppLogger] chromeBrowser Opened 
+2017-03-22 15:57:00,012 INFO  [AppLogger] Page Opened for the url https://jd1-qc.2adpro.com/index/login 
+2017-03-22 15:57:02,228 INFO  [AppLogger] Send Keys Operation started on username 
+2017-03-22 15:57:02,228 INFO  [AppLogger] Find Element Stareted on- username 
+2017-03-22 15:57:02,300 INFO  [AppLogger] Send Keys Operation started on password 
+2017-03-22 15:57:02,303 INFO  [AppLogger] Find Element Stareted on- password 
+2017-03-22 15:57:02,378 INFO  [AppLogger] Click Operation started on :login_submit 
+2017-03-22 15:57:02,380 INFO  [AppLogger] Find Element Stareted on- login_submit 
+2017-03-22 15:57:47,331 INFO  [AppLogger] Waiting for page and its elements to be loaded completely 
+2017-03-22 15:59:02,971 INFO  [AppLogger] Started validating page title 
+2017-03-22 15:59:03,081 INFO  [AppLogger] ###################################### 
+2017-03-22 15:59:03,081 INFO  [AppLogger] FC001 Status :: pass 
+2017-03-22 15:59:03,081 INFO  [AppLogger] ###################################### 

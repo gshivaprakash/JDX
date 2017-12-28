@@ -1,0 +1,55 @@
+2017-04-12 13:01:06,215 INFO  [AppLogger] Executing testcase on OS:-windows 7 
+2017-04-12 13:01:06,215 INFO  [AppLogger] Current host name :-ADPRO-001735 
+2017-04-12 13:01:06,215 INFO  [AppLogger] Current IP address :-192.168.1.220 
+2017-04-12 13:01:06,215 INFO  [AppLogger] Operating system type :-amd64 
+2017-04-12 13:01:06,215 INFO  [AppLogger] Operating system version :-6.1 
+2017-04-12 13:01:06,215 INFO  [AppLogger] Operating system Info :-Intel64 Family 6 Model 58 Stepping 9, GenuineIntel 
+2017-04-12 13:01:09,036 INFO  [AppLogger] chromeBrowser Opened 
+2017-04-12 13:01:13,993 INFO  [AppLogger] Page Opened for the url https://qc-unipaper.2adpro.com/view/index 
+2017-04-12 13:01:16,174 INFO  [AppLogger] Send Keys Operation started on username 
+2017-04-12 13:01:16,177 INFO  [AppLogger] Find Element Stareted on- username 
+2017-04-12 13:01:16,251 INFO  [AppLogger] Send Keys Operation started on password 
+2017-04-12 13:01:16,254 INFO  [AppLogger] Find Element Stareted on- password 
+2017-04-12 13:01:16,310 INFO  [AppLogger] thread starts  
+2017-04-12 13:01:18,316 INFO  [AppLogger] thread starts  
+2017-04-12 13:01:20,318 INFO  [AppLogger] Click Operation started on :login_submit 
+2017-04-12 13:01:20,320 INFO  [AppLogger] Find Element Stareted on- login_submit 
+2017-04-12 13:01:35,776 INFO  [AppLogger] thread starts  
+2017-04-12 13:01:37,777 INFO  [AppLogger] thread starts  
+2017-04-12 13:01:39,783 INFO  [AppLogger] Waiting for page and its elements to be loaded completely 
+2017-04-12 13:01:39,801 INFO  [AppLogger] Started validating page title 
+2017-04-12 13:01:39,945 INFO  [AppLogger] ###################################### 
+2017-04-12 13:01:39,945 INFO  [AppLogger] FC016 Status :: pass 
+2017-04-12 13:01:39,945 INFO  [AppLogger] ###################################### 
+2017-04-12 13:02:15,678 INFO  [AppLogger] Page Opened for the url https://eproofjd-qc.2adpro.com/index.php?ref=e58edc76e2cc57_V1_R0&proofurl=KujxjwTyINk0W9t7VJkj2A%3D%3D 
+2017-04-12 13:02:15,681 INFO  [AppLogger] Waiting for page and its elements to be loaded completely 
+2017-04-12 13:02:15,701 INFO  [AppLogger] thread starts  
+2017-04-12 13:02:17,703 INFO  [AppLogger] thread starts  
+2017-04-12 13:02:19,705 INFO  [AppLogger] thread starts  
+2017-04-12 13:02:21,707 INFO  [AppLogger] thread starts  
+2017-04-12 13:02:23,709 INFO  [AppLogger] thread starts  
+2017-04-12 13:02:25,710 INFO  [AppLogger] Click Operation started on :.//*[@id='mainWrap']/div[1]/div[1]/div[2]/div[9]/span 
+2017-04-12 13:02:25,711 INFO  [AppLogger] Find Element Stareted on- .//*[@id='mainWrap']/div[1]/div[1]/div[2]/div[9]/span 
+2017-04-12 13:02:25,795 INFO  [AppLogger] thread starts  
+2017-04-12 13:02:27,796 INFO  [AppLogger] thread starts  
+2017-04-12 13:02:29,799 INFO  [AppLogger] thread starts  
+2017-04-12 13:02:31,802 INFO  [AppLogger] thread starts  
+2017-04-12 13:02:33,803 INFO  [AppLogger] Click Operation started on :.//*[@id='page0'] 
+2017-04-12 13:02:33,805 INFO  [AppLogger] Find Element Stareted on- .//*[@id='page0'] 
+2017-04-12 13:02:33,885 INFO  [AppLogger] thread starts  
+2017-04-12 13:02:35,886 INFO  [AppLogger] thread starts  
+2017-04-12 13:02:37,890 INFO  [AppLogger] thread starts  
+2017-04-12 13:02:39,891 INFO  [AppLogger] thread starts  
+2017-04-12 13:02:41,892 INFO  [AppLogger] Send Keys Operation started on .//*[@id='page0_comment_1']/div[3]/div[2]/textarea 
+2017-04-12 13:02:41,894 INFO  [AppLogger] Find Element Stareted on- .//*[@id='page0_comment_1']/div[3]/div[2]/textarea 
+2017-04-12 13:02:41,959 INFO  [AppLogger] thread starts  
+2017-04-12 13:02:43,961 INFO  [AppLogger] Click Operation started on :.//*[@id='page0_comment_1']/div[3]/div[3]/input[1] 
+2017-04-12 13:02:43,962 INFO  [AppLogger] Find Element Stareted on- .//*[@id='page0_comment_1']/div[3]/div[3]/input[1] 
+2017-04-12 13:02:44,031 INFO  [AppLogger] thread starts  
+2017-04-12 13:02:46,036 INFO  [AppLogger] thread starts  
+2017-04-12 13:02:48,038 INFO  [AppLogger] thread starts  
+2017-04-12 13:02:50,039 INFO  [AppLogger] Click Operation started on :.//*[@id='mainWrap']/div[1]/div[2]/div[2]/input[2] 
+2017-04-12 13:02:50,040 INFO  [AppLogger] Find Element Stareted on- .//*[@id='mainWrap']/div[1]/div[2]/div[2]/input[2] 
+2017-04-12 13:02:50,149 INFO  [AppLogger] ###################################### 
+2017-04-12 13:02:50,149 INFO  [AppLogger] FC021 Status :: pass 
+2017-04-12 13:02:50,149 INFO  [AppLogger] ###################################### 

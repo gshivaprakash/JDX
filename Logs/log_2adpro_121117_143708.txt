@@ -1,0 +1,6 @@
+2017-12-11 14:37:08,658 INFO  [AppLogger] Executing testcase on OS:-windows 7 
+2017-12-11 14:37:08,659 INFO  [AppLogger] Current host name :-ADPRO-001734 
+2017-12-11 14:37:08,659 INFO  [AppLogger] Current IP address :-192.168.0.165 
+2017-12-11 14:37:08,659 INFO  [AppLogger] Operating system type :-amd64 
+2017-12-11 14:37:08,659 INFO  [AppLogger] Operating system version :-6.1 
+2017-12-11 14:37:08,659 INFO  [AppLogger] Operating system Info :-Intel64 Family 6 Model 58 Stepping 9, GenuineIntel 

@@ -1,0 +1,421 @@
+2017-06-19 17:26:42,662 INFO  [AppLogger] Executing testcase on OS:-windows 7 
+2017-06-19 17:26:42,662 INFO  [AppLogger] Current host name :-ADPRO-001735 
+2017-06-19 17:26:42,662 INFO  [AppLogger] Current IP address :-192.168.0.196 
+2017-06-19 17:26:42,662 INFO  [AppLogger] Operating system type :-amd64 
+2017-06-19 17:26:42,662 INFO  [AppLogger] Operating system version :-6.1 
+2017-06-19 17:26:42,662 INFO  [AppLogger] Operating system Info :-Intel64 Family 6 Model 58 Stepping 9, GenuineIntel 
+2017-06-19 17:26:45,255 INFO  [AppLogger] chromeBrowser Opened 
+2017-06-19 17:26:53,377 INFO  [AppLogger] Page Opened for the url https://jd1-qc.2adpro.com/view/index 
+2017-06-19 17:26:55,664 INFO  [AppLogger] Send Keys Operation started on username 
+2017-06-19 17:26:55,667 INFO  [AppLogger] Find Element Stareted on- username 
+2017-06-19 17:26:55,771 INFO  [AppLogger] Send Keys Operation started on password 
+2017-06-19 17:26:55,774 INFO  [AppLogger] Find Element Stareted on- password 
+2017-06-19 17:26:55,844 INFO  [AppLogger] Click Operation started on :login_submit 
+2017-06-19 17:26:55,847 INFO  [AppLogger] Find Element Stareted on- login_submit 
+2017-06-19 17:27:14,430 INFO  [AppLogger] Waiting for page and its elements to be loaded completely 
+2017-06-19 17:27:15,964 INFO  [AppLogger] Started validating page title 
+2017-06-19 17:27:16,078 INFO  [AppLogger] ###################################### 
+2017-06-19 17:27:16,078 INFO  [AppLogger] FC001 Status :: pass 
+2017-06-19 17:27:16,078 INFO  [AppLogger] ###################################### 
+2017-06-19 17:27:17,426 INFO  [AppLogger] Click Operation started on :.//*[@id='createjob'] 
+2017-06-19 17:27:17,433 INFO  [AppLogger] Find Element Stareted on- .//*[@id='createjob'] 
+2017-06-19 17:27:17,503 INFO  [AppLogger] Click Operation started on :createjob 
+2017-06-19 17:27:17,507 INFO  [AppLogger] Find Element Stareted on- createjob 
+2017-06-19 17:27:17,564 INFO  [AppLogger] thread starts  
+2017-06-19 17:27:19,566 INFO  [AppLogger] thread starts  
+2017-06-19 17:27:21,569 INFO  [AppLogger] Click Operation started on :o-Print 
+2017-06-19 17:27:21,573 INFO  [AppLogger] Find Element Stareted on- o-Print 
+2017-06-19 17:27:21,693 INFO  [AppLogger] thread starts  
+2017-06-19 17:27:23,697 INFO  [AppLogger] thread starts  
+2017-06-19 17:27:25,700 INFO  [AppLogger] Send Keys Operation started on Tracking No 
+2017-06-19 17:27:25,703 INFO  [AppLogger] Find Element Stareted on- Tracking No 
+2017-06-19 17:27:25,826 INFO  [AppLogger] Send Keys Operation started on Package Name 
+2017-06-19 17:27:25,828 INFO  [AppLogger] Find Element Stareted on- Package Name 
+2017-06-19 17:27:25,904 INFO  [AppLogger] Send Keys Operation started on .//*[@id='4'] 
+2017-06-19 17:27:25,907 INFO  [AppLogger] Find Element Stareted on- .//*[@id='4'] 
+2017-06-19 17:27:25,983 INFO  [AppLogger] Send Keys Operation started on Sales Person 
+2017-06-19 17:27:25,985 INFO  [AppLogger] Find Element Stareted on- Sales Person 
+2017-06-19 17:27:26,059 INFO  [AppLogger] Send Keys Operation started on Publication Title 
+2017-06-19 17:27:26,061 INFO  [AppLogger] Find Element Stareted on- Publication Title 
+2017-06-19 17:27:26,147 INFO  [AppLogger] Send Keys Operation started on Edition 
+2017-06-19 17:27:26,149 INFO  [AppLogger] Find Element Stareted on- Edition 
+2017-06-19 17:27:26,221 INFO  [AppLogger] Send Keys Operation started on .//*[@id='294'] 
+2017-06-19 17:27:26,223 INFO  [AppLogger] Find Element Stareted on- .//*[@id='294'] 
+2017-06-19 17:27:26,287 INFO  [AppLogger] Click Operation started on :.//*[@id='order_info_form']/div[10]/div/div[1]/div[2]/div[2] 
+2017-06-19 17:27:26,289 INFO  [AppLogger] Find Element Stareted on- .//*[@id='order_info_form']/div[10]/div/div[1]/div[2]/div[2] 
+2017-06-19 17:27:26,348 INFO  [AppLogger] thread starts  
+2017-06-19 17:27:28,352 INFO  [AppLogger] Click Operation started on :.//*[@id='7']/option[2] 
+2017-06-19 17:27:28,355 INFO  [AppLogger] Find Element Stareted on- .//*[@id='7']/option[2] 
+2017-06-19 17:27:28,451 INFO  [AppLogger] thread starts  
+2017-06-19 17:27:30,456 INFO  [AppLogger] Click Operation started on :Run Date 
+2017-06-19 17:27:30,459 INFO  [AppLogger] Find Element Stareted on- Run Date 
+2017-06-19 17:27:30,631 INFO  [AppLogger] thread starts  
+2017-06-19 17:27:32,633 INFO  [AppLogger] Click Operation started on ://a[text()='23'] 
+2017-06-19 17:27:32,636 INFO  [AppLogger] Find Element Stareted on- //a[text()='23'] 
+2017-06-19 17:27:32,726 INFO  [AppLogger] Click Operation started on :.//*[@id='ord_formPrint']/div[2]/div/div[1]/div[2]/div[2] 
+2017-06-19 17:27:32,727 INFO  [AppLogger] Find Element Stareted on- .//*[@id='ord_formPrint']/div[2]/div/div[1]/div[2]/div[2] 
+2017-06-19 17:27:32,811 INFO  [AppLogger] thread starts  
+2017-06-19 17:27:34,814 INFO  [AppLogger] Click Operation started on :.//*[@id='22']/option[2] 
+2017-06-19 17:27:34,817 INFO  [AppLogger] Find Element Stareted on- .//*[@id='22']/option[2] 
+2017-06-19 17:27:34,908 INFO  [AppLogger] Click Operation started on :.//*[@id='ord_formPrint']/div[2]/div/div[2]/div[1]/div[2] 
+2017-06-19 17:27:34,909 INFO  [AppLogger] Find Element Stareted on- .//*[@id='ord_formPrint']/div[2]/div/div[2]/div[1]/div[2] 
+2017-06-19 17:27:34,983 INFO  [AppLogger] thread starts  
+2017-06-19 17:27:36,986 INFO  [AppLogger] thread starts  
+2017-06-19 17:27:38,989 INFO  [AppLogger] Click Operation started on :.//*[@id='25']/option[2] 
+2017-06-19 17:27:38,992 INFO  [AppLogger] Find Element Stareted on- .//*[@id='25']/option[2] 
+2017-06-19 17:27:39,092 INFO  [AppLogger] thread starts  
+2017-06-19 17:27:41,094 INFO  [AppLogger] thread starts  
+2017-06-19 17:27:43,098 INFO  [AppLogger] Send Keys Operation started on .//*[@id='26'] 
+2017-06-19 17:27:43,100 INFO  [AppLogger] Find Element Stareted on- .//*[@id='26'] 
+2017-06-19 17:27:43,194 INFO  [AppLogger] Send Keys Operation started on .//*[@id='27'] 
+2017-06-19 17:27:43,196 INFO  [AppLogger] Find Element Stareted on- .//*[@id='27'] 
+2017-06-19 17:27:43,262 INFO  [AppLogger] Click Operation started on :.//*[@id='ord_formPrint']/div[4]/div/div[1]/div[2]/div[2] 
+2017-06-19 17:27:43,264 INFO  [AppLogger] Find Element Stareted on- .//*[@id='ord_formPrint']/div[4]/div/div[1]/div[2]/div[2] 
+2017-06-19 17:27:43,332 INFO  [AppLogger] Click Operation started on :.//*[@id='31']/option[3] 
+2017-06-19 17:27:43,334 INFO  [AppLogger] Find Element Stareted on- .//*[@id='31']/option[3] 
+2017-06-19 17:27:43,401 INFO  [AppLogger] Click Operation started on :.//*[@id='ord_formPrint']/div[5]/div/div[1]/div[2]/div[2] 
+2017-06-19 17:27:43,403 INFO  [AppLogger] Find Element Stareted on- .//*[@id='ord_formPrint']/div[5]/div/div[1]/div[2]/div[2] 
+2017-06-19 17:27:43,465 INFO  [AppLogger] Click Operation started on :.//*[@id='32']/option[3] 
+2017-06-19 17:27:43,467 INFO  [AppLogger] Find Element Stareted on- .//*[@id='32']/option[3] 
+2017-06-19 17:27:43,549 INFO  [AppLogger] Send Keys Operation started on .//*[@id='21'] 
+2017-06-19 17:27:43,551 INFO  [AppLogger] Find Element Stareted on- .//*[@id='21'] 
+2017-06-19 17:27:43,673 INFO  [AppLogger] thread starts  
+2017-06-19 17:27:45,675 INFO  [AppLogger] thread starts  
+2017-06-19 17:27:47,678 INFO  [AppLogger] Click Operation started on ://span[text()='Add Files'] 
+2017-06-19 17:27:47,680 INFO  [AppLogger] Find Element Stareted on- //span[text()='Add Files'] 
+2017-06-19 17:27:52,864 INFO  [AppLogger] thread starts  
+2017-06-19 17:27:54,868 INFO  [AppLogger] thread starts  
+2017-06-19 17:27:56,870 INFO  [AppLogger] thread starts  
+2017-06-19 17:27:58,874 INFO  [AppLogger] Click Operation started on :.//*[@id='ord_form']/div/div/div[8]/div[2]/div[1] 
+2017-06-19 17:27:58,877 INFO  [AppLogger] Find Element Stareted on- .//*[@id='ord_form']/div/div/div[8]/div[2]/div[1] 
+2017-06-19 17:28:02,331 INFO  [AppLogger] Click Operation started on :.//*[@id='14']/option[6] 
+2017-06-19 17:28:02,333 INFO  [AppLogger] Find Element Stareted on- .//*[@id='14']/option[6] 
+2017-06-19 17:28:02,474 INFO  [AppLogger] thread starts  
+2017-06-19 17:28:04,477 INFO  [AppLogger] Click Operation started on :formSubmit 
+2017-06-19 17:28:04,479 INFO  [AppLogger] Find Element Stareted on- formSubmit 
+2017-06-19 17:28:04,607 INFO  [AppLogger] Waiting for page and its elements to be loaded completely 
+2017-06-19 17:28:07,665 INFO  [AppLogger] thread starts  
+2017-06-19 17:28:09,667 INFO  [AppLogger] Click Operation started on ://a[text()='SEARCH'] 
+2017-06-19 17:28:09,677 INFO  [AppLogger] Find Element Stareted on- //a[text()='SEARCH'] 
+2017-06-19 17:28:09,764 INFO  [AppLogger] thread starts  
+2017-06-19 17:28:11,768 INFO  [AppLogger] Send Keys Operation started on order_number 
+2017-06-19 17:28:11,771 INFO  [AppLogger] Find Element Stareted on- order_number 
+2017-06-19 17:28:11,878 INFO  [AppLogger] Click Operation started on ://input[@src='/images/go.png'] 
+2017-06-19 17:28:11,879 INFO  [AppLogger] Find Element Stareted on- //input[@src='/images/go.png'] 
+2017-06-19 17:28:11,944 INFO  [AppLogger] thread starts  
+2017-06-19 17:28:13,947 INFO  [AppLogger] validateOrderNumber starts //div[@class='jl-styled-row-inner black-txt']/div[contains(@id,'job_')]/div[@class='order-no-col lalign order-no-font findTrackNo'] 
+2017-06-19 17:28:13,949 INFO  [AppLogger] Find Element Stareted on- //div[@class='jl-styled-row-inner black-txt']/div[contains(@id,'job_')]/div[@class='order-no-col lalign order-no-font findTrackNo'] 
+2017-06-19 17:28:14,007 INFO  [AppLogger] Displayed content mathches with your input:testautomation196 
+2017-06-19 17:28:14,008 INFO  [AppLogger] validateOrderNumber starts //div[@class='status color3']/div[@class='mm-msg'] 
+2017-06-19 17:28:14,009 INFO  [AppLogger] Find Element Stareted on- //div[@class='status color3']/div[@class='mm-msg'] 
+2017-06-19 17:28:14,047 INFO  [AppLogger] Displayed content mathches with your input:Submitted 
+2017-06-19 17:28:14,048 INFO  [AppLogger] Click Operation started on ://div[@class='jl-styled-row-inner black-txt']/div[contains(@id,'job_')]/div[2] 
+2017-06-19 17:28:14,049 INFO  [AppLogger] Find Element Stareted on- //div[@class='jl-styled-row-inner black-txt']/div[contains(@id,'job_')]/div[2] 
+2017-06-19 17:28:14,124 INFO  [AppLogger] Click Operation started on ://span[text()='Board'] 
+2017-06-19 17:28:14,127 INFO  [AppLogger] Find Element Stareted on- //span[text()='Board'] 
+2017-06-19 17:28:17,393 INFO  [AppLogger] Waiting for page and its elements to be loaded completely 
+2017-06-19 17:28:17,401 INFO  [AppLogger] Send Keys Operation started on messageTextArea 
+2017-06-19 17:28:17,403 INFO  [AppLogger] Find Element Stareted on- messageTextArea 
+2017-06-19 17:28:17,494 INFO  [AppLogger] Click Operation started on ://span[text()='Add Files'] 
+2017-06-19 17:28:17,495 INFO  [AppLogger] Find Element Stareted on- //span[text()='Add Files'] 
+2017-06-19 17:28:22,555 INFO  [AppLogger] thread starts  
+2017-06-19 17:28:24,557 INFO  [AppLogger] thread starts  
+2017-06-19 17:28:26,561 INFO  [AppLogger] thread starts  
+2017-06-19 17:28:28,564 INFO  [AppLogger] thread starts  
+2017-06-19 17:28:30,566 INFO  [AppLogger] thread starts  
+2017-06-19 17:28:32,568 INFO  [AppLogger] thread starts  
+2017-06-19 17:28:34,571 INFO  [AppLogger] thread starts  
+2017-06-19 17:28:36,573 INFO  [AppLogger] Click Operation started on :messageSubmit 
+2017-06-19 17:28:36,576 INFO  [AppLogger] Find Element Stareted on- messageSubmit 
+2017-06-19 17:28:36,658 INFO  [AppLogger] thread starts  
+2017-06-19 17:28:38,709 INFO  [AppLogger] ###################################### 
+2017-06-19 17:28:38,709 INFO  [AppLogger] FC002 Status :: pass 
+2017-06-19 17:28:38,709 INFO  [AppLogger] ###################################### 
+2017-06-19 17:28:54,400 INFO  [AppLogger] Page Opened for the url https://jdmanage-qc.2adpro.com 
+2017-06-19 17:28:54,403 INFO  [AppLogger] Send Keys Operation started on username 
+2017-06-19 17:28:54,406 INFO  [AppLogger] Find Element Stareted on- username 
+2017-06-19 17:28:54,483 INFO  [AppLogger] Send Keys Operation started on password 
+2017-06-19 17:28:54,485 INFO  [AppLogger] Find Element Stareted on- password 
+2017-06-19 17:28:54,552 INFO  [AppLogger] Click Operation started on :login_submit 
+2017-06-19 17:28:54,553 INFO  [AppLogger] Find Element Stareted on- login_submit 
+2017-06-19 17:29:18,697 INFO  [AppLogger] Waiting for page and its elements to be loaded completely 
+2017-06-19 17:29:32,346 INFO  [AppLogger] Started validating page title 
+2017-06-19 17:29:32,366 INFO  [AppLogger] Click Operation started on ://div[text()="ACTIVE JOBS"] 
+2017-06-19 17:29:32,367 INFO  [AppLogger] Find Element Stareted on- //div[text()="ACTIVE JOBS"] 
+2017-06-19 17:29:32,423 INFO  [AppLogger] Waiting for page and its elements to be loaded completely 
+2017-06-19 17:29:33,955 INFO  [AppLogger] thread starts  
+2017-06-19 17:29:35,957 INFO  [AppLogger] Click Operation started on :search_header_link 
+2017-06-19 17:29:35,958 INFO  [AppLogger] Find Element Stareted on- search_header_link 
+2017-06-19 17:29:36,053 INFO  [AppLogger] thread starts  
+2017-06-19 17:29:38,056 INFO  [AppLogger] thread starts  
+2017-06-19 17:29:40,058 INFO  [AppLogger] Send Keys Operation started on order_number 
+2017-06-19 17:29:40,060 INFO  [AppLogger] Find Element Stareted on- order_number 
+2017-06-19 17:29:40,169 INFO  [AppLogger] Click Operation started on ://input[@src="/images/go.png"] 
+2017-06-19 17:29:40,170 INFO  [AppLogger] Find Element Stareted on- //input[@src="/images/go.png"] 
+2017-06-19 17:29:40,235 INFO  [AppLogger] Waiting for page and its elements to be loaded completely 
+2017-06-19 17:29:43,284 INFO  [AppLogger] validateOrderNumber starts //div[@class='jl-styled-row-inner black-txt']/div[contains(@id,'job_')]/div[@class='order-no-col lalign order-no-font'] 
+2017-06-19 17:29:43,286 INFO  [AppLogger] Find Element Stareted on- //div[@class='jl-styled-row-inner black-txt']/div[contains(@id,'job_')]/div[@class='order-no-col lalign order-no-font'] 
+2017-06-19 17:29:43,354 INFO  [AppLogger] Displayed content mathches with your input:testautomation196 
+2017-06-19 17:29:43,355 INFO  [AppLogger] validateOrderNumber starts //div[@class='status color3']/div[@class='mm-msg'] 
+2017-06-19 17:29:43,356 INFO  [AppLogger] Find Element Stareted on- //div[@class='status color3']/div[@class='mm-msg'] 
+2017-06-19 17:29:43,409 INFO  [AppLogger] Displayed content mathches with your input:Submitted 
+2017-06-19 17:29:43,410 INFO  [AppLogger] Click Operation started on ://div[@class='jl-styled-row-inner black-txt']/div[contains(@id,'job_')]/div[8] 
+2017-06-19 17:29:43,411 INFO  [AppLogger] Find Element Stareted on- //div[@class='jl-styled-row-inner black-txt']/div[contains(@id,'job_')]/div[8] 
+2017-06-19 17:29:43,504 INFO  [AppLogger] Waiting for page and its elements to be loaded completely 
+2017-06-19 17:29:49,560 INFO  [AppLogger] Click Operation started on ://span[text()='Manage'] 
+2017-06-19 17:29:49,561 INFO  [AppLogger] Find Element Stareted on- //span[text()='Manage'] 
+2017-06-19 17:29:49,649 INFO  [AppLogger] Waiting for page and its elements to be loaded completely 
+2017-06-19 17:29:49,660 INFO  [AppLogger] Click Operation started on :.//*[@id='proddlv']/div[1] 
+2017-06-19 17:29:49,661 INFO  [AppLogger] Find Element Stareted on- .//*[@id='proddlv']/div[1] 
+2017-06-19 17:29:49,728 INFO  [AppLogger] Click Operation started on :.//*[@id='prod_next_status']/option[2] 
+2017-06-19 17:29:49,730 INFO  [AppLogger] Find Element Stareted on- .//*[@id='prod_next_status']/option[2] 
+2017-06-19 17:29:49,796 INFO  [AppLogger] Send Keys Operation started on prod_desc 
+2017-06-19 17:29:49,797 INFO  [AppLogger] Find Element Stareted on- prod_desc 
+2017-06-19 17:29:49,877 INFO  [AppLogger] Click Operation started on :upload_submit 
+2017-06-19 17:29:49,878 INFO  [AppLogger] Find Element Stareted on- upload_submit 
+2017-06-19 17:29:49,948 INFO  [AppLogger] Waiting for page and its elements to be loaded completely 
+2017-06-19 17:29:52,990 INFO  [AppLogger] Click Operation started on :.//*[@id='proddlv']/div[1] 
+2017-06-19 17:29:52,992 INFO  [AppLogger] Find Element Stareted on- .//*[@id='proddlv']/div[1] 
+2017-06-19 17:29:53,060 INFO  [AppLogger] thread starts  
+2017-06-19 17:29:55,062 INFO  [AppLogger] clickByAction starts //select[@id='prod_next_status']/option[2] 
+2017-06-19 17:29:55,064 INFO  [AppLogger] Find Element Stareted on- //select[@id='prod_next_status']/option[2] 
+2017-06-19 17:29:55,153 INFO  [AppLogger] thread starts  
+2017-06-19 17:29:57,155 INFO  [AppLogger] Click Operation started on ://div[text()='ad complexity'] 
+2017-06-19 17:29:57,158 INFO  [AppLogger] Find Element Stareted on- //div[text()='ad complexity'] 
+2017-06-19 17:29:57,247 INFO  [AppLogger] thread starts  
+2017-06-19 17:29:59,249 INFO  [AppLogger] clickByAction starts .//*[@id='ad_complexity']/option[2] 
+2017-06-19 17:29:59,250 INFO  [AppLogger] Find Element Stareted on- .//*[@id='ad_complexity']/option[2] 
+2017-06-19 17:29:59,331 INFO  [AppLogger] Send Keys Operation started on prod_desc 
+2017-06-19 17:29:59,332 INFO  [AppLogger] Find Element Stareted on- prod_desc 
+2017-06-19 17:29:59,381 INFO  [AppLogger] thread starts  
+2017-06-19 17:30:01,383 INFO  [AppLogger] Click Operation started on :.//*[@id='outputfilesform']/a/div/span 
+2017-06-19 17:30:01,385 INFO  [AppLogger] Find Element Stareted on- .//*[@id='outputfilesform']/a/div/span 
+2017-06-19 17:30:06,492 INFO  [AppLogger] thread starts  
+2017-06-19 17:30:08,495 INFO  [AppLogger] Click Operation started on :upload_submit 
+2017-06-19 17:30:08,498 INFO  [AppLogger] Find Element Stareted on- upload_submit 
+2017-06-19 17:30:19,394 INFO  [AppLogger] thread starts  
+2017-06-19 17:30:29,396 INFO  [AppLogger] thread starts  
+2017-06-19 17:30:31,432 INFO  [AppLogger] thread starts  
+2017-06-19 17:30:33,434 INFO  [AppLogger] thread starts  
+2017-06-19 17:30:35,436 INFO  [AppLogger] thread starts  
+2017-06-19 17:30:37,482 INFO  [AppLogger] ###################################### 
+2017-06-19 17:30:37,482 INFO  [AppLogger] FC015 Status :: pass 
+2017-06-19 17:30:37,483 INFO  [AppLogger] ###################################### 
+2017-06-19 17:30:38,834 INFO  [AppLogger] Click Operation started on ://input[@src='/images/go.png'] 
+2017-06-19 17:30:38,835 INFO  [AppLogger] Find Element Stareted on- //input[@src='/images/go.png'] 
+2017-06-19 17:30:38,894 INFO  [AppLogger] thread starts  
+2017-06-19 17:30:40,896 INFO  [AppLogger] thread starts  
+2017-06-19 17:30:42,898 INFO  [AppLogger] thread starts  
+2017-06-19 17:30:44,900 INFO  [AppLogger] thread starts  
+2017-06-19 17:30:46,902 INFO  [AppLogger] validateOrderNumber starts //div[@class='jl-styled-row-inner black-txt']/div[contains(@id,'job_')]/div[@class='order-no-col lalign order-no-font findTrackNo'] 
+2017-06-19 17:30:46,903 INFO  [AppLogger] Find Element Stareted on- //div[@class='jl-styled-row-inner black-txt']/div[contains(@id,'job_')]/div[@class='order-no-col lalign order-no-font findTrackNo'] 
+2017-06-19 17:30:46,965 INFO  [AppLogger] Displayed content mathches with your input:testautomation196 
+2017-06-19 17:30:46,966 INFO  [AppLogger] validateOrderNumber starts //div[@class='status color7']/div[@class='mm-msg'] 
+2017-06-19 17:30:46,967 INFO  [AppLogger] Find Element Stareted on- //div[@class='status color7']/div[@class='mm-msg'] 
+2017-06-19 17:30:47,043 INFO  [AppLogger] Displayed content mathches with your input:Ready for Proof 
+2017-06-19 17:30:47,044 INFO  [AppLogger] Click Operation started on ://div[@class='actions-col sm']/div[contains(@id,"actionMenu_")] 
+2017-06-19 17:30:47,045 INFO  [AppLogger] Find Element Stareted on- //div[@class='actions-col sm']/div[contains(@id,"actionMenu_")] 
+2017-06-19 17:30:47,110 INFO  [AppLogger] Click Operation started on ://div[@id='popup']/ul/li/a[text()='Revise'] 
+2017-06-19 17:30:47,111 INFO  [AppLogger] Find Element Stareted on- //div[@id='popup']/ul/li/a[text()='Revise'] 
+2017-06-19 17:30:47,168 INFO  [AppLogger] thread starts  
+2017-06-19 17:30:49,170 INFO  [AppLogger] Click Operation started on :.//*[@id='ReviseForm']/div[1]/div[4]/div/div/div[1]/div/div[1]/span 
+2017-06-19 17:30:49,171 INFO  [AppLogger] Find Element Stareted on- .//*[@id='ReviseForm']/div[1]/div[4]/div/div/div[1]/div/div[1]/span 
+2017-06-19 17:30:52,311 INFO  [AppLogger] thread starts  
+2017-06-19 17:30:54,314 INFO  [AppLogger] Click Operation started on :.//*[@id='dlv_type_selected'] 
+2017-06-19 17:30:54,315 INFO  [AppLogger] Find Element Stareted on- .//*[@id='dlv_type_selected'] 
+2017-06-19 17:30:54,399 INFO  [AppLogger] thread starts  
+2017-06-19 17:30:56,401 INFO  [AppLogger] Click Operation started on :.//*[@id='selectdlv']/div[2]/ul/li[4] 
+2017-06-19 17:30:56,403 INFO  [AppLogger] Find Element Stareted on- .//*[@id='selectdlv']/div[2]/ul/li[4] 
+2017-06-19 17:30:56,477 INFO  [AppLogger] thread starts  
+2017-06-19 17:30:58,478 INFO  [AppLogger] Send Keys Operation started on rev_desc 
+2017-06-19 17:30:58,480 INFO  [AppLogger] Find Element Stareted on- rev_desc 
+2017-06-19 17:30:58,552 INFO  [AppLogger] Click Operation started on :.//*[@id='ordercomponents_rev']/form/a/div/span 
+2017-06-19 17:30:58,552 INFO  [AppLogger] Find Element Stareted on- .//*[@id='ordercomponents_rev']/form/a/div/span 
+2017-06-19 17:30:58,624 INFO  [AppLogger] thread starts  
+2017-06-19 17:31:05,629 INFO  [AppLogger] thread starts  
+2017-06-19 17:31:07,631 INFO  [AppLogger] Click Operation started on :reviseSubmit 
+2017-06-19 17:31:07,632 INFO  [AppLogger] Find Element Stareted on- reviseSubmit 
+2017-06-19 17:31:07,712 INFO  [AppLogger] thread starts  
+2017-06-19 17:31:09,747 INFO  [AppLogger] ###################################### 
+2017-06-19 17:31:09,747 INFO  [AppLogger] FC003 Status :: pass 
+2017-06-19 17:31:09,747 INFO  [AppLogger] ###################################### 
+2017-06-19 17:31:16,082 INFO  [AppLogger] thread starts  
+2017-06-19 17:31:26,085 INFO  [AppLogger] thread starts  
+2017-06-19 17:31:28,127 INFO  [AppLogger] thread starts  
+2017-06-19 17:31:30,129 INFO  [AppLogger] thread starts  
+2017-06-19 17:31:32,131 INFO  [AppLogger] thread starts  
+2017-06-19 17:31:34,134 INFO  [AppLogger] Click Operation started on :.//*[@id='reset-button']/span 
+2017-06-19 17:31:34,135 INFO  [AppLogger] Find Element Stareted on- .//*[@id='reset-button']/span 
+2017-06-19 17:31:34,221 INFO  [AppLogger] thread starts  
+2017-06-19 17:31:36,223 INFO  [AppLogger] thread starts  
+2017-06-19 17:31:38,225 INFO  [AppLogger] Send Keys Operation started on order_number 
+2017-06-19 17:31:38,232 INFO  [AppLogger] Find Element Stareted on- order_number 
+2017-06-19 17:31:38,361 INFO  [AppLogger] thread starts  
+2017-06-19 17:31:40,363 INFO  [AppLogger] thread starts  
+2017-06-19 17:31:42,365 INFO  [AppLogger] Click Operation started on ://input[@src="/images/go.png"] 
+2017-06-19 17:31:42,367 INFO  [AppLogger] Find Element Stareted on- //input[@src="/images/go.png"] 
+2017-06-19 17:31:42,453 INFO  [AppLogger] Waiting for page and its elements to be loaded completely 
+2017-06-19 17:31:45,489 INFO  [AppLogger] Click Operation started on ://div[@class='jl-styled-row-inner black-txt']/div[contains(@id,'job_')]/div[8] 
+2017-06-19 17:31:45,492 INFO  [AppLogger] Find Element Stareted on- //div[@class='jl-styled-row-inner black-txt']/div[contains(@id,'job_')]/div[8] 
+2017-06-19 17:31:45,577 INFO  [AppLogger] Waiting for page and its elements to be loaded completely 
+2017-06-19 17:31:51,635 INFO  [AppLogger] Click Operation started on ://span[text()='Manage'] 
+2017-06-19 17:31:51,636 INFO  [AppLogger] Find Element Stareted on- //span[text()='Manage'] 
+2017-06-19 17:31:51,700 INFO  [AppLogger] Waiting for page and its elements to be loaded completely 
+2017-06-19 17:31:51,707 INFO  [AppLogger] Click Operation started on :.//*[@id='proddlv']/div[1] 
+2017-06-19 17:31:51,708 INFO  [AppLogger] Find Element Stareted on- .//*[@id='proddlv']/div[1] 
+2017-06-19 17:31:51,784 INFO  [AppLogger] Click Operation started on :.//*[@id='prod_next_status']/option[3] 
+2017-06-19 17:31:51,785 INFO  [AppLogger] Find Element Stareted on- .//*[@id='prod_next_status']/option[3] 
+2017-06-19 17:31:51,834 INFO  [AppLogger] Send Keys Operation started on prod_desc 
+2017-06-19 17:31:51,835 INFO  [AppLogger] Find Element Stareted on- prod_desc 
+2017-06-19 17:31:51,888 INFO  [AppLogger] Click Operation started on :upload_submit 
+2017-06-19 17:31:51,889 INFO  [AppLogger] Find Element Stareted on- upload_submit 
+2017-06-19 17:31:51,947 INFO  [AppLogger] Waiting for page and its elements to be loaded completely 
+2017-06-19 17:31:56,493 INFO  [AppLogger] Click Operation started on :.//*[@id='proddlv']/div[1] 
+2017-06-19 17:31:56,495 INFO  [AppLogger] Find Element Stareted on- .//*[@id='proddlv']/div[1] 
+2017-06-19 17:31:56,564 INFO  [AppLogger] thread starts  
+2017-06-19 17:31:58,566 INFO  [AppLogger] clickByAction starts //select[@id='prod_next_status']/option[2] 
+2017-06-19 17:31:58,567 INFO  [AppLogger] Find Element Stareted on- //select[@id='prod_next_status']/option[2] 
+2017-06-19 17:31:58,641 INFO  [AppLogger] thread starts  
+2017-06-19 17:32:00,643 INFO  [AppLogger] Click Operation started on ://div[text()='ad complexity'] 
+2017-06-19 17:32:00,644 INFO  [AppLogger] Find Element Stareted on- //div[text()='ad complexity'] 
+2017-06-19 17:32:00,717 INFO  [AppLogger] thread starts  
+2017-06-19 17:32:02,719 INFO  [AppLogger] clickByAction starts .//*[@id='ad_complexity']/option[2] 
+2017-06-19 17:32:02,721 INFO  [AppLogger] Find Element Stareted on- .//*[@id='ad_complexity']/option[2] 
+2017-06-19 17:32:02,790 INFO  [AppLogger] Send Keys Operation started on prod_desc 
+2017-06-19 17:32:02,792 INFO  [AppLogger] Find Element Stareted on- prod_desc 
+2017-06-19 17:32:02,843 INFO  [AppLogger] thread starts  
+2017-06-19 17:32:04,845 INFO  [AppLogger] Click Operation started on :.//*[@id='outputfilesform']/a/div/span 
+2017-06-19 17:32:04,846 INFO  [AppLogger] Find Element Stareted on- .//*[@id='outputfilesform']/a/div/span 
+2017-06-19 17:32:09,928 INFO  [AppLogger] thread starts  
+2017-06-19 17:32:11,930 INFO  [AppLogger] Click Operation started on :upload_submit 
+2017-06-19 17:32:11,932 INFO  [AppLogger] Find Element Stareted on- upload_submit 
+2017-06-19 17:32:12,039 INFO  [AppLogger] ###################################### 
+2017-06-19 17:32:12,039 INFO  [AppLogger] FC004 Status :: pass 
+2017-06-19 17:32:12,039 INFO  [AppLogger] ###################################### 
+2017-06-19 17:32:18,363 INFO  [AppLogger] thread starts  
+2017-06-19 17:32:28,364 INFO  [AppLogger] thread starts  
+2017-06-19 17:32:30,401 INFO  [AppLogger] thread starts  
+2017-06-19 17:32:32,402 INFO  [AppLogger] thread starts  
+2017-06-19 17:32:34,404 INFO  [AppLogger] Click Operation started on ://input[@src='/images/go.png'] 
+2017-06-19 17:32:34,406 INFO  [AppLogger] Find Element Stareted on- //input[@src='/images/go.png'] 
+2017-06-19 17:32:34,500 INFO  [AppLogger] thread starts  
+2017-06-19 17:32:36,501 INFO  [AppLogger] thread starts  
+2017-06-19 17:32:38,503 INFO  [AppLogger] thread starts  
+2017-06-19 17:32:40,504 INFO  [AppLogger] thread starts  
+2017-06-19 17:32:42,506 INFO  [AppLogger] validateOrderNumber starts //div[@class='jl-styled-row-inner black-txt']/div[contains(@id,'job_')]/div[@class='order-no-col lalign order-no-font findTrackNo RevCount'] 
+2017-06-19 17:32:42,508 INFO  [AppLogger] Find Element Stareted on- //div[@class='jl-styled-row-inner black-txt']/div[contains(@id,'job_')]/div[@class='order-no-col lalign order-no-font findTrackNo RevCount'] 
+2017-06-19 17:32:42,574 INFO  [AppLogger] Displayed content mathches with your input:testautomation196 
+2017-06-19 17:32:42,575 INFO  [AppLogger] validateOrderNumber starts //div[@class='status color7']/div[@class='mm-msg'] 
+2017-06-19 17:32:42,576 INFO  [AppLogger] Find Element Stareted on- //div[@class='status color7']/div[@class='mm-msg'] 
+2017-06-19 17:32:42,625 INFO  [AppLogger] Displayed content mathches with your input:Ready for Proof (1) 
+2017-06-19 17:32:42,630 INFO  [AppLogger] Click Operation started on ://div[@class='actions-col sm']/div[contains(@id,"actionMenu_")] 
+2017-06-19 17:32:42,631 INFO  [AppLogger] Find Element Stareted on- //div[@class='actions-col sm']/div[contains(@id,"actionMenu_")] 
+2017-06-19 17:32:42,704 INFO  [AppLogger] Click Operation started on ://div[@id='popup']/ul/li/a[text()='Revise'] 
+2017-06-19 17:32:42,705 INFO  [AppLogger] Find Element Stareted on- //div[@id='popup']/ul/li/a[text()='Revise'] 
+2017-06-19 17:32:42,759 INFO  [AppLogger] thread starts  
+2017-06-19 17:32:44,760 INFO  [AppLogger] Click Operation started on :.//*[@id='ReviseForm']/div[1]/div[4]/div/div/div[1]/div/div[1]/span 
+2017-06-19 17:32:44,761 INFO  [AppLogger] Find Element Stareted on- .//*[@id='ReviseForm']/div[1]/div[4]/div/div/div[1]/div/div[1]/span 
+2017-06-19 17:32:46,255 INFO  [AppLogger] thread starts  
+2017-06-19 17:32:48,256 INFO  [AppLogger] Click Operation started on :.//*[@id='dlv_type_selected'] 
+2017-06-19 17:32:48,258 INFO  [AppLogger] Find Element Stareted on- .//*[@id='dlv_type_selected'] 
+2017-06-19 17:32:48,348 INFO  [AppLogger] thread starts  
+2017-06-19 17:32:50,350 INFO  [AppLogger] Click Operation started on :.//*[@id='selectdlv']/div[2]/ul/li[4] 
+2017-06-19 17:32:50,352 INFO  [AppLogger] Find Element Stareted on- .//*[@id='selectdlv']/div[2]/ul/li[4] 
+2017-06-19 17:32:50,423 INFO  [AppLogger] thread starts  
+2017-06-19 17:32:52,424 INFO  [AppLogger] Send Keys Operation started on rev_desc 
+2017-06-19 17:32:52,426 INFO  [AppLogger] Find Element Stareted on- rev_desc 
+2017-06-19 17:32:52,499 INFO  [AppLogger] Click Operation started on :.//*[@id='ordercomponents_rev']/form/a/div/span 
+2017-06-19 17:32:52,500 INFO  [AppLogger] Find Element Stareted on- .//*[@id='ordercomponents_rev']/form/a/div/span 
+2017-06-19 17:32:52,553 INFO  [AppLogger] thread starts  
+2017-06-19 17:32:59,558 INFO  [AppLogger] thread starts  
+2017-06-19 17:33:01,560 INFO  [AppLogger] Click Operation started on :reviseSubmit 
+2017-06-19 17:33:01,561 INFO  [AppLogger] Find Element Stareted on- reviseSubmit 
+2017-06-19 17:33:01,641 INFO  [AppLogger] thread starts  
+2017-06-19 17:33:03,680 INFO  [AppLogger] ###################################### 
+2017-06-19 17:33:03,680 INFO  [AppLogger] FC005 Status :: pass 
+2017-06-19 17:33:03,680 INFO  [AppLogger] ###################################### 
+2017-06-19 17:33:09,993 INFO  [AppLogger] thread starts  
+2017-06-19 17:33:19,995 INFO  [AppLogger] thread starts  
+2017-06-19 17:33:22,036 INFO  [AppLogger] thread starts  
+2017-06-19 17:33:24,037 INFO  [AppLogger] thread starts  
+2017-06-19 17:33:26,039 INFO  [AppLogger] thread starts  
+2017-06-19 17:33:28,041 INFO  [AppLogger] Click Operation started on :.//*[@id='reset-button']/span 
+2017-06-19 17:33:28,043 INFO  [AppLogger] Find Element Stareted on- .//*[@id='reset-button']/span 
+2017-06-19 17:33:28,143 INFO  [AppLogger] thread starts  
+2017-06-19 17:33:30,145 INFO  [AppLogger] thread starts  
+2017-06-19 17:33:32,145 INFO  [AppLogger] Send Keys Operation started on order_number 
+2017-06-19 17:33:32,146 INFO  [AppLogger] Find Element Stareted on- order_number 
+2017-06-19 17:33:32,270 INFO  [AppLogger] thread starts  
+2017-06-19 17:33:34,271 INFO  [AppLogger] thread starts  
+2017-06-19 17:33:36,272 INFO  [AppLogger] Click Operation started on ://input[@src="/images/go.png"] 
+2017-06-19 17:33:36,272 INFO  [AppLogger] Find Element Stareted on- //input[@src="/images/go.png"] 
+2017-06-19 17:33:36,347 INFO  [AppLogger] Waiting for page and its elements to be loaded completely 
+2017-06-19 17:33:39,378 INFO  [AppLogger] validateOrderNumber starts //div[@class='jl-styled-row-inner black-txt']/div[contains(@id,'job_')]/div[@class='order-no-col lalign order-no-font RevCount'] 
+2017-06-19 17:33:39,379 INFO  [AppLogger] Find Element Stareted on- //div[@class='jl-styled-row-inner black-txt']/div[contains(@id,'job_')]/div[@class='order-no-col lalign order-no-font RevCount'] 
+2017-06-19 17:33:39,435 INFO  [AppLogger] Displayed content mathches with your input:testautomation196 
+2017-06-19 17:33:39,436 INFO  [AppLogger] Click Operation started on ://div[@class='jl-styled-row-inner black-txt']/div[contains(@id,'job_')]/div[8] 
+2017-06-19 17:33:39,437 INFO  [AppLogger] Find Element Stareted on- //div[@class='jl-styled-row-inner black-txt']/div[contains(@id,'job_')]/div[8] 
+2017-06-19 17:33:39,570 INFO  [AppLogger] Waiting for page and its elements to be loaded completely 
+2017-06-19 17:33:45,620 INFO  [AppLogger] Click Operation started on ://span[text()='Manage'] 
+2017-06-19 17:33:45,621 INFO  [AppLogger] Find Element Stareted on- //span[text()='Manage'] 
+2017-06-19 17:33:45,690 INFO  [AppLogger] Waiting for page and its elements to be loaded completely 
+2017-06-19 17:33:45,710 INFO  [AppLogger] Click Operation started on :.//*[@id='proddlv']/div[1] 
+2017-06-19 17:33:45,711 INFO  [AppLogger] Find Element Stareted on- .//*[@id='proddlv']/div[1] 
+2017-06-19 17:33:45,775 INFO  [AppLogger] Click Operation started on :.//*[@id='prod_next_status']/option[3] 
+2017-06-19 17:33:45,776 INFO  [AppLogger] Find Element Stareted on- .//*[@id='prod_next_status']/option[3] 
+2017-06-19 17:33:45,850 INFO  [AppLogger] Send Keys Operation started on prod_desc 
+2017-06-19 17:33:45,850 INFO  [AppLogger] Find Element Stareted on- prod_desc 
+2017-06-19 17:33:45,920 INFO  [AppLogger] Click Operation started on :upload_submit 
+2017-06-19 17:33:45,921 INFO  [AppLogger] Find Element Stareted on- upload_submit 
+2017-06-19 17:33:45,988 INFO  [AppLogger] thread starts  
+2017-06-19 17:33:47,990 INFO  [AppLogger] thread starts  
+2017-06-19 17:33:49,992 INFO  [AppLogger] Click Operation started on :.//*[@id='content-orderss-container']/div[22]/div[1]/div/span[3]/img 
+2017-06-19 17:33:49,993 INFO  [AppLogger] Find Element Stareted on- .//*[@id='content-orderss-container']/div[22]/div[1]/div/span[3]/img 
+2017-06-19 17:33:50,077 INFO  [AppLogger] thread starts  
+2017-06-19 17:33:52,077 INFO  [AppLogger] Click Operation started on ://span[text()='Current Revision'] 
+2017-06-19 17:33:52,078 INFO  [AppLogger] Find Element Stareted on- //span[text()='Current Revision'] 
+2017-06-19 17:33:52,162 INFO  [AppLogger] Send Keys Operation started on reasonforcancel 
+2017-06-19 17:33:52,163 INFO  [AppLogger] Find Element Stareted on- reasonforcancel 
+2017-06-19 17:33:52,238 INFO  [AppLogger] Click Operation started on :.//*[@id='cancel_submit']/span 
+2017-06-19 17:33:52,239 INFO  [AppLogger] Find Element Stareted on- .//*[@id='cancel_submit']/span 
+2017-06-19 17:33:52,327 INFO  [AppLogger] Click Operation started on :.//*[@id='content-orderss-container']/div[24]/div[1]/div/span[3]/img 
+2017-06-19 17:33:52,329 INFO  [AppLogger] Find Element Stareted on- .//*[@id='content-orderss-container']/div[24]/div[1]/div/span[3]/img 
+2017-06-19 17:33:52,410 INFO  [AppLogger] ###################################### 
+2017-06-19 17:33:52,410 INFO  [AppLogger] FC006 Status :: pass 
+2017-06-19 17:33:52,410 INFO  [AppLogger] ###################################### 
+2017-06-19 17:33:58,817 INFO  [AppLogger] thread starts  
+2017-06-19 17:34:08,820 INFO  [AppLogger] thread starts  
+2017-06-19 17:34:10,878 INFO  [AppLogger] thread starts  
+2017-06-19 17:34:12,879 INFO  [AppLogger] thread starts  
+2017-06-19 17:34:14,881 INFO  [AppLogger] thread starts  
+2017-06-19 17:34:16,883 INFO  [AppLogger] thread starts  
+2017-06-19 17:34:18,885 INFO  [AppLogger] thread starts  
+2017-06-19 17:34:20,886 INFO  [AppLogger] Click Operation started on ://input[@src='/images/go.png'] 
+2017-06-19 17:34:20,887 INFO  [AppLogger] Find Element Stareted on- //input[@src='/images/go.png'] 
+2017-06-19 17:34:20,961 INFO  [AppLogger] thread starts  
+2017-06-19 17:34:22,964 INFO  [AppLogger] thread starts  
+2017-06-19 17:34:24,964 INFO  [AppLogger] thread starts  
+2017-06-19 17:34:26,966 INFO  [AppLogger] thread starts  
+2017-06-19 17:34:28,968 INFO  [AppLogger] thread starts  
+2017-06-19 17:34:30,969 INFO  [AppLogger] validateOrderNumber starts //div[@class='jl-styled-row-inner black-txt']/div[contains(@id,'job_')]/div[@class='order-no-col lalign order-no-font findTrackNo RevCount'] 
+2017-06-19 17:34:30,971 INFO  [AppLogger] Find Element Stareted on- //div[@class='jl-styled-row-inner black-txt']/div[contains(@id,'job_')]/div[@class='order-no-col lalign order-no-font findTrackNo RevCount'] 
+2017-06-19 17:34:31,032 INFO  [AppLogger] Displayed content mathches with your input:testautomation196 
+2017-06-19 17:34:31,033 INFO  [AppLogger] validateOrderNumber starts //div[@class='status color7']/div[@class='mm-msg'] 
+2017-06-19 17:34:31,034 INFO  [AppLogger] Find Element Stareted on- //div[@class='status color7']/div[@class='mm-msg'] 
+2017-06-19 17:34:31,068 INFO  [AppLogger] Displayed content mathches with your input:Ready for Proof (1) 
+2017-06-19 17:34:31,069 INFO  [AppLogger] Click Operation started on ://div[@class='actions-col sm']/div[contains(@id,"actionMenu_")] 
+2017-06-19 17:34:31,070 INFO  [AppLogger] Find Element Stareted on- //div[@class='actions-col sm']/div[contains(@id,"actionMenu_")] 
+2017-06-19 17:34:31,128 INFO  [AppLogger] thread starts  
+2017-06-19 17:34:33,129 INFO  [AppLogger] Click Operation started on ://div[@id='popup']/ul/li[1]/a/img 
+2017-06-19 17:34:33,130 INFO  [AppLogger] Find Element Stareted on- //div[@id='popup']/ul/li[1]/a/img 
+2017-06-19 17:34:33,203 INFO  [AppLogger] thread starts  
+2017-06-19 17:34:35,204 INFO  [AppLogger] thread starts  
+2017-06-19 17:34:37,207 INFO  [AppLogger] thread starts  
+2017-06-19 17:34:39,208 INFO  [AppLogger] thread starts  
+2017-06-19 17:34:41,209 INFO  [AppLogger] thread starts  
+2017-06-19 17:34:43,210 INFO  [AppLogger] clickByAction starts //div[@id='msgbox_text']/div[@id='acceptOrderDialog']/form[@id='actionMenuAccept']/div[5]/div[2]/div[1]/a[@id='submit_form']/span[text()='Accept'] 
+2017-06-19 17:34:43,211 INFO  [AppLogger] Find Element Stareted on- //div[@id='msgbox_text']/div[@id='acceptOrderDialog']/form[@id='actionMenuAccept']/div[5]/div[2]/div[1]/a[@id='submit_form']/span[text()='Accept'] 
+2017-06-19 17:34:43,280 INFO  [AppLogger] thread starts  
+2017-06-19 17:34:45,335 INFO  [AppLogger] ###################################### 
+2017-06-19 17:34:45,335 INFO  [AppLogger] FC007 Status :: pass 
+2017-06-19 17:34:45,335 INFO  [AppLogger] ###################################### 

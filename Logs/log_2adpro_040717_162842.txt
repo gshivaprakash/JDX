@@ -1,0 +1,18 @@
+2017-04-07 16:28:42,573 INFO  [AppLogger] Executing testcase on OS:-windows 7 
+2017-04-07 16:28:42,573 INFO  [AppLogger] Current host name :-ADPRO-001735 
+2017-04-07 16:28:42,573 INFO  [AppLogger] Current IP address :-192.168.0.206 
+2017-04-07 16:28:42,573 INFO  [AppLogger] Operating system type :-amd64 
+2017-04-07 16:28:42,573 INFO  [AppLogger] Operating system version :-6.1 
+2017-04-07 16:28:42,573 INFO  [AppLogger] Operating system Info :-Intel64 Family 6 Model 58 Stepping 9, GenuineIntel 
+2017-04-07 16:28:45,100 INFO  [AppLogger] chromeBrowser Opened 
+2017-04-07 16:28:50,326 INFO  [AppLogger] Page Opened for the url https://qc-unipaper.2adpro.com/index/login 
+2017-04-07 16:28:52,540 INFO  [AppLogger] Send Keys Operation started on username 
+2017-04-07 16:28:52,540 INFO  [AppLogger] Find Element Stareted on- username 
+2017-04-07 16:28:52,596 INFO  [AppLogger] Send Keys Operation started on password 
+2017-04-07 16:28:52,598 INFO  [AppLogger] Find Element Stareted on- password 
+2017-04-07 16:28:52,619 INFO  [AppLogger] Exception in Send Keys to element: password
+null 
+2017-04-07 16:28:52,718 INFO  [AppLogger] takeScreenShot Stareted on- JD 
+2017-04-07 16:28:52,953 INFO  [AppLogger] ###################################### 
+2017-04-07 16:28:52,953 INFO  [AppLogger] FC016 Status :: automationfail 
+2017-04-07 16:28:52,953 INFO  [AppLogger] ###################################### 

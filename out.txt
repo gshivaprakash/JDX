@@ -1,0 +1,18 @@
+Redirecting output & exceptions to file
+java.lang.Exception: Test Exception
+	at ad2pro.fw.utils.SeleniumHelper.console(SeleniumHelper.java:852)
+	at com.java.common.reporting.TemplateGenerator.writeDetailFile(TemplateGenerator.java:357)
+	at com.java.common.reporting.TemplateGenerator.buildTemplate(TemplateGenerator.java:101)
+	at com.java.common.reporting.ReportUtils.fGenerateHTMLReport(ReportUtils.java:137)
+	at com.java.common.reporting.DemoListener.onFinish(DemoListener.java:39)
+	at org.testng.SuiteRunner.invokeListeners(SuiteRunner.java:213)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:273)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1284)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1209)
+	at org.testng.TestNG.runSuites(TestNG.java:1124)
+	at org.testng.TestNG.run(TestNG.java:1096)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:236)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:81)
